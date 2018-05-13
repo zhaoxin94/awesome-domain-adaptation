@@ -1,3 +1,3 @@
 # awsome-domain-adaptation
 
-collecting awsome things about domian adaptation,including papers,code etc.
+This repo is a collection of AWESOME things about domian adaptation,including papers,code etc.Feel free to star and fork.
