@@ -9,7 +9,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - [Image-to-Image Translation](#Image-to-Image Translation)
 - [Other Methods](#Other Methods)
 - [Open Set DA](#Open Set DA)
-- [Multi-source DA](Multi-source DA)
+- [Multi-source DA](#Multi-source DA)
 - [Applications](#Applications)
 
 ## Overview
