@@ -3,14 +3,14 @@
 This repo is a collection of AWESOME things about domian adaptation,including papers,code etc.Feel free to star and fork.
 
 ## Contents
-- [Overview](#Overview)
-- [Adversarial DA](#Adversarial-DA)
-- [Network DA](#Network-DA)
-- [Image-to-Image Translation](#Image-to-Image-Translation)
-- [Other Methods](#Other-Methods)
-- [Open Set DA](#Open-Set-DA)
-- [Multi-source DA](#Multi-source-DA)
-- [Applications](#Applications)
+- [Overview](#overview)
+- [Adversarial DA](#adversarial-da)
+- [Network DA](#network-da)
+- [Image-to-Image Translation](#image-to-image-translation)
+- [Other Methods](#other-methods)
+- [Open Set DA](#open-set-da)
+- [Multi-source DA](#multi-source-da)
+- [Applications](#applications)
 
 ## Overview
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601)
@@ -58,7 +58,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Unsupervised Domain Adaptation with Distribution Matching Machines [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/distribution-matching-machines-aaai18.pdf)
 - Self-Ensembling for Visual Domain Adaptation [[ICLR2018 Poster]](https://openreview.net/forum?id=rkpoTaxA-)
 
-## Open-Set-DA
+## Open Set DA
 - Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
