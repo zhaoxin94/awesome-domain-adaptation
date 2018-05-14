@@ -6,7 +6,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Overview
 - Deep Visual Domain Adaptation: A Survey [[arXiv]](https://arxiv.org/abs/1802.03601)
  
-## Adversarial Learning 
+## Adversarial DA
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](https://www.researchgate.net/profile/Haoliang_Li5/publication/324691022_Domain_Generalization_with_Adversarial_Feature_Learning/links/5add5329458515c60f5f3187/Domain-Generalization-with-Adversarial-Feature-Learning.pdf)
 - Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.08561) [[TensorFlow(Official)]](https://github.com/ricvolpi/adversarial-feature-augmentation)
 - Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388)
