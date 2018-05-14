@@ -4,12 +4,12 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Contents
 - [Overview](#overview)
-- [Adversarial DA](#adversarial da)
-- [Network DA](#network da)
-- [Image-to-Image Translation](#image-to-image translation)
-- [Other Methods](#other methods)
-- [Open Set DA](#open set da)
-- [Multi-source DA](#multi source da)
+- [Adversarial DA](#adversarial-da)
+- [Network DA](#network-da)
+- [Image-to-Image Translation](#image-to-image-translation)
+- [Other Methods](#other-methods)
+- [Open Set DA](#open-set-da)
+- [Multi-source DA](#multi-source-da)
 - [Applications](#applications)
 
 ## Overview
