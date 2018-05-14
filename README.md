@@ -4,12 +4,12 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Contents
 - [Overview](#overview)
-- [Adversarial DA](#adversarial-da)
-- [Network DA](#network-da)
-- [Image-to-Image Translation](#image-to-image-translation)
-- [Other Methods](#other-methods)
-- [Open Set DA](#open-set-da)
-- [Multi-source DA](#multi-source-da)
+- [Adversarial DA](#adversarial da)
+- [Network DA](#network da)
+- [Image-to-Image Translation](#image-to-image translation)
+- [Other Methods](#other methods)
+- [Open Set DA](#open set da)
+- [Multi-source DA](#multi source da)
 - [Applications](#applications)
 
 ## Overview
@@ -54,7 +54,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Coupled Generative Adversarial Networks [[NIPS2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Poytorch(Official)]](https://github.com/mingyuliutw/cogan)
 - Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[ICML2017]](https://arxiv.org/abs/1703.05192) [[Pytorch(Official)]](https://github.com/SKTBrain/DiscoGAN)
 
-## Other-Methods
+## Other Methods
 - Unsupervised Domain Adaptation with Distribution Matching Machines [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/distribution-matching-machines-aaai18.pdf)
 - Self-Ensembling for Visual Domain Adaptation [[ICLR2018 Poster]](https://openreview.net/forum?id=rkpoTaxA-)
 
@@ -62,7 +62,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
-## Multi-source-DA
+## Multi source DA
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830)
 
 ## Applications
