@@ -29,9 +29,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1704.01705) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
 - Image to Image Translation for Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.00479)
 - Unsupervised Domain Adaptation with Similarity Learning [[CVPR2018]](https://arxiv.org/abs/1711.08995)
-- Conditional Generative Adversarial Network for Structured Domain Adaptation [Not released]
-- 	Collaborative and Adversarial Network for Unsupervised Domain Adaptation [Not released]
-- 	Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [Not released]
+- Conditional Generative Adversarial Network for Structured Domain Adaptation [CVPR2018 Not released]
+- 	Collaborative and Adversarial Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
+- 	Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
 - Multi-Adversarial Domain Adaptation [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) [[Caffe(Official)]](https://github.com/thuml/MADA)
 - Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217)
 - A DIRT-T Approach to Unsupervised Domain Adaptation [[ICLR2018 Poster]](https://openreview.net/forum?id=H1q-TM-AW) [[Tensorflow(Official)]](https://github.com/RuiShu/dirt-t)
