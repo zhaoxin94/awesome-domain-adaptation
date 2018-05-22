@@ -4,6 +4,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Contents
 - [Overview](#overview)
+- [Theory](#theory)
 - [Adversarial DA](#adversarial-da)
 - [Network DA](#network-da)
 - [Image-to-Image Translation](#image-to-image-translation)
@@ -15,6 +16,11 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Overview
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601)
 - Domain Adaptation for Visual Applications: A Comprehensive Survey  [[arXiv 2017]](https://arxiv.org/abs/1702.05374)
+
+## Theory
+- Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
+- A theory of learning from different domains [[ML]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
+- Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
  
 ## Adversarial DA
 - Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
