@@ -19,7 +19,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Theory
 - Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
-- A theory of learning from different domains [[ML]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
+- A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
  
 ## Adversarial DA
