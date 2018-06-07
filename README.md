@@ -26,8 +26,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[arXiv  12 Apr 2018]](https://arxiv.org/abs/1804.04448)
 - Causal Generative Domain Adaptation Networks [[Arxiv 12 Apr 2018]](https://arxiv.org/abs/1804.04333)
+- Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Detach_and_Adapt_CVPR_2018_paper.pdf)
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
-- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](https://github.com/mil-tokyo/MCD_DA)
+- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](https://www.researchgate.net/profile/Haoliang_Li5/publication/324691022_Domain_Generalization_with_Adversarial_Feature_Learning/links/5add5329458515c60f5f3187/Domain-Generalization-with-Adversarial-Feature-Learning.pdf)
 - Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.08561) [[TensorFlow(Official)]](https://github.com/ricvolpi/adversarial-feature-augmentation)
 - Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388)
@@ -35,9 +36,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1704.01705) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
 - Image to Image Translation for Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.00479)
 - Unsupervised Domain Adaptation with Similarity Learning [[CVPR2018]](https://arxiv.org/abs/1711.08995)
-- Conditional Generative Adversarial Network for Structured Domain Adaptation [CVPR2018 Not released]
-- 	Collaborative and Adversarial Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
-- 	Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
+- Conditional Generative Adversarial Network for Structured Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf)
+- Collaborative and Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Collaborative_and_Adversarial_CVPR_2018_paper.pdf)
+- Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Re-Weighted_Adversarial_Adaptation_CVPR_2018_paper.pdf)
 - Multi-Adversarial Domain Adaptation [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) [[Caffe(Official)]](https://github.com/thuml/MADA)
 - Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217)
 - A DIRT-T Approach to Unsupervised Domain Adaptation [[ICLR2018 Poster]](https://openreview.net/forum?id=H1q-TM-AW) [[Tensorflow(Official)]](https://github.com/RuiShu/dirt-t)
@@ -86,4 +87,6 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
 - Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer [[CVPR2018]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
+- Learning From Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf)
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf)
