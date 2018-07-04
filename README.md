@@ -23,6 +23,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
  
 ## Adversarial DA
+- Augmented Cyclic Adversarial Learning for Domain Adaptation [[arXiv 1 Jul 2018]](https://arxiv.org/abs/1807.00374v1)
 - Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[arXiv  12 Apr 2018]](https://arxiv.org/abs/1804.04448)
 - Causal Generative Domain Adaptation Networks [[Arxiv 12 Apr 2018]](https://arxiv.org/abs/1804.04333)
