@@ -96,9 +96,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Partial DA
 - Partial Adversarial Domain Adaptation [[ECCV2018(not released)]]() [[Pytorch(Official)]](https://github.com/thuml/PADA)
-
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
-
 - Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388) [[Pytorch(Official) & Caffe(official)]](https://github.com/thuml/SAN)
 
 ## Multi source DA
