@@ -72,8 +72,6 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 - Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217) [[TensorFlow(official)]](https://github.com/RockySJ/WDGRL)
 
-- Incremental Adversarial Domain Adaptation for Continually Changing Environments [[ICRA2018]](https://arxiv.org/abs/1712.07436)
-
 - A DIRT-T Approach to Unsupervised Domain Adaptation [[ICLR2018 Poster]](https://openreview.net/forum?id=H1q-TM-AW) 
 [[Tensorflow(Official)]](https://github.com/RuiShu/dirt-t)
 
