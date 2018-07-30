@@ -83,6 +83,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ### Optimal Transport
 - DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [[ECCV2018]](https://arxiv.org/abs/1803.10081)
+- Joint Distribution Optimal Transportation for Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [[python]](https://github.com/rflamary/JDOT) [[Python Optimal Transport Library]](https://github.com/rflamary/POT)
 
 ### Incremental Methods
 - Incremental Adversarial Domain Adaptation for Continually Changing Environments [[ICRA2018]](https://arxiv.org/abs/1712.07436)
