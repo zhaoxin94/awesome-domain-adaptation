@@ -18,23 +18,26 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
   - [Open Set DA](#open-set-da)
   - [Partial DA](#partial-da)
   - [Multi-source DA](#multi-source-da)
-  - [General Transfer Learning](general-transfer-learning)
+  - [General Transfer Learning](#general-transfer-learning)
   - [Applications](#applications)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Person Re-Identification](#person-re-identification)
     - [Others](#others)
   - [Benchmarks](#benchmarks)
+- [Code](#code)
+- [Other Resources](#other-resources)
 
 # Papers
 ## Overview
+- A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
 - Domain Adaptation for Visual Applications: A Comprehensive Survey  [[arXiv 2017]](https://arxiv.org/abs/1702.05374)
 
 ## Theory
-- Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
+- Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
  
 ## Unsupervised DA
 ### Adversarial Methods
@@ -46,7 +49,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[arXiv  12 Apr 2018]](https://arxiv.org/abs/1804.04448)
 - Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/abs/1804.04333v3)
 - Conditional Adversarial Domain Adaptation [[arXiv 10 Feb 2018 ]](https://arxiv.org/abs/1705.10667)
-- Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization [[ECCV2018]](https://arxiv.org/abs/1801.10068)
+- Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization [[ECCV2018]](https://arxiv.org/abs/1801.10068v4)
 - Learning Semantic Representations for Unsupervised Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/xie18c.html) [[TensorFlow(Official)]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
 - CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Pytorch(official)]](https://github.com/jhoffman/cycada_release)
 - From source to target and back: Symmetric Bi-Directional Adaptive GAN [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Russo_From_Source_to_CVPR_2018_paper.pdf) [[Keras(Official)]](https://github.com/engharat/SBADAGAN) [[Pytorch]](https://github.com/naoto0804/pytorch-SBADA-GAN)
@@ -104,6 +107,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 
 ## Image-to-Image Translation
+- Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks [[ECCV2018]](https://arxiv.org/abs/1807.08536v2)
+- Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1)
+- Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1711.09554v3)
 - JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[ICML2018]](http://proceedings.mlr.press/v80/pu18a.html) [[TensorFlow(Official)]](https://github.com/sdai654416/Joint-GAN)
 - Multimodal Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1804.04732) [[Pytorch(Official)]](https://github.com/nvlabs/MUNIT)
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[CVPR2018]](https://arxiv.org/abs/1711.09020) [[Pytorch(Official)]](https://github.com/yunjey/StarGAN)
@@ -122,12 +128,14 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
 ## Partial DA
-- Partial Adversarial Domain Adaptation [[ECCV2018(not released)]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/partial-adversarial-domain-adaptation-eccv18.pdf) [[Pytorch(Official)]](https://github.com/thuml/PADA)
+- Partial Adversarial Domain Adaptation [[ECCV2018]](https://arxiv.org/abs/1808.04205v1) [[Pytorch(Official)]](https://github.com/thuml/PADA)
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
 - Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388) [[Pytorch(Official) & Caffe(official)]](https://github.com/thuml/SAN)
 
-## Multi source DA
+## Multi Source DA
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830)
+
+## General Transfer Learning
 
 ## Applications
 ### Object Detection
@@ -147,3 +155,10 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Benchmarks
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
+
+# Code
+- [Xlearn:Transfer Learning Library](https://github.com/thuml/Xlearn)
+- [deep-transfer-learning:a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
+
+# Other Resources
+- [transferlearning](https://github.com/jindongwang/transferlearning)
