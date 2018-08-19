@@ -107,11 +107,12 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 
 ## Image-to-Image Translation
+- Recycle-GAN: Unsupervised Video Retargeting [[ECCV2018]](https://arxiv.org/abs/1808.05174v1) [[Project]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)
 - Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks [[ECCV2018]](https://arxiv.org/abs/1807.08536v2)
 - Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1)
 - Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1711.09554v3)
+- Multimodal Unsupervised Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1804.04732) [[Pytorch(Official)]](https://github.com/nvlabs/MUNIT)
 - JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[ICML2018]](http://proceedings.mlr.press/v80/pu18a.html) [[TensorFlow(Official)]](https://github.com/sdai654416/Joint-GAN)
-- Multimodal Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1804.04732) [[Pytorch(Official)]](https://github.com/nvlabs/MUNIT)
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[CVPR2018]](https://arxiv.org/abs/1711.09020) [[Pytorch(Official)]](https://github.com/yunjey/StarGAN)
 - Conditional Image-to-Image Translation [[CVPR2018]](https://arxiv.org/abs/1805.00251v1)
 - Toward Multimodal Image-to-Image Translation [[NIPS2017]](https://arxiv.org/abs/1711.11586) [[Project]](https://junyanz.github.io/BicycleGAN/) [[Pyotorch(Official)]](https://github.com/junyanz/BicycleGAN)
