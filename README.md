@@ -17,7 +17,8 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
   - [Image-to-Image Translation](#image-to-image-translation)
   - [Open Set DA](#open-set-da)
   - [Partial DA](#partial-da)
-  - [Multi-source DA](#multi-source-da)
+  - [Multi Source DA](#multi-source-da)
+  - [Multi Step DA](#multi-step-da)
   - [General Transfer Learning](#general-transfer-learning)
   - [Applications](#applications)
     - [Object Detection](#object-detection)
@@ -32,7 +33,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Overview
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
+- Transfer Learning for Cross-Dataset Recognition: A Survey [[arXiv 2017]](https://sci-hub.tw/https://arxiv.org/abs/1705.04396)
 - Domain Adaptation for Visual Applications: A Comprehensive Survey  [[arXiv 2017]](https://arxiv.org/abs/1702.05374)
+- Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
 
 ## Theory
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
@@ -109,7 +112,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Image-to-Image Translation
 - Recycle-GAN: Unsupervised Video Retargeting [[ECCV2018]](https://arxiv.org/abs/1808.05174v1) [[Project]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)
 - Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks [[ECCV2018]](https://arxiv.org/abs/1807.08536v2)
-- Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1)
+- Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1) [[Pytorch(Official)]](https://github.com/HsinYingLee/DRIT/)
 - Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1711.09554v3)
 - Multimodal Unsupervised Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1804.04732) [[Pytorch(Official)]](https://github.com/nvlabs/MUNIT)
 - JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[ICML2018]](http://proceedings.mlr.press/v80/pu18a.html) [[TensorFlow(Official)]](https://github.com/sdai654416/Joint-GAN)
@@ -135,6 +138,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Multi Source DA
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830)
+
+## Multi Step DA
+- Distant domain transfer learning [[AAAI2017]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
 
 ## General Transfer Learning
 
