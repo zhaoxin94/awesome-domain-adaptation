@@ -110,6 +110,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 
 ## Image-to-Image Translation
+- Multi-view Adversarially Learned Inference for Cross-domain Joint Distribution Matching [[KDD2018]](http://www.kdd.org/kdd2018/accepted-papers/view/multi-view-adversarially-learned-inference-for-cross-domain-joint-distribut)
 - Recycle-GAN: Unsupervised Video Retargeting [[ECCV2018]](https://arxiv.org/abs/1808.05174v1) [[Project]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)
 - Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks [[ECCV2018]](https://arxiv.org/abs/1807.08536v2)
 - Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1) [[Pytorch(Official)]](https://github.com/HsinYingLee/DRIT/)
