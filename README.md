@@ -115,7 +115,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Multi-view Adversarially Learned Inference for Cross-domain Joint Distribution Matching [[KDD2018]](http://www.kdd.org/kdd2018/accepted-papers/view/multi-view-adversarially-learned-inference-for-cross-domain-joint-distribut)
 - Recycle-GAN: Unsupervised Video Retargeting [[ECCV2018]](https://arxiv.org/abs/1808.05174v1) [[Project]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)
 - Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks [[ECCV2018]](https://arxiv.org/abs/1807.08536v2)
-- Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1) [[Pytorch(Official)]](https://github.com/HsinYingLee/DRIT/)
+- Diverse Image-to-Image Translation via Disentangled Representations [[ECCV2018]](https://arxiv.org/abs/1808.00948v1) [[Pytorch(Official)]](https://github.com/HsinYingLee/DRIT/) [[Tensorflow]](https://github.com/taki0112/DRIT-Tensorflow)
 - Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1711.09554v3)
 - Multimodal Unsupervised Image-to-Image Translation [[ECCV2018]](https://arxiv.org/abs/1804.04732) [[Pytorch(Official)]](https://github.com/nvlabs/MUNIT)
 - JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[ICML2018]](http://proceedings.mlr.press/v80/pu18a.html) [[TensorFlow(Official)]](https://github.com/sdai654416/Joint-GAN)
