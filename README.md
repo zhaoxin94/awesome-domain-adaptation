@@ -45,6 +45,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv]])(https://arxiv.org/abs/1810.04472)
 - Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
 - M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/abs/1807.02552v1) [[Pytorch(official)]](https://github.com/IssamLaradji/M-ADDA)
 - Augmented Cyclic Adversarial Learning for Domain Adaptation [[arXiv 1 Jul 2018]](https://arxiv.org/abs/1807.00374v1)
@@ -157,6 +158,13 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ### Domain Generalization
 - Deep Domain Generalization via Conditional Invariant Adversarial Networks [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)
 
+### Meta-Learning
+Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.02334)
+
+### Transfer Metric Learning
+- Transfer Metric Learning: Algorithms, Applications and Outlooks [[arXiv]](https://arxiv.org/abs/1810.03944)
+
+
 ## Applications
 ### Object Detection
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
@@ -179,9 +187,10 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Benchmarks
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
 
-# Code
+# Library
 - [Xlearn:Transfer Learning Library](https://github.com/thuml/Xlearn)
 - [deep-transfer-learning:a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
+- [salad:a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 
 # Other Resources
 - [transferlearning](https://github.com/jindongwang/transferlearning)
