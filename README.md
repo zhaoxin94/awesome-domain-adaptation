@@ -18,6 +18,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
   - [Open Set DA](#open-set-da)
   - [Partial DA](#partial-da)
   - [Multi Source DA](#multi-source-da)
+  - [Muti Target DA](#multi-target-da)
   - [Multi Step DA](#multi-step-da)
   - [General Transfer Learning](#general-transfer-learning)
     - [Domain Generalization](#domain-generalization)
@@ -150,6 +151,10 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## Multi Source DA
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830)
+
+## Multi Target DA
+- Unsupervised Multi-Target Domain Adaptation: An Information Theoretic Approach [[arXiv]](https://arxiv.org/abs/1810.11547v1)
+
 
 ## Multi Step DA
 - Distant domain transfer learning [[AAAI2017]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
