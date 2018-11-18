@@ -47,7 +47,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Unsupervised DA
 ### Adversarial Methods
 - Exploiting Local Feature Patterns for Unsupervised Domain Adaptation [[AAAI2019]](https://arxiv.org/abs/1811.05042v1)
-- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv]](https://arxiv.org/abs/1810.04472)
+- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
 - Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
 - M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/abs/1807.02552v1) [[Pytorch(official)]](https://github.com/IssamLaradji/M-ADDA)
 - Augmented Cyclic Adversarial Learning for Domain Adaptation [[arXiv 1 Jul 2018]](https://arxiv.org/abs/1807.00374v1)
