@@ -12,6 +12,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
     - [Optimal Transport](#optimal-transport)
     - [Incremental Methods](#incremental-mehtods)
     - [Other Methods](#other-methods)
+  - [Weakly-Supervised DA](#weakly-supervised-da)
   - [Zero-shot DA](#zero-shot-da)
   - [One-shot DA](#one-shot-da)
   - [Few-shot DA](#few-shot-da)
@@ -94,7 +95,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Unsupervised Domain Adaptation by Backpropagation [[ICML2015]](http://proceedings.mlr.press/v37/ganin15.pdf) [[Caffe(Official)]](https://github.com/ddtm/caffe/tree/grl) [[Tensorflow]](https://github.com/shucunt/domain_adaptation) [[Pytorch]](https://github.com/fungtion/DANN)
 
 ### Network Methods
-- Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation [[Arxiv 28 Aug 2018]](https://arxiv.org/abs/1808.09347v2)
+- Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation [[AAAI2019]](https://arxiv.org/abs/1808.09347v2)
 - Boosting Domain Adaptation by Discovering Latent Domains [[CVPR2018]](https://arxiv.org/abs/1805.01386)
 - Residual Parameter Transfer for Deep Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.07714)
 - Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation [[AAAI2018]](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DATN.pdf)
@@ -110,6 +111,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Transferable Attention for Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)
 - Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach [[arXiv 19 Nov 2018]](https://arxiv.org/abs/1811.07456v1)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](Deep Discriminative Learning for Unsupervised Domain Adaptation)
 - Co-regularized Alignment for Unsupervised Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation)
@@ -124,10 +126,14 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Associative Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Haeusser_Associative_Domain_Adaptation_ICCV_2017_paper.pdf) [[TensorFlow]](https://github.com/haeusser/learning_by_association)
 - Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
 
+## Weakly-Supervised DA
+- Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
+
 ## Zero-shot DA
+- Generalized Zero-Shot Learning with Deep Calibration Network [NIPS2018](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-calibration-network-nips18.pdf)
 - Zero-Shot Deep Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf)
 
-### One-shot DA
+## One-shot DA
 
 
 ## Few-shot DA
