@@ -13,8 +13,10 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
     - [Incremental Methods](#incremental-mehtods)
     - [Other Methods](#other-methods)
   - [Zero-shot DA](#zero-shot-da)
+  - [One-shot DA](#one-shot-da)
   - [Few-shot DA](#few-shot-da)
   - [Image-to-Image Translation](#image-to-image-translation)
+  - [Disentangled Representation Learning](#disentangled-representation-learning)
   - [Open Set DA](#open-set-da)
   - [Partial DA](#partial-da)
   - [Multi Source DA](#multi-source-da)
@@ -22,10 +24,13 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
   - [Multi Step DA](#multi-step-da)
   - [General Transfer Learning](#general-transfer-learning)
     - [Domain Generalization](#domain-generalization)
+    - [Meta-Learning](#meta-learning)
+    - [Transfer Metric Learning](#transfer-metric-learning)
   - [Applications](#applications)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
     - [Person Re-Identification](#person-re-identification)
+    - [Medical Related](#medical-related)
     - [Others](#others)
   - [Benchmarks](#benchmarks)
 - [Code](#code)
@@ -40,12 +45,16 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
 
 ## Theory
+- Theoretical Perspective of Deep Domain Adaptation [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199v1)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
 - Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Progressive Feature Alignment for Unsupervised Domain Adaptation [[arXiv 21 Nov 2018]](https://arxiv.org/abs/1811.08585v1)
+- Conditional Adversarial Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation)
+- Unsupervised Domain Adaptation using Generative Models and Self-ensembling [[arXiv 2 Dec 2018]](https://arxiv.org/abs/1812.00479)
 - Exploiting Local Feature Patterns for Unsupervised Domain Adaptation [[AAAI2019]](https://arxiv.org/abs/1811.05042v1)
 - Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
 - Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
@@ -56,7 +65,6 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[arXiv  12 Apr 2018]](https://arxiv.org/abs/1804.04448)
 - Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/abs/1804.04333v3)
-- Conditional Adversarial Domain Adaptation [[arXiv 10 Feb 2018 ]](https://arxiv.org/abs/1705.10667)
 - Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)
 - Learning Semantic Representations for Unsupervised Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/xie18c.html) [[TensorFlow(Official)]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
 - CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Pytorch(official)]](https://github.com/jhoffman/cycada_release)
@@ -102,7 +110,9 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
-- Co-regularized Alignment for Unsupervised Domain Adaptation [[NIPS2018]](https://arxiv.org/abs/1811.05443v1)
+- Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach [[arXiv 19 Nov 2018]](https://arxiv.org/abs/1811.07456v1)
+- Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](Deep Discriminative Learning for Unsupervised Domain Adaptation)
+- Co-regularized Alignment for Unsupervised Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation)
 - Domain Invariant and Class Discriminative Feature Learning for Visual Domain Adaptation [[TIP 2018]](https://ieeexplore.ieee.org/document/8362753/)
 - Unsupervised Domain Adaptation by Mapped Correlation Alignment [[IEEE ACCESS]](https://ieeexplore.ieee.org/abstract/document/8434290/)
 - Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.pdf)
@@ -117,10 +127,18 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## Zero-shot DA
 - Zero-Shot Deep Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf)
 
+### One-shot DA
+
+
 ## Few-shot DA
 
 
 ## Image-to-Image Translation
+- Unsupervised Attention-guided Image-to-Image Translation [[NIPS2018]](https://papers.nips.cc/paper/7627-unsupervised-attention-guided-image-to-image-translation)
+- Image-to-image translation for cross-domain disentanglement [[NIPS2018]](https://papers.nips.cc/paper/7404-image-to-image-translation-for-cross-domain-disentanglement)
+- One-Shot Unsupervised Cross Domain Translation [[NIPS2018]](http://papers.nips.cc/paper/7480-one-shot-unsupervised-cross-domain-translation)
+- A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation [[NIPS2018]](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)
+- Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound [[NIPS2018]](http://papers.nips.cc/paper/8236-unsupervised-image-to-image-translation-using-domain-specific-variational-information-bound)
 - Multi-view Adversarially Learned Inference for Cross-domain Joint Distribution Matching [[KDD2018]](http://www.kdd.org/kdd2018/accepted-papers/view/multi-view-adversarially-learned-inference-for-cross-domain-joint-distribut)
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.pdf)
 - NAM: Non-Adversarial Unsupervised Domain Mapping [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yedid_Hoshen_Separable_Cross-Domain_Translation_ECCV_2018_paper.pdf)
@@ -141,6 +159,10 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Unsupervised Cross-Domain Image Generation [[ICLR2017 Poster]](https://openreview.net/forum?id=Sk2Im59ex) [[TensorFlow]](https://github.com/yunjey/domain-transfer-network)
 - Coupled Generative Adversarial Networks [[NIPS2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Pytorch(Official)]](https://github.com/mingyuliutw/cogan)
 
+## Disentangled Representation Learning
+- Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies [[NIPS2018]](https://papers.nips.cc/paper/8193-life-long-disentangled-representation-learning-with-cross-domain-latent-homologies)
+- Image-to-image translation for cross-domain disentanglement [[NIPS2018]](https://papers.nips.cc/paper/7404-image-to-image-translation-for-cross-domain-disentanglement)
+
 ## Open Set DA
 - Learning Factorized Representations for Open-set Domain Adaptation [[arXiv 31 May 2018]](https://arxiv.org/abs/1805.12277v1)
 - Open Set Domain Adaptation by Backpropagation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [[Tensorflow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
@@ -152,6 +174,8 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388) [[Pytorch(Official) & Caffe(official)]](https://github.com/thuml/SAN)
 
 ## Multi Source DA
+- Algorithms and Theory for Multiple-Source Adaptation [[NIPS2018]](https://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation)
+- Adversarial Multiple Source Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830)
 
 ## Multi Target DA
@@ -164,6 +188,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ## General Transfer Learning
 ### Domain Generalization
 - Deep Domain Generalization via Conditional Invariant Adversarial Networks [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)
+- MetaReg: Towards Domain Generalization using Meta-Regularization [[NIPS2018]](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization)
 
 ### Meta-Learning
 Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.02334)
@@ -178,6 +203,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 
 ### Semantic Segmentation
+- ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12833v1)
 - Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[NIPS2018]](https://arxiv.org/abs/1811.06042v1)
 - Domain transfer through deep activation matching [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshuo_Huang_Domain_transfer_through_ECCV_2018_paper.pdf)
 - Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
@@ -185,9 +211,14 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf)
 
 ### Person Re-identification
+- One Shot Domain Adaptation for Person Re-Identification [[arXiv 26 Nov 2018]](https://arxiv.org/abs/1811.10144v1)
+- Similarity-preserving Image-image Domain Adaptation for Person Re-identification [[arXiv 26 Nov 2018]](https://arxiv.org/abs/1811.10551v1)
 - Domain Adaptation through Synthesis for Unsupervised Person Re-identification [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
 - Person Transfer GAN to Bridge Domain Gap for Person Re-Identification [[CVPR2018]](https://arxiv.org/abs/1711.08565v2) 
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
+
+### Medical Related
+- Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[arXiv 14 Nov 2018]](https://arxiv.org/abs/1811.06042v1)
 
 ### Others
 - Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer [[CVPR2018]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
