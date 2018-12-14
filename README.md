@@ -56,7 +56,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 ### Adversarial Methods
 - Progressive Feature Alignment for Unsupervised Domain Adaptation [[arXiv 21 Nov 2018]](https://arxiv.org/abs/1811.08585v1)
 - Transferable Attention for Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)
-- Conditional Adversarial Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation)
+- Conditional Adversarial Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [Pytorch(official)](https://github.com/thuml/CDAN)  [Pytorch(third party)](https://github.com/thuml/CDAN)
 - Unsupervised Domain Adaptation using Generative Models and Self-ensembling [[arXiv 2 Dec 2018]](https://arxiv.org/abs/1812.00479)
 - Exploiting Local Feature Patterns for Unsupervised Domain Adaptation [[AAAI2019]](https://arxiv.org/abs/1811.05042v2)
 - Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
