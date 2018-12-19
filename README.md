@@ -27,6 +27,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
     - [Domain Generalization](#domain-generalization)
     - [Meta-Learning](#meta-learning)
     - [Transfer Metric Learning](#transfer-metric-learning)
+    - [Others](#others)
   - [Applications](#applications)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
@@ -206,6 +207,8 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 ### Transfer Metric Learning
 - Transfer Metric Learning: Algorithms, Applications and Outlooks [[arXiv]](https://arxiv.org/abs/1810.03944)
 
+### Others
+- When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
 
 ## Applications
 ### Object Detection
