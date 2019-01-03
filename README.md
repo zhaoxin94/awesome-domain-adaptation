@@ -40,6 +40,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 # Papers
 ## Overview
+- An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806)
 - Adversarial Transfer Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v1)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
@@ -55,6 +56,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
  
 ## Unsupervised DA
 ### Adversarial Methods
+- DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification [[arXiv 30 Dec 2018]](https://arxiv.org/abs/1812.11478)
 - Progressive Feature Alignment for Unsupervised Domain Adaptation [[arXiv 21 Nov 2018]](https://arxiv.org/abs/1811.08585v1)
 - Transferable Attention for Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)
 - Conditional Adversarial Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [Pytorch(official)](https://github.com/thuml/CDAN)  [Pytorch(third party)](https://github.com/thuml/CDAN)
