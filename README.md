@@ -142,7 +142,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 
 ## Few-shot DA
-
+- Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
 ## Image-to-Image Translation
 - Unsupervised Attention-guided Image-to-Image Translation [[NIPS2018]](https://papers.nips.cc/paper/7627-unsupervised-attention-guided-image-to-image-translation)
