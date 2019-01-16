@@ -40,7 +40,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 # Papers
 ## Overview
-- An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806)
+- An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
 - Adversarial Transfer Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v1)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
