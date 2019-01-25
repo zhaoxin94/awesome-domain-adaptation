@@ -117,7 +117,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
-- Domain Alignment with Triplets [[arXiv]](https://arxiv.org/abs/1812.00893v2)
+- Domain Alignment with Triplets [[arXiv 22 Jan 2019]](https://arxiv.org/abs/1812.00893v2)
 - Contrastive Adaptation Network for Unsupervised Domain Adaptation [[arXiv 4 Jan 2019]](https://arxiv.org/abs/1901.00976v1)
 - Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach [[arXiv 19 Nov 2018]](https://arxiv.org/abs/1811.07456v1) [[Pytorch(official)]](https://github.com/jihanyang/AFN)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
@@ -243,6 +243,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
 
 ### Medical Related
+- Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation [[arXiv on 24 Jan 2019]](https://arxiv.org/abs/1901.08211v1)
 - Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[arXiv 14 Nov 2018]](https://arxiv.org/abs/1811.06042v1)
 
 ### Others
