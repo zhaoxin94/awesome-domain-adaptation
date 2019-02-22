@@ -230,6 +230,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 
 ### Semantic Segmentation
+- SPIGAN: Privileged Adversarial Learning from Simulation [[ICLR2019]](https://openreview.net/forum?id=rkxoNnC5FQ)
 - ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12833v1)
 - Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[NIPS2018]](https://arxiv.org/abs/1811.06042v1)
 - Domain transfer through deep activation matching [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshuo_Huang_Domain_transfer_through_ECCV_2018_paper.pdf)
