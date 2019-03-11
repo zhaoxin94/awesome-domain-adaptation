@@ -119,6 +119,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [[arXiv 7 Mar 2019]](https://arxiv.org/abs/1903.03215v1)
 - Domain Discrepancy Measure Using Complex Models in Unsupervised Domain Adaptation [[arXiv 30 Jan 2019]](https://arxiv.org/abs/1901.10654v1)
 - Domain Alignment with Triplets [[arXiv 22 Jan 2019]](https://arxiv.org/abs/1812.00893v2)
 - Contrastive Adaptation Network for Unsupervised Domain Adaptation [[arXiv 4 Jan 2019]](https://arxiv.org/abs/1901.00976v1)
