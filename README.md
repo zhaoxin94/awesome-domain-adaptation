@@ -144,6 +144,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
 
 ## Zero-shot DA
+- Zero-shot Domain Adaptation Based on Attribute Information [[arXiv 13 Mar 2019]](https://arxiv.org/abs/1903.05312v1)
 - Generalized Zero-Shot Learning with Deep Calibration Network [NIPS2018](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-calibration-network-nips18.pdf)
 - Zero-Shot Deep Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf)
 
