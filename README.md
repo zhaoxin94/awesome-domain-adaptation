@@ -57,6 +57,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
 - Consensus Adversarial Domain Adaptation [[AAAI2019]](https://aaai.org/Papers/AAAI/2019/AAAI-ZouH.697.pdf)
 - Unsupervised Domain Adaptation using Deep Networks with Cross-Grafted Stacks [[arXiv 17 Feb 2019]](https://arxiv.org/abs/1902.06328v1)
 - DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification [[arXiv 30 Dec 2018]](https://arxiv.org/abs/1812.11478)
