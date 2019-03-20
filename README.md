@@ -217,6 +217,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
 
 ## General Transfer Learning
 ### Domain Generalization
+- Domain Generalization by Solving Jigsaw Puzzles [[CVPR2019]](https://arxiv.org/abs/1903.06864)
 - Beyond Domain Adaptation: Unseen Domain Encapsulation via Universal Non-volume Preserving Models [[arXiv 9 Dec 2018]](https://arxiv.org/abs/1812.03407v1)
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)
 - Deep Domain Generalization via Conditional Invariant Adversarial Networks [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)
