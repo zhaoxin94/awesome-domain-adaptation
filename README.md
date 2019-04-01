@@ -241,6 +241,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 
 ### Semantic Segmentation
+- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[arXiv 26 Mar 2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
 - Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1809.09478)
 - SPIGAN: Privileged Adversarial Learning from Simulation [[ICLR2019]](https://openreview.net/forum?id=rkxoNnC5FQ)
 - ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12833v1)
