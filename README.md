@@ -236,11 +236,13 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
 
 ## Applications
-### Object Detection
+### Object Detection 
+- Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://arxiv.org/abs/1812.04798) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
 
 ### Semantic Segmentation
+- Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation [[arXiv 1 Apr 2019]](https://arxiv.org/abs/1904.00876v1)
 - All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[arXiv 26 Mar 2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
 - Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1809.09478)
 - SPIGAN: Privileged Adversarial Learning from Simulation [[ICLR2019]](https://openreview.net/forum?id=rkxoNnC5FQ)
