@@ -57,6 +57,7 @@ This repo is a collection of AWESOME things about domian adaptation,including pa
  
 ## Unsupervised DA
 ### Adversarial Methods
+- DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
 - Cluster Alignment with a Teacher for Unsupervised Domain Adaptation [[arXiv 24 Mar 2019]](https://arxiv.org/abs/1903.09980v1)
 - Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
 - Consensus Adversarial Domain Adaptation [[AAAI2019]](https://aaai.org/Papers/AAAI/2019/AAAI-ZouH.697.pdf)
@@ -240,9 +241,11 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 ### Object Detection 
 - Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://arxiv.org/abs/1812.04798) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
-- Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
 
 ### Semantic Segmentation
+- Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
+- DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
 - Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation [[arXiv 1 Apr 2019]](https://arxiv.org/abs/1904.00876v1)
 - All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[arXiv 26 Mar 2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
 - Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1809.09478)
