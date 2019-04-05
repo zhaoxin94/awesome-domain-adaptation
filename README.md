@@ -60,6 +60,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
 - DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
 - Cluster Alignment with a Teacher for Unsupervised Domain Adaptation [[arXiv 24 Mar 2019]](https://arxiv.org/abs/1903.09980v1)
 - Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
