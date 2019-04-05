@@ -242,7 +242,8 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
 
 ## Applications
-### Object Detection 
+### Object Detection
+- A Robust Learning Approach to Domain Adaptive Object Detection [[arXiv 4 Apr 2019]](https://arxiv.org/abs/1904.02361v1)
 - Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://arxiv.org/abs/1812.04798) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
