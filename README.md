@@ -203,6 +203,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
 ## Partial DA
+- Learning to Transfer Examples for Partial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1903.12230v2)
 - TWINs: Two Weighted Inconsistency-reduced Networks for Partial Domain Adaptation [[arXiv 18 Dec 2018]](https://arxiv.org/abs/1812.07405)
 - Partial Adversarial Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/thuml/PADA)
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Importance_Weighted_Adversarial_CVPR_2018_paper.html)
