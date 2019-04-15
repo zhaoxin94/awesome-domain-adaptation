@@ -52,6 +52,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
 
 ## Theory
+- Bridging Theory and Algorithm for Domain Adaptation [[arXiv 11 Apr 2019]](https://arxiv.org/abs/1904.05801v1)
 - On Learning Invariant Representation for Domain Adaptation [[arXiv on 27 Jan 2019]](https://arxiv.org/abs/1901.09453v1)
 - Theoretical Perspective of Deep Domain Adaptation [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199v2)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
@@ -60,6 +61,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Domain-Symmetric Networks for Adversarial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1904.04663v1) [[Pytorch]](https://github.com/YBZh/SymNets)
 - TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
 - DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
 - Cluster Alignment with a Teacher for Unsupervised Domain Adaptation [[arXiv 24 Mar 2019]](https://arxiv.org/abs/1903.09980v1)
@@ -244,6 +246,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 
 ## Applications
 ### Object Detection
+- Towards Universal Object Detection by Domain Attention [[CVPR2019]](https://arxiv.org/abs/1904.04402)
 - A Robust Learning Approach to Domain Adaptive Object Detection [[arXiv 4 Apr 2019]](https://arxiv.org/abs/1904.02361v1)
 - Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://arxiv.org/abs/1812.04798) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
