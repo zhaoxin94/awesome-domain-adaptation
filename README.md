@@ -6,7 +6,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 # Contents
 - [Papers](#papers)
-  - [Overview](#overview)
+  - [Survey](#survey)
   - [Theory](#theory)
   - [Unsupervised DA](#unsupervised-da)
     - [Adversarial Methods](#adversarial-methods)
@@ -43,9 +43,10 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - [Other Resources](#other-resources)
 
 # Papers
-## Overview
+## Survey
+- Transfer Adaptation Learning: A Decade Survey [[arXiv 12 Mar 2019]](https://arxiv.org/abs/1903.04687)
 - An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
-- Adversarial Transfer Learning [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v1)
+- A Survey of Unsupervised Deep Domain Adaptation [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v2)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
 - Transfer Learning for Cross-Dataset Recognition: A Survey [[arXiv 2017]](https://sci-hub.tw/https://arxiv.org/abs/1705.04396)
@@ -62,6 +63,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Looking back at Labels: A Class based Domain Adaptation Technique [[IJCNN]](https://arxiv.org/abs/1904.01341) [[Project]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)
 - Domain-Symmetric Networks for Adversarial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1904.04663v1) [[Pytorch]](https://github.com/YBZh/SymNets)
 - TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
 - DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
