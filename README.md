@@ -45,6 +45,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 # Papers
 ## Survey
 - Transfer Adaptation Learning: A Decade Survey [[arXiv 12 Mar 2019]](https://arxiv.org/abs/1903.04687)
+- A review of single-source unsupervised domain adaptation [[arXiv 16 Jan 2019]](https://arxiv.org/abs/1901.05335)
 - An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
 - A Survey of Unsupervised Deep Domain Adaptation [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v2)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
