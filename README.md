@@ -264,6 +264,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
 
 ### Semantic Segmentation
+- Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1904.10620v1) [[Pytorch]](https://github.com/liyunsheng13/BDL)
 - Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
 - DADA: Depth-aware Domain Adaptation in Semantic Segmentation [[arXiv 3 Apr 2019]](https://arxiv.org/abs/1904.01886v1)
 - Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
