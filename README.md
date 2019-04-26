@@ -131,6 +131,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Transferrable Prototypical Networks for Unsupervised Domain Adaptation [[CVPR2019(Oral)]](Transferrable Prototypical Networks for Unsupervised Domain Adaptation)
 - Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation [[arXiv 13 Apr 2019]](https://arxiv.org/abs/1904.06490v1)
 - Easy Transfer Learning By Exploiting Intra-domain Structures [[arXiv 2 Apr 2019]](https://arxiv.org/abs/1904.01376v1)
 - Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1903.04064)
