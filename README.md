@@ -28,6 +28,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
   - [Multi Step DA](#multi-step-da)
   - [General Transfer Learning](#general-transfer-learning)
     - [Domain Generalization](#domain-generalization)
+    - [Domain Randomization](#domain-randomization)
     - [Meta-Learning](#meta-learning)
     - [Transfer Metric Learning](#transfer-metric-learning)
     - [Others](#others)
@@ -245,6 +246,9 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)
 - Deep Domain Generalization via Conditional Invariant Adversarial Networks [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya_Li_Deep_Domain_Generalization_ECCV_2018_paper.pdf)
 - MetaReg: Towards Domain Generalization using Meta-Regularization [[NIPS2018]](https://papers.nips.cc/paper/7378-metareg-towards-domain-generalization-using-meta-regularization)
+
+### Domain Randomization
+- DeceptionNet: Network-Driven Domain Randomization [[arXiv 4 Apr 2019]](https://arxiv.org/abs/1904.02750)
 
 ### Meta-Learning
 Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.02334)
