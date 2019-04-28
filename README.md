@@ -227,7 +227,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Multi-Source Domain Adaptation with Mixture of Experts [[EMNLP2018]](https://arxiv.org/abs/1809.02256) [[Tensorflow]](https://github.com/jiangfeng1124/transfer)
 - Multi-Domain Adversarial Learning [[ICLR2019]](https://openreview.net/forum?id=Sklv5iRqYX)
 - Moment Matching for Multi-Source Domain Adaptation [[arXiv 4 Dec 2018]](https://arxiv.org/abs/1812.01754v1)
-- Algorithms and Theory for Multiple-Source Adaptation [[NIPS2018]](https://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation) [[Pytorch]](https://github.com/KeiraZhao/MDAN)
+- Algorithms and Theory for Multiple-Source Adaptation [[NIPS2018]](https://papers.nips.cc/paper/8046-algorithms-and-theory-for-multiple-source-adaptation)
 - Adversarial Multiple Source Domain Adaptation [[NIPS2018]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [[Pytorch]](https://github.com/KeiraZhao/MDAN)
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830) [[Pytorch]](https://github.com/HCPLab-SYSU/MSDA)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
