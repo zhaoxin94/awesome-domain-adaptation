@@ -132,6 +132,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Switchable Whitening for Deep Representation Learning [[arXiv 22 Apr 2019]](https://arxiv.org/abs/1904.09739)
 - Adaptive Batch Normalization for practical domain adaptation [[Pattern Recognition(2018)]](https://www.sciencedirect.com/science/article/pii/S003132031830092X)
 - MiniMax Entropy Network: Learning Category-Invariant Features for Domain Adaptation [[arXiv 21 Apr 2019]](https://arxiv.org/abs/1904.09601)
 - Transferrable Prototypical Networks for Unsupervised Domain Adaptation [[CVPR2019(Oral)]](https://arxiv.org/abs/1904.11227)
@@ -243,6 +244,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 ## General Transfer Learning
 ### Domain Generalization
+- Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization [[arXiv 29 Apr 2019]](https://arxiv.org/abs/1904.12543v1)
 - Domain Generalization by Solving Jigsaw Puzzles [[CVPR2019]](https://arxiv.org/abs/1903.06864)
 - Beyond Domain Adaptation: Unseen Domain Encapsulation via Universal Non-volume Preserving Models [[arXiv 9 Dec 2018]](https://arxiv.org/abs/1812.03407v1)
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)
@@ -259,6 +261,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Transfer Metric Learning: Algorithms, Applications and Outlooks [[arXiv]](https://arxiv.org/abs/1810.03944)
 
 ### Others
+- Domain Agnostic Learning with Disentangled Representations [[ICML2019]](https://arxiv.org/abs/1904.12347v1)
 - Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization [[CVPR2019]](https://arxiv.org/abs/1904.08631) [[Pytorch]](https://github.com/junbaoZHUO/UODTN)
 - When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
 
@@ -291,6 +294,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[Journal Version]](https://arxiv.org/abs/1812.09953v3)
 
 ### Person Re-identification
+- Camera Adversarial Transfer for Unsupervised Person Re-Identification [[arXiv 2 Apr 2019]](https://arxiv.org/abs/1904.01308)
 - Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification [[CVPR2019]](https://arxiv.org/abs/1904.01990v1) [[Pytorch]](https://github.com/zhunzhong07/ECN)
 - EANet: Enhancing Alignment for Cross-Domain Person Re-identification [[arXiv 29 Dec 2018]](https://arxiv.org/abs/1812.11369) [[Pytorch]](https://github.com/huanghoujing/EANet)
 - One Shot Domain Adaptation for Person Re-Identification [[arXiv 26 Nov 2018]](https://arxiv.org/abs/1811.10144v1)
@@ -308,6 +312,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer [[CVPR2018]](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)
 
 ### Others
+- Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[IJCNN]](https://arxiv.org/abs/1904.02654)
 - Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
 
 ## Benchmarks
