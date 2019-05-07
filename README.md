@@ -132,7 +132,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
-- Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach [CVPR2019](https://arxiv.org/abs/1902.08727)
+- AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs [[CVPR2019]](https://arxiv.org/abs/1903.07062)
+- Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach [[CVPR2019]](https://arxiv.org/abs/1902.08727)
 - Distant Supervised Centroid Shift: A Simple and Efficient Approach to Visual Domain Adaptation [[CVPR2019]](http://jian-liang.github.io/home/papers/cvpr2019.pdf)
 - Switchable Whitening for Deep Representation Learning [[arXiv 22 Apr 2019]](https://arxiv.org/abs/1904.09739)
 - Adaptive Batch Normalization for practical domain adaptation [[Pattern Recognition(2018)]](https://www.sciencedirect.com/science/article/pii/S003132031830092X)
@@ -290,7 +291,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
 - DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
 - Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation [[arXiv 1 Apr 2019]](https://arxiv.org/abs/1904.00876v1)
-- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[arXiv 26 Mar 2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
+- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
 - Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1809.09478)
 - SPIGAN: Privileged Adversarial Learning from Simulation [[ICLR2019]](https://openreview.net/forum?id=rkxoNnC5FQ)
 - ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1811.12833v1) [[Pytorch]](https://github.com/valeoai/ADVENT)
