@@ -142,7 +142,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [[arXiv 7 Mar 2019]](https://arxiv.org/abs/1903.03215v1)
 - Domain Discrepancy Measure Using Complex Models in Unsupervised Domain Adaptation [[arXiv 30 Jan 2019]](https://arxiv.org/abs/1901.10654v1)
 - Domain Alignment with Triplets [[arXiv 22 Jan 2019]](https://arxiv.org/abs/1812.00893v2)
-- Contrastive Adaptation Network for Unsupervised Domain Adaptation [[arXiv 4 Jan 2019]](https://arxiv.org/abs/1901.00976v1)
+- Contrastive Adaptation Network for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1901.00976v1)
 - Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach [[arXiv 19 Nov 2018]](https://arxiv.org/abs/1811.07456v1) [[Pytorch(official)]](https://github.com/jihanyang/AFN)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
 - Unsupervised Domain Adaptation for Distance Metric Learning [[ICLR2019]](https://openreview.net/forum?id=BklhAj09K7)
@@ -164,6 +164,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Semi-supervised Domain Adaptation via Minimax Entropy [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.06487v2)
 
 ## Weakly-Supervised DA
+- Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration [[CVPR2019]](https://arxiv.org/abs/1904.13179)
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
 
 ## Zero-shot DA
@@ -215,6 +216,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Image-to-image translation for cross-domain disentanglement [[NIPS2018]](https://papers.nips.cc/paper/7404-image-to-image-translation-for-cross-domain-disentanglement)
 
 ## Open Set DA
+- Known-class Aware Self-ensemble for Open Set Domain Adaptation [[arXiv 3 May 2019]](https://arxiv.org/abs/1905.01068v1)
+- Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration [[CVPR2019]](https://arxiv.org/abs/1904.13179)
 - Learning Factorized Representations for Open-set Domain Adaptation [[ICLR2019]](https://openreview.net/pdf?id=SJe3HiC5KX)
 - Open Set Domain Adaptation by Backpropagation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/ksaito-ut/OPDA_BP) [[Tensorflow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
