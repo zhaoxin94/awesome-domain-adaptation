@@ -131,6 +131,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Domain Specific Batch Normalization for Unsupervised Domain Adaptation [[CVPR2019]](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)
 - AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs [[CVPR2019]](https://arxiv.org/abs/1903.07062)
 - Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach [[CVPR2019]](https://arxiv.org/abs/1902.08727)
 - Distant Supervised Centroid Shift: A Simple and Efficient Approach to Visual Domain Adaptation [[CVPR2019]](http://jian-liang.github.io/home/papers/cvpr2019.pdf)
