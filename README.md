@@ -219,6 +219,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Image-to-image translation for cross-domain disentanglement [[NIPS2018]](https://papers.nips.cc/paper/7404-image-to-image-translation-for-cross-domain-disentanglement)
 
 ## Open Set DA
+- Separate to Adapt: Open Set Domain Adaptation via Progressive Separation [[CVPR2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/separate-to-adapt-cvpr19.pdf)
 - Known-class Aware Self-ensemble for Open Set Domain Adaptation [[arXiv 3 May 2019]](https://arxiv.org/abs/1905.01068v1)
 - Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration [[CVPR2019]](https://arxiv.org/abs/1904.13179)
 - Learning Factorized Representations for Open-set Domain Adaptation [[ICLR2019]](https://openreview.net/pdf?id=SJe3HiC5KX)
@@ -226,6 +227,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
 ## Partial DA
+- Domain Adversarial Reinforcement Learning for Partial Domain Adaptation [[arXiv 10 May 2019]](https://arxiv.org/abs/1905.04094v1)
 - Learning to Transfer Examples for Partial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1903.12230v2)
 - TWINs: Two Weighted Inconsistency-reduced Networks for Partial Domain Adaptation [[arXiv 18 Dec 2018]](https://arxiv.org/abs/1812.07405)
 - Partial Adversarial Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/thuml/PADA)
