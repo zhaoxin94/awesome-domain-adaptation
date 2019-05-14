@@ -57,7 +57,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 ## Theory
 - Bridging Theory and Algorithm for Domain Adaptation [[ICML2019]](https://arxiv.org/abs/1904.05801v1)
-- On Learning Invariant Representation for Domain Adaptation [[ICML2019]](https://arxiv.org/abs/1901.09453v1)
+- On Learning Invariant Representation for Domain Adaptation [[ICML2019]](https://arxiv.org/abs/1901.09453v1) [[code]](https://github.com/KeiraZhao/On-Learning-Invariant-Representations-for-Domain-Adaptation)
 - Theoretical Perspective of Deep Domain Adaptation [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199v2)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - Learning Bounds for Domain Adaptation [[NIPS2007]](http://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
