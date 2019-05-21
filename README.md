@@ -167,6 +167,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Semi-supervised Domain Adaptation via Minimax Entropy [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.06487v2)
 
 ## Weakly-Supervised DA
+- Butterfly: Robust One-step Approach towards Wildly-unsupervised Domain Adaptation [[arXiv on 19 May 2019]](https://arxiv.org/abs/1905.07720v1)
 - Weakly Supervised Open-set Domain Adaptation by Dual-domain Collaboration [[CVPR2019]](https://arxiv.org/abs/1904.13179)
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
 
