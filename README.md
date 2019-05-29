@@ -5,6 +5,8 @@
 This repo is a collection of AWESOME things about domian adaptation, including papers, code etc. Feel free to star and fork.
 
 # Contents
+- [awsome-domain-adaptation](#awsome-domain-adaptation)
+- [Contents](#contents)
 - [Papers](#papers)
   - [Survey](#survey)
   - [Theory](#theory)
@@ -12,7 +14,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
     - [Adversarial Methods](#adversarial-methods)
     - [Network Methods](#network-methods)
     - [Optimal Transport](#optimal-transport)
-    - [Incremental Methods](#incremental-mehtods)
+    - [Incremental Methods](#incremental-methods)
     - [Other Methods](#other-methods)
   - [Semi-supervised DA](#semi-supervised-da)
   - [Weakly-Supervised DA](#weakly-supervised-da)
@@ -24,7 +26,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
   - [Open Set DA](#open-set-da)
   - [Partial DA](#partial-da)
   - [Multi Source DA](#multi-source-da)
-  - [Muti Target DA](#multi-target-da)
+  - [Multi Target DA](#multi-target-da)
   - [Multi Step DA](#multi-step-da)
   - [General Transfer Learning](#general-transfer-learning)
     - [Domain Generalization](#domain-generalization)
@@ -35,12 +37,13 @@ This repo is a collection of AWESOME things about domian adaptation, including p
   - [Applications](#applications)
     - [Object Detection](#object-detection)
     - [Semantic Segmentation](#semantic-segmentation)
-    - [Person Re-Identification](#person-re-identification)
+    - [Person Re-identification](#person-re-identification)
+    - [Video Domain Adaptation](#video-domain-adaptation)
     - [Medical Related](#medical-related)
     - [Monocular Depth Estimation](#monocular-depth-estimation)
-    - [Others](#others)
+    - [Others](#others-1)
   - [Benchmarks](#benchmarks)
-- [Code](#code)
+- [Library](#library)
 - [Other Resources](#other-resources)
 
 # Papers
@@ -65,6 +68,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Unsupervised Domain Adaptation via Regularized Conditional Alignment [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10885v1)
+- Adversarial Domain Adaptation Being Aware of Class Relationships [[arXiv 28 May 2019]](https://arxiv.org/abs/1905.11931v1)
 - Looking back at Labels: A Class based Domain Adaptation Technique [[IJCNN]](https://arxiv.org/abs/1904.01341) [[Project]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)
 - Domain-Symmetric Networks for Adversarial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1904.04663v1) [[Pytorch]](https://github.com/YBZh/SymNets)
 - TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
@@ -131,6 +136,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Virtual Mixup Training for Unsupervised Domain Adaptation [[arXiv 10 May 2019]](https://arxiv.org/abs/1905.04215v2)
+- Learning Smooth Representation for Unsupervised Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10748v1)
 - Domain Specific Batch Normalization for Unsupervised Domain Adaptation [[CVPR2019]](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)
 - AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs [[CVPR2019]](https://arxiv.org/abs/1903.07062)
 - Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach [[CVPR2019]](https://arxiv.org/abs/1902.08727)
@@ -228,6 +235,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
 ## Partial DA
+- Selective Transfer with Reinforced Transfer Network for Partial Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10756v1)
 - Domain Adversarial Reinforcement Learning for Partial Domain Adaptation [[arXiv 10 May 2019]](https://arxiv.org/abs/1905.04094v1)
 - Learning to Transfer Examples for Partial Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1903.12230v2)
 - TWINs: Two Weighted Inconsistency-reduced Networks for Partial Domain Adaptation [[arXiv 18 Dec 2018]](https://arxiv.org/abs/1812.07405)
@@ -254,6 +262,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 ## General Transfer Learning
 ### Domain Generalization
+- A Generalization Error Bound for Multi-class Domain Generalization [[arXiv 24 May 2019]](https://arxiv.org/abs/1905.10392v1)
 - Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization [[arXiv 29 Apr 2019]](https://arxiv.org/abs/1904.12543v1)
 - Domain Generalization by Solving Jigsaw Puzzles [[CVPR2019]](https://arxiv.org/abs/1903.06864)
 - Beyond Domain Adaptation: Unseen Domain Encapsulation via Universal Non-volume Preserving Models [[arXiv 9 Dec 2018]](https://arxiv.org/abs/1812.03407v1)
@@ -309,6 +318,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[Journal Version]](https://arxiv.org/abs/1812.09953v3)
 
 ### Person Re-identification
+- Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification [[arXiv 25 May 2019]](Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification)
 - Camera Adversarial Transfer for Unsupervised Person Re-Identification [[arXiv 2 Apr 2019]](https://arxiv.org/abs/1904.01308)
 - Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification [[CVPR2019]](https://arxiv.org/abs/1904.01990v1) [[Pytorch]](https://github.com/zhunzhong07/ECN)
 - EANet: Enhancing Alignment for Cross-Domain Person Re-identification [[arXiv 29 Dec 2018]](https://arxiv.org/abs/1812.11369) [[Pytorch]](https://github.com/huanghoujing/EANet)
@@ -317,6 +327,9 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Domain Adaptation through Synthesis for Unsupervised Person Re-identification [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)
 - Person Transfer GAN to Bridge Domain Gap for Person Re-Identification [[CVPR2018]](https://arxiv.org/abs/1711.08565v2) 
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
+
+### Video Domain Adaptation
+- Temporal Attentive Alignment for Video Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10861v2)
 
 ### Medical Related
 - Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation [[arXiv on 24 Jan 2019]](https://arxiv.org/abs/1901.08211v1)
