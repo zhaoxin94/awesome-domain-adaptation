@@ -329,7 +329,7 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
 
 ### Video Domain Adaptation
-- Temporal Attentive Alignment for Video Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10861v2) [[Pytorch]](https://github.com/olivesgatech/TA3N)
+- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v2) [[Pytorch]](https://github.com/olivesgatech/TA3N)
 
 ### Medical Related
 - Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation [[arXiv on 24 Jan 2019]](https://arxiv.org/abs/1901.08211v1)
