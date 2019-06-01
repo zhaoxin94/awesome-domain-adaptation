@@ -187,6 +187,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 
 ## Few-shot DA
+- d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](https://arxiv.org/abs/1905.12775v1)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
 ## Image-to-Image Translation
