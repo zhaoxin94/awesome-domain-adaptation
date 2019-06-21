@@ -136,7 +136,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
-- Unsupervised Domain Adaptation Based on Source-guided Discrepancy [[AAAI2019]](https://arxiv.org/abs/1809.03839
+- Unsupervised Domain Adaptation Based on Source-guided Discrepancy [[AAAI2019]](https://arxiv.org/abs/1809.03839)
 - Virtual Mixup Training for Unsupervised Domain Adaptation [[arXiv 10 May 2019]](https://arxiv.org/abs/1905.04215v2)
 - Learning Smooth Representation for Unsupervised Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10748v1)
 - Domain Specific Batch Normalization for Unsupervised Domain Adaptation [[CVPR2019]](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)
