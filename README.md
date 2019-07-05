@@ -138,6 +138,7 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- Virtual Mixup Training for Unsupervised Domain Adaptation [[arXiv on 24 May 2019]](https://arxiv.org/abs/1905.04215) [[Tensorflow]](https://github.com/xudonmao/VMT)
 - Bayesian Uncertainty Matching for Unsupervised Domain Adaptation [[IJCAI2019]](https://arxiv.org/abs/1906.09693v1)
 - Discriminative Clustering for Robust Unsupervised Domain Adaptation [[arXiv 30 May 2019]](https://arxiv.org/abs/1905.13331v1)
 - Learning Smooth Representation for Unsupervised Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10748v1)
