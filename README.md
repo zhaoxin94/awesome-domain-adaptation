@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about domian adaptation, including papers, code etc. Feel free to star and fork.
+This repo is a collection of AWESOME things about domain adaptation, including papers, code, etc. Feel free to star and fork.
 
 # Contents
 - [awsome-domain-adaptation](#awsome-domain-adaptation)
@@ -188,7 +188,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 - Zero-Shot Deep Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf)
 
 ## One-shot DA
-
+- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning [[arxiv]](https://arxiv.org/abs/1802.01557)
+- One-Shot Adaptation of Supervised Deep Convolutional Models [[ICLR Workshop 2014]](https://arxiv.org/abs/1312.6204)
 
 ## Few-shot DA
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](https://arxiv.org/abs/1905.12775v1)
@@ -264,6 +265,8 @@ This repo is a collection of AWESOME things about domian adaptation, including p
 
 
 ## Multi Step DA
+- Adversarial Domain Adaptation for Stance Detection [[arXiv]](https://arxiv.org/abs/1902.02401)
+- Ensemble Adversarial Training: Attacks and Defenses [[arXiv]](https://arxiv.org/abs/1705.07204)
 - Distant domain transfer learning [[AAAI2017]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
 
 ## General Transfer Learning
