@@ -28,6 +28,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Multi Source DA](#multi-source-da)
   - [Multi Target DA](#multi-target-da)
   - [Multi Step DA](#multi-step-da)
+  - [Heterogeneous DA](#heterogeneous-da)
   - [General Transfer Learning](#general-transfer-learning)
     - [Domain Generalization](#domain-generalization)
     - [Domain Randomization](#domain-randomization)
@@ -269,6 +270,9 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Ensemble Adversarial Training: Attacks and Defenses [[arXiv]](https://arxiv.org/abs/1705.07204)
 - Distant domain transfer learning [[AAAI2017]](http://www.ntu.edu.sg/home/sinnopan/publications/[AAAI17]Distant%20Domain%20Transfer%20Learning.pdf)
 
+## Heterogeneous DA
+- Heterogeneous Domain Adaptation via Soft Transfer Network [[ACM MM2019]](https://arxiv.org/abs/1908.10552v1)
+
 ## General Transfer Learning
 ### Domain Generalization
 - A Generalization Error Bound for Multi-class Domain Generalization [[arXiv 24 May 2019]](https://arxiv.org/abs/1905.10392v1)
@@ -295,36 +299,48 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
 
 ## Applications
 ### Object Detection
-- Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019(PDF coming Soon)]](http://zhuxinge.me/aboutme.html) 
-- Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](https://arxiv.org/abs/1904.11245)
-- Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](https://arxiv.org/abs/1904.07305v1) [[Project]](http://vis-www.cs.umass.edu/unsupVideo/)
-- Towards Universal Object Detection by Domain Attention [[CVPR2019]](https://arxiv.org/abs/1904.04402)
-- A Robust Learning Approach to Domain Adaptive Object Detection [[arXiv 4 Apr 2019]](https://arxiv.org/abs/1904.02361v1)
-- Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](https://arxiv.org/abs/1812.04798) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
+**Arxiv**
+- A Robust Learning Approach to Domain Adaptive Object Detection [[arXiv 4 Apr 2019]](https://arxiv.org/abs/1904.02361) [[code]](https://github.com/mkhodabandeh/robust_domain_adaptation)
+  
+**Conference**
+- Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019 Oral]](https://arxiv.org/abs/1909.00597v1)
+- Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
+- Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
+- Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf) [[Project]](http://vis-www.cs.umass.edu/unsupVideo/)
+- Towards Universal Object Detection by Domain Attention [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)
+- Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Saito_Strong-Weak_Distribution_Alignment_for_Adaptive_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
+- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[Poster]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
 
 ### Semantic Segmentation
-- Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection [[CVPR2019(Oral)(PDF Coming Soon)]](http://zhuxinge.me/aboutme.html)
-- CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency [[CVPR2019]](https://filebox.ece.vt.edu/~jbhuang/papers/CVPR_2019_CrDoCo.pdf)
-- Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1904.10620v1) [[Pytorch]](https://github.com/liyunsheng13/BDL)
-- Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
-- DADA: Depth-aware Domain Adaptation in Semantic Segmentation [[arXiv 3 Apr 2019]](https://arxiv.org/abs/1904.01886v1)
-- Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
-- DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](https://arxiv.org/pdf/1812.05418.pdf)
+**Arxiv**
+- Adversarial Learning and Self-Teaching Techniques for Domain Adaptation in Semantic Segmentation [[arXiv 2 Sep 2019]](https://arxiv.org/abs/1909.00781v1)
 - Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation [[arXiv 1 Apr 2019]](https://arxiv.org/abs/1904.00876v1)
-- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1903.12212v1) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
-- Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/abs/1809.09478)
+
+**Conference**
+- Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation [[ICCV2019]](https://arxiv.org/abs/1909.00589v1)
+- DADA: Depth-aware Domain Adaptation in Semantic Segmentation [[ICCV2019]](https://arxiv.org/abs/1904.01886) [[code]](https://github.com/valeoai/DADA)
+- Domain Adaptation for Structured Output via Discriminative Patch Representations [[ICCV2019 Oral]](https://arxiv.org/abs/1901.05427) [[Project]](https://sites.google.com/site/yihsuantsai/research/iccv19-adapt-seg)
+- Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection [[CVPR2019(Oral)(PDF Coming Soon)]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Not_All_Areas_Are_Equal_Transfer_Learning_for_Semantic_Segmentation_CVPR_2019_paper.pdf)
+- CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_CrDoCo_Pixel-Level_Domain_Transfer_With_Cross-Domain_Consistency_CVPR_2019_paper.pdf) [[Project]](https://yunchunchen.github.io/CrDoCo/)
+- Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/liyunsheng13/BDL)
+- Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Semantic_Segmentation_From_Synthetic_Data_A_Geometrically_Guided_Input-Output_CVPR_2019_paper.pdf)
+- All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
+- DLOW: Domain Flow for Adaptation and Generalization [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gong_DLOW_Domain_Flow_for_Adaptation_and_Generalization_CVPR_2019_paper.pdf)
+- Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Luo_Taking_a_Closer_Look_at_Domain_Shift_Category-Level_Adversaries_for_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/RoyalVane/CLAN)
+- ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/valeoai/ADVENT)
 - SPIGAN: Privileged Adversarial Learning from Simulation [[ICLR2019]](https://openreview.net/forum?id=rkxoNnC5FQ)
-- ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[CVPR2019]](https://arxiv.org/abs/1811.12833v1) [[Pytorch]](https://github.com/valeoai/ADVENT)
 - Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinge_Zhu_Penalizing_Top_Performers_ECCV_2018_paper.pdf)
-- Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[NIPS2018]](https://arxiv.org/abs/1811.06042v1)
 - Domain transfer through deep activation matching [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshuo_Huang_Domain_transfer_through_ECCV_2018_paper.pdf)
 - Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf)
-- Learning to Adapt Structured Output Space for Semantic Segmentation [[CVPR2018]](https://arxiv.org/abs/1802.10349) [[Pytorch]](https://github.com/wasidennis/AdaptSegNet)
+- Learning to Adapt Structured Output Space for Semantic Segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tsai_Learning_to_Adapt_CVPR_2018_paper.pdf) [[Pytorch]](https://github.com/wasidennis/AdaptSegNet)
 - Conditional Generative Adversarial Network for Structured Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf)
 - Learning From Synthetic Data: Addressing Domain Shift for Semantic Segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Learning_From_Synthetic_CVPR_2018_paper.pdf)
 - Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.pdf) [[Journal Version]](https://arxiv.org/abs/1812.09953v3)
+
+**Journal**
+- Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
 
 ### Person Re-identification
 - Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification [[arXiv 25 May 2019]](Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification)
