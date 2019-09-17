@@ -69,6 +69,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
 - SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
 - Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
 - Unsupervised Domain Adaptation via Regularized Conditional Alignment [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10885v1)
