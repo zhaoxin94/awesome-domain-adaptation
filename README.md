@@ -69,6 +69,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
 - SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
 - Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
 - Unsupervised Domain Adaptation via Regularized Conditional Alignment [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10885v1)
@@ -365,12 +366,16 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
 
 ### Video Domain Adaptation
+<<<<<<< HEAD
 **Arxiv**
 - Image to Video Domain Adaptation Using Web Supervision [[5 Aug 2019]](https://arxiv.org/abs/1908.01449)
 
 **Conference**
 - Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[ICCV2019 Oral]](https://arxiv.org/abs/1907.12743) [[Pytorch]](https://github.com/olivesgatech/TA3N)
 - Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Pytorch]](https://github.com/olivesgatech/TA3N)
+=======
+- Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[CVPRW2019]](https://arxiv.org/abs/1905.10861) [[ICCV2019 (Oral)]](https://arxiv.org/abs/1907.12743) [[Pytorch]](https://github.com/cmhungsteve/TA3N)
+>>>>>>> 78c1029a55b230f3198e769190d6b17554a18276
 
 ### Medical Related
 - Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation [[arXiv 29 Aug 2019]](https://arxiv.org/abs/1907.13590)
