@@ -40,6 +40,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Semantic Segmentation](#semantic-segmentation)
     - [Person Re-identification](#person-re-identification)
     - [Video Domain Adaptation](#video-domain-adaptation)
+- [- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Pytorch]](https://github.com/olivesgatech/TA3N)](#temporal-attentive-alignment-for-video-domain-adaptation-cvprw-2019httpsarxivorgabs190510861v5-pytorchhttpsgithubcomolivesgatechta3n)
     - [Medical Related](#medical-related)
     - [Monocular Depth Estimation](#monocular-depth-estimation)
     - [Others](#others-1)
@@ -69,6 +70,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
  
 ## Unsupervised DA
 ### Adversarial Methods
+- Cycle-consistent Conditional Adversarial Transfer Networks [[ACM MM2019]](https://arxiv.org/abs/1909.07618) [[Pytorch]](https://github.com/lijin118/3CATN)
 - Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
 - SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
 - Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
