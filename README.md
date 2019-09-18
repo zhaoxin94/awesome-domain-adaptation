@@ -139,6 +139,11 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
 ### Other Methods
+- CUDA: Contradistinguisher for Unsupervised Domain Adaptation [[ICDM2019]](https://arxiv.org/abs/1909.03442)
+- Discriminative Clustering for Robust Unsupervised Domain Adaptation [[arXiv 30 May 2019]](https://arxiv.org/abs/1905.13331)
+- Unsupervised Domain Adaptation via Calibrating Uncertainties [[CVPRW2019]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Han_Unsupervised_Domain_Adaptation_via_Calibrating_Uncertainties_CVPRW_2019_paper.pdf)
+- Bayesian Uncertainty Matching for Unsupervised Domain Adaptation [[arXiv 24 Jun 2019]](https://arxiv.org/abs/1906.09693)
+- Confidence Regularized Self-Training [[ICCV2019 Oral]](https://arxiv.org/pdf/1908.09822.pdf) [[Pytorch]](https://github.com/yzou2/CRST)
 - Virtual Mixup Training for Unsupervised Domain Adaptation [[arXiv on 24 May 2019]](https://arxiv.org/abs/1905.04215) [[Tensorflow]](https://github.com/xudonmao/VMT)
 - Bayesian Uncertainty Matching for Unsupervised Domain Adaptation [[IJCAI2019]](https://arxiv.org/abs/1906.09693v1)
 - Discriminative Clustering for Robust Unsupervised Domain Adaptation [[arXiv 30 May 2019]](https://arxiv.org/abs/1905.13331v1)
@@ -304,18 +309,21 @@ Unsupervised Learning via Meta-Learning [[arXiv]](https://arxiv.org/abs/1810.023
   
 **Conference**
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019 Oral]](https://arxiv.org/abs/1909.00597v1)
+- Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[ICCV2019]](https://arxiv.org/abs/1907.10343)
 - Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
 - Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
 - Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf) [[Project]](http://vis-www.cs.umass.edu/unsupVideo/)
 - Towards Universal Object Detection by Domain Attention [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)
 - Strong-Weak Distribution Alignment for Adaptive Object Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Saito_Strong-Weak_Distribution_Alignment_for_Adaptive_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/VisionLearningGroup/DA_Detection)
-- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[Poster]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
+- Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)
 - Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.11365)
 - Domain Adaptive Faster R-CNN for Object Detection in the Wild [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) [[Caffe2]](https://github.com/krumo/Detectron-DA-Faster-RCNN) [[Caffe]](https://github.com/yuhuayc/da-faster-rcnn) [[Pytorch(under developing)]]()
 
 ### Semantic Segmentation
 **Arxiv**
 - Adversarial Learning and Self-Teaching Techniques for Domain Adaptation in Semantic Segmentation [[arXiv 2 Sep 2019]](https://arxiv.org/abs/1909.00781v1)
+- Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic
+Segmentation: A Non-Adversarial Approach [[arXiv 26 Aug 2019]](https://arxiv.org/abs/1908.09547)
 - Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation [[arXiv 1 Apr 2019]](https://arxiv.org/abs/1904.00876v1)
 
 **Conference**
@@ -357,7 +365,12 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
 
 ### Video Domain Adaptation
-- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v2) [[Pytorch]](https://github.com/olivesgatech/TA3N)
+**Arxiv**
+- Image to Video Domain Adaptation Using Web Supervision [[5 Aug 2019]](https://arxiv.org/abs/1908.01449)
+
+**Conference**
+- Temporal Attentive Alignment for Large-Scale Video Domain Adaptation [[ICCV2019 Oral]](https://arxiv.org/abs/1907.12743) [[Pytorch]](https://github.com/olivesgatech/TA3N)
+- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Pytorch]](https://github.com/olivesgatech/TA3N)
 
 ### Medical Related
 - Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation [[arXiv 29 Aug 2019]](https://arxiv.org/abs/1907.13590)
