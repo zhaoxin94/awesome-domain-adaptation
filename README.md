@@ -40,7 +40,6 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Semantic Segmentation](#semantic-segmentation)
     - [Person Re-identification](#person-re-identification)
     - [Video Domain Adaptation](#video-domain-adaptation)
-- [- Temporal Attentive Alignment for Video Domain Adaptation [[CVPRW 2019]](https://arxiv.org/abs/1905.10861v5) [[Pytorch]](https://github.com/olivesgatech/TA3N)](#temporal-attentive-alignment-for-video-domain-adaptation-cvprw-2019httpsarxivorgabs190510861v5-pytorchhttpsgithubcomolivesgatechta3n)
     - [Medical Related](#medical-related)
     - [Monocular Depth Estimation](#monocular-depth-estimation)
     - [Others](#others-1)
