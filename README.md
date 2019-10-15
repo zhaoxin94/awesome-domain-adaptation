@@ -102,6 +102,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Learning Disentangled Semantic Representation for Domain Adaptation [[IJCAI2019]](https://www.ijcai.org/proceedings/2019/0285.pdf)
 - Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) [[Pytorch]](https://github.com/thuml/Batch-Spectral-Penalization)
 - Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers [[ICML2019]](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf) [[Pytorch]](https://github.com/thuml/Transferable-Adversarial-Training)
+- Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation [[ICCV2019]](https://arxiv.org/abs/1910.05562) [[PyTorch]](https://github.com/postBG/DTA.pytorch)
 - Cluster Alignment with a Teacher for Unsupervised Domain Adaptation [[ICCV2019]](https://arxiv.org/abs/1903.09980v1) [[Tensorflow]](https://github.com/thudzj/CAT)
 - Unsupervised Domain Adaptation via Regularized Conditional Alignment [[ICCV2019]](https://arxiv.org/abs/1905.10885v1)
 - Attending to Discriminative Certainty for Domain Adaptation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf) [[Project]](https://delta-lab-iitk.github.io/CADA/)
