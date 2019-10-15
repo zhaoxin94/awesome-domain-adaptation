@@ -176,7 +176,6 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Discriminative Clustering for Robust Unsupervised Domain Adaptation [[arXiv 30 May 2019]](https://arxiv.org/abs/1905.13331)
 - Virtual Mixup Training for Unsupervised Domain Adaptation [[arXiv on 24 May 2019]](https://arxiv.org/abs/1905.04215) [[Tensorflow]](https://github.com/xudonmao/VMT)
 - Learning Smooth Representation for Unsupervised Domain Adaptation [[arXiv 26 May 2019]](https://arxiv.org/abs/1905.10748v1)
-- Switchable Whitening for Deep Representation Learning [[arXiv 22 Apr 2019]](https://arxiv.org/abs/1904.09739)
 - Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation [[arXiv 13 Apr 2019]](https://arxiv.org/abs/1904.06490v1)
 - Easy Transfer Learning By Exploiting Intra-domain Structures [[arXiv 2 Apr 2019]](https://arxiv.org/abs/1904.01376v1) 
 - Domain Discrepancy Measure Using Complex Models in Unsupervised Domain Adaptation [[arXiv 30 Jan 2019]](https://arxiv.org/abs/1901.10654v1)
@@ -186,6 +185,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Conference**
 - CUDA: Contradistinguisher for Unsupervised Domain Adaptation [[ICDM2019]](https://arxiv.org/abs/1909.03442)
 - Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment [[ICML2019]](http://proceedings.mlr.press/v97/wu19f/wu19f.pdf)
+- Switchable Whitening for Deep Representation Learning [[ICCV2019]](https://arxiv.org/abs/1904.09739)
 - Confidence Regularized Self-Training [[ICCV2019 Oral]](https://arxiv.org/pdf/1908.09822.pdf) [[Pytorch]](https://github.com/yzou2/CRST)
 - Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [[ICCV2019]](https://arxiv.org/abs/1811.07456) [[Pytorch(official)]](https://github.com/jihanyang/AFN)
 - Transferrable Prototypical Networks for Unsupervised Domain Adaptation [[CVPR2019(Oral)]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Transferrable_Prototypical_Networks_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)
@@ -332,6 +332,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Heterogeneous Domain Adaptation via Soft Transfer Network [[ACM MM2019]](https://arxiv.org/abs/1908.10552v1)
 
 ## Target-agnostic DA
+**Arxiv**
+- Compound Domain Adaptation in an Open World [[8 Sep 2019]](https://arxiv.org/abs/1909.03403)
+
+**Conference**
 - Blending-target Domain Adaptation by Adversarial Meta-Adaptation Networks [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Blending-Target_Domain_Adaptation_by_Adversarial_Meta-Adaptation_Networks_CVPR_2019_paper.pdf)
 
 ## Source-agnostic DA
