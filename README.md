@@ -334,6 +334,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Beyond Domain Adaptation: Unseen Domain Encapsulation via Universal Non-volume Preserving Models [[9 Dec 2018]](https://arxiv.org/abs/1812.03407v1)
 
 **Conference**
+- Domain Generalization via Model-Agnostic Learning of Semantic Features [[NeurIPS2019]](https://arxiv.org/abs/1910.13580v1)
 - Episodic Training for Domain Generalization [[ICCV2019 Oral]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.pdf) [[code]](https://github.com/HAHA-DL/Episodic-DG)
 - Feature-Critic Networks for Heterogeneous Domain Generalization [[ICML2019]](http://proceedings.mlr.press/v97/li19l/li19l.pdf) [[Pytorch]](https://github.com/liyiying/Feature_Critic)
 - Domain Generalization by Solving Jigsaw Puzzles [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/fmcarlucci/JigenDG)
