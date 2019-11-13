@@ -55,14 +55,18 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Papers
 ## Survey
-- Transfer Adaptation Learning: A Decade Survey [[arXiv 12 Mar 2019]](https://arxiv.org/abs/1903.04687)
-- A review of single-source unsupervised domain adaptation [[arXiv 16 Jan 2019]](https://arxiv.org/abs/1901.05335)
-- An introduction to domain adaptation and transfer learning [[arXiv 31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
-- A Survey of Unsupervised Deep Domain Adaptation [[arXiv 6 Dec 2018]](https://arxiv.org/abs/1812.02849v2)
+**Arxiv**
+- A Comprehensive Survey on Transfer Learning [[7 Nov 2019]](https://arxiv.org/abs/1911.02685)
+- Transfer Adaptation Learning: A Decade Survey [[12 Mar 2019]](https://arxiv.org/abs/1903.04687)
+- A review of single-source unsupervised domain adaptation [[16 Jan 2019]](https://arxiv.org/abs/1901.05335)
+- An introduction to domain adaptation and transfer learning [[31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
+- A Survey of Unsupervised Deep Domain Adaptation [[6 Dec 2018]](https://arxiv.org/abs/1812.02849v2)
+- Transfer Learning for Cross-Dataset Recognition: A Survey [[2017]](https://sci-hub.tw/https://arxiv.org/abs/1705.04396)
+- Domain Adaptation for Visual Applications: A Comprehensive Survey  [[2017]](https://arxiv.org/abs/1702.05374)
+
+**Journal**
+- Deep Visual Domain Adaptation: A Survey [[Neurocomputing 2018]](https://arxiv.org/abs/1802.03601v4)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
-- Deep Visual Domain Adaptation: A Survey [[arXiv 2018]](https://arxiv.org/abs/1802.03601v4)
-- Transfer Learning for Cross-Dataset Recognition: A Survey [[arXiv 2017]](https://sci-hub.tw/https://arxiv.org/abs/1705.04396)
-- Domain Adaptation for Visual Applications: A Comprehensive Survey  [[arXiv 2017]](https://arxiv.org/abs/1702.05374)
 - Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
 
 ## Theory
@@ -106,7 +110,8 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 **Conference**
 - Unifying Unsupervised Domain Adaptation and Zero-Shot Visual Recognition [[IJCNN2019]](https://arxiv.org/abs/1903.10601) [[Matlab]](https://github.com/hellowangqian/domain-adaptation-capls)
 - Transfer Learning with Dynamic Adversarial Adaptation Network [[ICDM2019]](https://arxiv.org/abs/1909.08184)
-- Cycle-consistent Conditional Adversarial Transfer Networks [[ACM MM2019]](https://arxiv.org/abs/1909.07618) [[Pytorch]](https://github.com/lijin118/3CATN)
+- Joint Adversarial Domain Adaptation [[ACM MM2019]](https://dl.acm.org/citation.cfm?id=3351070)
+- Cycle-consistent Conditional Adversarial Transfer Networks [[ACM MM2019]](https://dl.acm.org/citation.cfm?id=3350902) [[Pytorch]](https://github.com/lijin118/3CATN)
 - Learning Disentangled Semantic Representation for Domain Adaptation [[IJCAI2019]](https://www.ijcai.org/proceedings/2019/0285.pdf)
 - Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) [[Pytorch]](https://github.com/thuml/Batch-Spectral-Penalization)
 - Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers [[ICML2019]](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf) [[Pytorch]](https://github.com/thuml/Transferable-Adversarial-Training)
@@ -442,6 +447,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - No more discrimina- tion: Cross city adaptation of road scene segmenters [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Chen_No_More_Discrimination_ICCV_2017_supplemental.pdf)
 
 **Journal**
+- Semantic-aware short path adversarial training for cross-domain semantic segmentation [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219315656#fig0002) 
 - Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
 
 ### Person Re-identification
@@ -492,6 +498,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
 
 **Conference**
+- Unsupervised Domain Adaptation for 3D Human Pose Estimation [[ACM MM2019]](https://dl.acm.org/citation.cfm?id=3351052)
+- PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation [[NeurIPS 2019]](https://arxiv.org/abs/1911.02744v1) [[code]](https://github.com/canqin001/PointDAN)
 - Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.pdf)
 - Cross-Domain Adaptation for Animal Pose Estimation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.pdf)
 - GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.pdf)
