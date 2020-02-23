@@ -45,7 +45,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Medical Related](#medical-related)
     - [Monocular Depth Estimation](#monocular-depth-estimation)
     - [3D Reconstruction](#3d-reconstruction)
-    - [Others](#others-1)
+    - [Others](#others)
   - [Related Topics](#related-topics)
     - [Image-to-Image Translation](#image-to-image-translation)
     - [Disentangled Representation Learning](#disentangled-representation-learning)
@@ -87,27 +87,6 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 ## Unsupervised DA
 
 ### Adversarial Methods
-**Arxiv**
-- Learning Domain Adaptive Features with Unlabeled Domain Bridges [[10 Dec 2019]](https://arxiv.org/abs/1912.05004v1)
-- Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
-- Generalized Domain Adaptation with Covariate and
-Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
-- Adversarial Variational Domain Adaptation [[25 Sep 2019]](https://arxiv.org/abs/1909.11651)
-- Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
-- SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
-- Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
-- Adversarial Domain Adaptation Being Aware of Class Relationships [[arXiv 28 May 2019]](https://arxiv.org/abs/1905.11931v1)
-- Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
-- Unsupervised Domain Adaptation using Deep Networks with Cross-Grafted Stacks [[arXiv 17 Feb 2019]](https://arxiv.org/abs/1902.06328v1)
-- DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification [[arXiv 30 Dec 2018]](https://arxiv.org/abs/1812.11478)
-- Unsupervised Domain Adaptation using Generative Models and Self-ensembling [[arXiv 2 Dec 2018]](https://arxiv.org/abs/1812.00479)
-- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
-- Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
-- M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/abs/1807.02552v1) [[Pytorch(official)]](https://github.com/IssamLaradji/M-ADDA)
-- Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/abs/1806.01376v1)
-- DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08019v1)
-- Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
-- Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/abs/1804.04333v3)
 
 **Conference**
 - Adversarial-Learned Loss for Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/2001.01046v1)
@@ -167,6 +146,31 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation [[IEEE ACCESS]](https://ieeexplore.ieee.org/document/8913529)
 - TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
 
+**Arxiv**
+- Bi-Directional Generation for Unsupervised Domain Adaptation [[12 Feb 2020]](https://arxiv.org/abs/2002.04869v1)
+- Enlarging Discriminative Power by Adding an Extra Class in Unsupervised Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08041v1) [[Tensorflow]](https://github.com/haitran14/gada)
+- Learning Domain Adaptive Features with Unlabeled Domain Bridges [[10 Dec 2019]](https://arxiv.org/abs/1912.05004v1)
+- Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
+- Generalized Domain Adaptation with Covariate and
+Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
+- Adversarial Variational Domain Adaptation [[25 Sep 2019]](https://arxiv.org/abs/1909.11651)
+- Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
+- SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
+- Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
+- Adversarial Domain Adaptation Being Aware of Class Relationships [[arXiv 28 May 2019]](https://arxiv.org/abs/1905.11931v1)
+- Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
+- Unsupervised Domain Adaptation using Deep Networks with Cross-Grafted Stacks [[arXiv 17 Feb 2019]](https://arxiv.org/abs/1902.06328v1)
+- DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification [[arXiv 30 Dec 2018]](https://arxiv.org/abs/1812.11478)
+- Unsupervised Domain Adaptation using Generative Models and Self-ensembling [[arXiv 2 Dec 2018]](https://arxiv.org/abs/1812.00479)
+- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
+- Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
+- M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/abs/1807.02552v1) [[Pytorch(official)]](https://github.com/IssamLaradji/M-ADDA)
+- Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/abs/1806.01376v1)
+- DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08019v1)
+- Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
+- Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/abs/1804.04333v3)
+
+
 ### Distance-based Methods
 **Journal**
 
@@ -199,6 +203,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Other Methods
 **Arxiv**
+- Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift [[25 Jan 2020]](https://arxiv.org/abs/2001.07895v3)
 - Less Confusion More Transferable: Minimum Class Confusion for Versatile Domain Adaptation [[8 Dec 2019]](https://arxiv.org/abs/1912.03699v1)
 - Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[21 Nov 2019]](https://arxiv.org/abs/1911.09310v1)
 - Deep causal representation learning for unsupervised domain adaptation [[28 Oct 2019]](https://arxiv.org/abs/1910.12417)
@@ -215,6 +220,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Conference**
 - Domain Adaptive Multiflow Networks [[ICLR2020]](https://openreview.net/forum?id=rJxycxHKDS)
+- Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment [[AAAI2020]](https://arxiv.org/abs/2002.08675v1)
 - Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling [[AAAI2020]](https://arxiv.org/abs/1911.07982) [[Matlab]](https://github.com/hellowangqian/domain-adaptation-capls)
 - CUDA: Contradistinguisher for Unsupervised Domain Adaptation [[ICDM2019]](https://arxiv.org/abs/1909.03442)
 - Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment [[ICML2019]](http://proceedings.mlr.press/v97/wu19f/wu19f.pdf)
@@ -252,6 +258,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Semi-supervised DA
 **Arxiv**
+- Opposite Structure Learning for Semi-supervised Domain Adaptation [[6 Feb 2020]](https://arxiv.org/abs/2002.02545v1)
 - Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
 
 **Conference**
@@ -281,14 +288,14 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - One-Shot Adaptation of Supervised Deep Convolutional Models [[ICLR Workshop 2014]](https://arxiv.org/abs/1312.6204)
 
 ## Few-shot DA
+**Conference**
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
-
+**Arxiv**
+- Few-shot Domain Adaptation by Causal Mechanism Transfer [[10 Feb 2020]](https://arxiv.org/abs/2002.03497v1)
 
 ## Open Set DA
-**Arxiv**
-- Known-class Aware Self-ensemble for Open Set Domain Adaptation [[arXiv 3 May 2019]](https://arxiv.org/abs/1905.01068v1)
 
 **Conference**
 - Separate to Adapt: Open Set Domain Adaptation via Progressive Separation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)
@@ -296,6 +303,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Learning Factorized Representations for Open-set Domain Adaptation [[ICLR2019]](https://openreview.net/pdf?id=SJe3HiC5KX)
 - Open Set Domain Adaptation by Backpropagation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/ksaito-ut/OPDA_BP) [[Tensorflow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
+
+**Arxiv**
+- Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation [[10 Feb 2020]](https://arxiv.org/abs/2002.03642v1)
+- Known-class Aware Self-ensemble for Open Set Domain Adaptation [[3 May 2019]](https://arxiv.org/abs/1905.01068v1)
 
 ## Partial DA
 **Arxiv**
@@ -311,14 +322,17 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Universal DA
 **Conference**
-
 - Universal Domain Adaptation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf)  [[Pytorch]](https://github.com/thuml/Universal-Domain-Adaptation)
 
-## Multi Source DA
 **Arxiv**
-- Multi-Source Domain Adaptation and Semi-Supervised Domain Adaptation with Focus on Visual Domain Adaptation Challenge 2019 [[14 Oct 2019]](https://arxiv.org/abs/1910.03548)
+- Universal Domain Adaptation through Self Supervision [[19 Feb 2020]](http://arxiv.org/abs/2002.07953v1)
+- A Sample Selection Approach for Universal Domain Adaptation [[14 Jan 2020]](https://arxiv.org/abs/2001.05071v1)
+
+## Multi Source DA
 
 **Conference**
+- Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [[AAAI2020]](https://arxiv.org/abs/2001.04362v2)
+- Multi-source Domain Adaptation for Visual Sentiment Classification [[AAAI2020]](https://arxiv.org/abs/2001.03886v1)
 - Multi-source Distilling Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/1911.11554v1) [[code]](https://github.com/daoyuan98/MDDA)
 - Multi-source Domain Adaptation for Semantic Segmentation [[NeurlPS2019]](https://arxiv.org/abs/1910.12181) [[Pytorch]](https://github.com/Luodian/MADAN)
 - Moment Matching for Multi-Source Domain Adaptation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf) [[Pytorch]](http://ai.bu.edu/M3SDA/)
@@ -330,6 +344,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Journal**
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
+
+**Arxiv**
+- Multi-Source Domain Adaptation and Semi-Supervised Domain Adaptation with Focus on Visual Domain Adaptation Challenge 2019 [[14 Oct 2019]](https://arxiv.org/abs/1910.03548)
+
 
 ## Multi Target DA
 - Unsupervised Multi-Target Domain Adaptation: An Information Theoretic Approach [[arXiv]](https://arxiv.org/abs/1810.11547v1)
@@ -401,26 +419,22 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 
 ### Others
-**Arxiv**
-- When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
-
 **Conference**
 - Learning Across Tasks and Domains [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ramirez_Learning_Across_Tasks_and_Domains_ICCV_2019_paper.pdf)
 - UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.pdf)
 - Domain Agnostic Learning with Disentangled Representations [[ICML2019]](https://arxiv.org/abs/1904.12347v1)
 - Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization [[CVPR2019]](https://arxiv.org/abs/1904.08631) [[Pytorch]](https://github.com/junbaoZHUO/UODTN)
 
+**Arxiv**
+- GradMix: Multi-source Transfer across Domains and Tasks [[9 Feb 2020]](GradMix: Multi-source Transfer across Domains and Tasks)
+- When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets [[arXiv 13 Dec 2018]](https://arxiv.org/abs/1812.05313)
+
 
 ## Applications
 ### Object Detection
-**Arxiv**
-- Prior-based Domain Adaptive Object Detection for Adverse Weather Conditions [[29 Nov 2019]](https://arxiv.org/abs/1912.00070v1)
-- Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[17 Nov 2019]](https://arxiv.org/abs/1911.07158v1)
-- Curriculum Self-Paced Learning for Cross-Domain Object Detection [[15 Nov 2019]](https://arxiv.org/abs/1911.06849v1)
-- SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[6 Nov 2019]](https://arxiv.org/abs/1911.02559v1)
   
-
 **Conference**
+- Deep Domain Adaptive Object Detection: a Survey [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
 - Progressive Domain Adaptation for Object Detection [[WACV]](https://arxiv.org/abs/1910.11319)
 - Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night [[IJCNN2019 Oral]](https://ieeexplore.ieee.org/document/8852008) [[Project]](https://github.com/viniciusarruda/cross-domain-car-detection)
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019 Oral]](https://arxiv.org/abs/1909.00597v1)
@@ -439,6 +453,12 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Journal**
 - Pixel and feature level based domain adaptation for object detection in autonomous driving [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S092523121931149X?via%3Dihub)
 
+**Arxiv**
+- Unsupervised Domain Adaptive Object Detection using Forward-Backward Cyclic Adaptation [[3 Feb 2020]](https://arxiv.org/abs/2002.00575v1)
+- Prior-based Domain Adaptive Object Detection for Adverse Weather Conditions [[29 Nov 2019]](https://arxiv.org/abs/1912.00070v1)
+- Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning [[17 Nov 2019]](https://arxiv.org/abs/1911.07158v1)
+- Curriculum Self-Paced Learning for Cross-Domain Object Detection [[15 Nov 2019]](https://arxiv.org/abs/1911.06849v1)
+- SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[6 Nov 2019]](https://arxiv.org/abs/1911.02559v1)
 
 ### Semantic Segmentation
 **Arxiv**
@@ -496,6 +516,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Similarity-preserving Image-image Domain Adaptation for Person Re-identification [[arXiv 26 Nov 2018]](https://arxiv.org/abs/1811.10551v1)
 
 **Conference**
+- Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [[ICLR2020]](https://openreview.net/forum?id=rJlnOhVYPS) [[Pytorch]](https://github.com/yxgeee/MMT)
 - Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification [[ICCV2019 Oral]](https://arxiv.org/abs/1811.10144) [[Pytorch]](https://github.com/OasisYang/SSG)
 - A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification [[ICCV2019]](https://arxiv.org/abs/1904.03425)
 - Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification [[CVPR2019]](https://arxiv.org/abs/1904.01990v1) [[Pytorch]](https://github.com/zhunzhong07/ECN)
@@ -601,7 +622,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - [salad:a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 
 # Lectures and Tutorials
- 
+- A Primer on Domain Adaptation [[PDF]](https://arxiv.org/abs/2001.09994v2)
+
 
 # Other Resources
 - [transferlearning](https://github.com/jindongwang/transferlearning)
