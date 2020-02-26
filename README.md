@@ -289,6 +289,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Few-shot DA
 **Conference**
+- Few-Shot Adaptive Faster R-CNN [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
@@ -440,6 +441,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Self-Training and Adversarial Background Regularization for Unsupervised Domain Adaptive One-Stage Object Detection [[ICCV2019 Oral]](https://arxiv.org/abs/1909.00597v1)
 - A Robust Learning Approach to Domain Adaptive Object Detection [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khodabandeh_A_Robust_Learning_Approach_to_Domain_Adaptive_Object_Detection_ICCV_2019_paper.pdf) [[code]](https://github.com/mkhodabandeh/robust_domain_adaptation)
 - Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[ICCV2019]](https://arxiv.org/abs/1907.10343)
+- Few-Shot Adaptive Faster R-CNN [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)
 - Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)
 - Adapting Object Detectors via Selective Cross-Domain Alignment [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)
 - Automatic adaptation of object detectors to new domains using self-training [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/RoyChowdhury_Automatic_Adaptation_of_Object_Detectors_to_New_Domains_Using_Self-Training_CVPR_2019_paper.pdf) [[Project]](http://vis-www.cs.umass.edu/unsupVideo/)
