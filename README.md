@@ -72,6 +72,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ## Theory
 **Arxiv**
+- Learning Bounds for Moment-Based Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08260)
 - A General Upper Bound for Unsupervised Domain Adaptation [[3 Oct 2019]](https://arxiv.org/abs/1910.01409)
 - On Deep Domain Adaptation: Some Theoretical Understandings [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199)
 
