@@ -467,6 +467,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ### Semantic Segmentation
 **Arxiv**
+- Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation 
+[[8 Mar 2020]](https://arxiv.org/abs/2003.03773)
+- Unsupervised Scene Adaptation with Memory Regularization in vivo [[24 Dec 2019]](https://arxiv.org/abs/1912.11164)
 - Class-Conditional Domain Adaptation on Semantic Segmentation [[27 Nov 2019]](https://arxiv.org/abs/1911.11981v1)
 - Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation [[23 Oct 2019]](https://arxiv.org/abs/1910.10563)
 - Restyling Data: Application to Unsupervised Domain Adaptation [[24 Sep 2019]](https://arxiv.org/abs/1909.10900)
