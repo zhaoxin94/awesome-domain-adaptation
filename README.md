@@ -350,6 +350,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
 
 **Arxiv**
+- Domain Adaptive Ensemble Learning [[arXiv]](https://arxiv.org/abs/2003.07325)
 - Multi-Source Domain Adaptation and Semi-Supervised Domain Adaptation with Focus on Visual Domain Adaptation Challenge 2019 [[14 Oct 2019]](https://arxiv.org/abs/1910.03548)
 
 
@@ -626,9 +627,10 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
 
 # Library
-- [Xlearn:Transfer Learning Library](https://github.com/thuml/Xlearn)
-- [deep-transfer-learning:a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
-- [salad:a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
+- [Xlearn: Transfer Learning Library](https://github.com/thuml/Xlearn)
+- [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
+- [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
+- [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch)
 
 # Lectures and Tutorials
 - A Primer on Domain Adaptation [[PDF]](https://arxiv.org/abs/2001.09994v2)
