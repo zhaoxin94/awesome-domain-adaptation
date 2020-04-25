@@ -470,7 +470,6 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Arxiv**
 - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation 
 [[8 Mar 2020]](https://arxiv.org/abs/2003.03773)
-- Unsupervised Scene Adaptation with Memory Regularization in vivo [[24 Dec 2019]](https://arxiv.org/abs/1912.11164)
 - Class-Conditional Domain Adaptation on Semantic Segmentation [[27 Nov 2019]](https://arxiv.org/abs/1911.11981v1)
 - Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation [[23 Oct 2019]](https://arxiv.org/abs/1910.10563)
 - Restyling Data: Application to Unsupervised Domain Adaptation [[24 Sep 2019]](https://arxiv.org/abs/1909.10900)
@@ -478,6 +477,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation [[8 Dec 2016]](https://arxiv.org/abs/1612.02649)
 
 **Conference**
+- Unsupervised Scene Adaptation with Memory Regularization in vivo [[IJCAI 2020]](https://arxiv.org/abs/1912.11164) [[code]](https://github.com/layumi/Seg-Uncertainty)
 - An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation [[AAAI2020]](https://arxiv.org/abs/1912.08954v1)
 - Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation [[NeurIPS2019]](https://arxiv.org/abs/1910.13049)) [[code]](https://github.com/RogerZhangzz/CAG_UDA)
 - MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling [[WACV2020]](https://arxiv.org/abs/1909.13776)
