@@ -75,6 +75,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Learning Bounds for Moment-Based Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08260)
 - A General Upper Bound for Unsupervised Domain Adaptation [[3 Oct 2019]](https://arxiv.org/abs/1910.01409)
 - On Deep Domain Adaptation: Some Theoretical Understandings [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199)
+- Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift [[arXiv 10 Mar 2020]](https://arxiv.org/abs/2003.04475)
 
 **Conference**
 - Bridging Theory and Algorithm for Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf) [[Pytorch]](https://github.com/thuml/MDD)
