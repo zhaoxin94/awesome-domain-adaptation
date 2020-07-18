@@ -293,12 +293,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Few-shot DA
 **Conference**
+- Few-shot Domain Adaptation by Causal Mechanism Transfer [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/1121-Paper.pdf) [[code]](https://github.com/takeshi-teshima/few-shot-domain-adaptation-by-causal-mechanism-transfer)
 - Few-Shot Adaptive Faster R-CNN [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
-
-**Arxiv**
-- Few-shot Domain Adaptation by Causal Mechanism Transfer [[10 Feb 2020]](https://arxiv.org/abs/2002.03497v1)
 
 ## Open Set DA
 
