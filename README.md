@@ -640,7 +640,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
 
 # Library
-- [Xlearn: Transfer Learning Library](https://github.com/thuml/Xlearn)
+- [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 - [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
 - [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 - [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch)
