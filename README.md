@@ -263,14 +263,17 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation by Mapped Correlation Alignment [[IEEE ACCESS]](https://ieeexplore.ieee.org/abstract/document/8434290/)
 
 ## Semi-supervised DA
-**Arxiv**
-- Opposite Structure Learning for Semi-supervised Domain Adaptation [[6 Feb 2020]](https://arxiv.org/abs/2002.02545v1)
-- Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
 
 **Conference**
 - Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2007.09375v1)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
+- Bidirectional Adversarial Training for Semi-Supervised Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/130)
 - Semi-supervised Domain Adaptation via Minimax Entropy [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.pdf) [[Pytorch]](https://github.com/VisionLearningGroup/SSDA_MME)
+
+**Arxiv**
+- MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation [[ 24 Jul 2020]](https://arxiv.org/abs/2007.12684)
+- Opposite Structure Learning for Semi-supervised Domain Adaptation [[6 Feb 2020]](https://arxiv.org/abs/2002.02545v1)
+- Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
 
 ## Weakly-Supervised DA
 **Arxiv**
