@@ -210,7 +210,6 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Other Methods
 **Arxiv**
-- Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift [[25 Jan 2020]](https://arxiv.org/abs/2001.07895v3)
 - Less Confusion More Transferable: Minimum Class Confusion for Versatile Domain Adaptation [[8 Dec 2019]](https://arxiv.org/abs/1912.03699v1)
 - Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[21 Nov 2019]](https://arxiv.org/abs/1911.09310v1)
 - Deep causal representation learning for unsupervised domain adaptation [[28 Oct 2019]](https://arxiv.org/abs/1910.12417)
@@ -226,6 +225,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
 
 **Conference**
+- Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2472_ECCV_2020_paper.php) [[Pytorch]](https://github.com/iiyama-lab/PS-VAEs)
 - Domain Adaptive Multiflow Networks [[ICLR2020]](https://openreview.net/forum?id=rJxycxHKDS)
 - Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment [[AAAI2020]](https://arxiv.org/abs/2002.08675v1)
 - Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling [[AAAI2020]](https://arxiv.org/abs/1911.07982) [[Matlab]](https://github.com/hellowangqian/domain-adaptation-capls)
