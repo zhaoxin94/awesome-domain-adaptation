@@ -30,6 +30,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Heterogeneous DA](#heterogeneous-da)
   - [Target-agnostic DA](#target-agnostic-da)
   - [Federated DA](#federated-da)
+  - [Continuously Indexed DA](#continuously-indexed-da)  
   - [Model Selection](#model-selection)
   - [Other Transfer Learning Paradigms](#other-transfer-learning-paradigms)
     - [Domain Generalization](#domain-generalization)
@@ -399,6 +400,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Federated DA
 **Arxiv**
 - Federated Adversarial Domain Adaptation [[5 Nov 2019]](https://arxiv.org/abs/1911.02054v1)
+
+## Continuously Indexed DA
+**Conference**
+- Continuously Indexed Domain Adaptation [[ICML 2020]](http://wanghao.in/paper/ICML20_CIDA.pdf) [[Pytorch]](https://github.com/hehaodele/CIDA) [[Project Page]](https://github.com/hehaodele/CIDA/blob/master/README.md) [[Video]](https://www.youtube.com/watch?v=KtZPSCD-WhQ)
 
 ## Model Selection
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
