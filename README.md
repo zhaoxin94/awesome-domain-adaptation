@@ -1,4 +1,4 @@
-# awsome-domain-adaptation
+# awesome-domain-adaptation
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
@@ -30,6 +30,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Heterogeneous DA](#heterogeneous-da)
   - [Target-agnostic DA](#target-agnostic-da)
   - [Federated DA](#federated-da)
+  - [Continuously Indexed DA](#continuously-indexed-da)  
   - [Model Selection](#model-selection)
   - [Other Transfer Learning Paradigms](#other-transfer-learning-paradigms)
     - [Domain Generalization](#domain-generalization)
@@ -66,6 +67,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Domain Adaptation for Visual Applications: A Comprehensive Survey  [[2017]](https://arxiv.org/abs/1702.05374)
 
 **Journal**
+- A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [[TNNLS 2020]](https://arxiv.org/pdf/2009.00155.pdf)
 - Deep Visual Domain Adaptation: A Survey [[Neurocomputing 2018]](https://arxiv.org/abs/1802.03601v4)
 - A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
 - Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
@@ -76,9 +78,9 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Learning Bounds for Moment-Based Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08260)
 - A General Upper Bound for Unsupervised Domain Adaptation [[3 Oct 2019]](https://arxiv.org/abs/1910.01409)
 - On Deep Domain Adaptation: Some Theoretical Understandings [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199)
-- Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift [[arXiv 10 Mar 2020]](https://arxiv.org/abs/2003.04475)
 
 **Conference**
+- Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift [[NeurIPS 2020]](https://arxiv.org/abs/2003.04475)
 - Bridging Theory and Algorithm for Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf) [[Pytorch]](https://github.com/thuml/MDD)
 - On Learning Invariant Representation for Domain Adaptation [[ICML2019]](https://arxiv.org/abs/1901.09453v1) [[code]](https://github.com/KeiraZhao/On-Learning-Invariant-Representations-for-Domain-Adaptation)
 - Unsupervised Domain Adaptation Based on Source-guided Discrepancy [[AAAI2019]](https://arxiv.org/abs/1809.03839)
@@ -402,6 +404,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Arxiv**
 - Federated Adversarial Domain Adaptation [[5 Nov 2019]](https://arxiv.org/abs/1911.02054v1)
 
+## Continuously Indexed DA
+**Conference**
+- Continuously Indexed Domain Adaptation [[ICML 2020]](http://wanghao.in/paper/ICML20_CIDA.pdf) [[Pytorch]](https://github.com/hehaodele/CIDA) [[Project Page]](https://github.com/hehaodele/CIDA/blob/master/README.md) [[Video]](https://www.youtube.com/watch?v=KtZPSCD-WhQ)
+
 ## Model Selection
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
 
@@ -489,14 +495,17 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Semantic Segmentation
 
 **Conference**
+- Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation [[BMVC2020]](https://arxiv.org/abs/2009.01166)
 - Content-Consistent Matching for Domain Adaptive Semantic Segmentation [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590426.pdf) [[PyTorch]](https://github.com/Solacex/CCM)
+- Phase Consistent Ecological Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Phase_Consistent_Ecological_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/donglao/PCEDA)
+- FDA: Fourier Domain Adaptation for Semantic Segmentation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/YanchaoYang/FDA/blob/master/SStrain.py)
 - Unsupervised Instance Segmentation in Microscopy Images via Panoptic Domain Adaptation and Task Re-weighting [[CVPR2020]](https://arxiv.org/abs/2005.02066v1)
 - Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision [[CVPR2020 Oral]](https://arxiv.org/abs/2004.07703v1) [[Pytorch]](https://github.com/feipan664/IntraDA)
 - Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation [[CVPR2020]](https://arxiv.org/abs/2003.08040v1)
 - Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation [[CVPR2020]](https://arxiv.org/abs/2003.00867v2) [[Pytorch]](https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation)
 - xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation [[CVPR2020]](https://arxiv.org/abs/1911.12676) [[Demo]](https://www.youtube.com/watch?v=WgvBBCEKQVE) [[code]](https://github.com/valeoai/xmuda)
 - Unsupervised Scene Adaptation with Memory Regularization in vivo [[IJCAI2020]](https://arxiv.org/abs/1912.11164) [[code]](https://github.com/layumi/Seg-Uncertainty)
-- Joint Adversarial Learning for Domain Adaptation in Semantic Segmentation [[AAAI2020]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangY.4858.pdf)
+- Joint Adversarial Learning for Domain Adaptation in Semantic Segmentation [[AAAI2020]](https://aaai.org/ojs/index.php/AAAI/article/view/6169)
 - An Adversarial Perturbation Oriented Domain Adaptation Approach for Semantic Segmentation [[AAAI2020]](https://arxiv.org/abs/1912.08954v1)
 - Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation [[NeurIPS2019]](https://arxiv.org/abs/1910.13049) [[code]](https://github.com/RogerZhangzz/CAG_UDA)
 - MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling [[WACV2020]](https://arxiv.org/abs/1909.13776)
@@ -533,12 +542,13 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - No more discrimination: Cross city adaptation of road scene segmenters [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Chen_No_More_Discrimination_ICCV_2017_supplemental.pdf)
 
 **Journal**
+- Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation 
+[[IJCV2020]](https://arxiv.org/abs/2003.03773)[[Pytorch]](https://github.com/layumi/Seg-Uncertainty)
+- Affinity Space Adaptation for Semantic Segmentation Across Domains [[TIP2020]](https://arxiv.org/abs/2009.12559)[[Pytorch]](https://github.com/idealwei/ASANet)
 - Semantic-aware short path adversarial training for cross-domain semantic segmentation [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219315656#fig0002) 
 - Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
 
 **Arxiv**
-- Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation 
-[[8 Mar 2020]](https://arxiv.org/abs/2003.03773)
 - Class-Conditional Domain Adaptation on Semantic Segmentation [[27 Nov 2019]](https://arxiv.org/abs/1911.11981v1)
 - Adversarial Learning and Self-Teaching Techniques for Domain Adaptation in Semantic Segmentation [[2 Sep 2019]](https://arxiv.org/abs/1909.00781v1)
 - FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation [[8 Dec 2016]](https://arxiv.org/abs/1612.02649)
