@@ -319,6 +319,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Open Set Domain Adaptation by Backpropagation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/ksaito-ut/OPDA_BP) [[Tensorflow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
+**Journal**
+- Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation [[IEEE TMM]](https://arxiv.org/abs/2007.00384) [[Pytorch]](https://github.com/tasfia/DAMC)
+  
 **Arxiv**
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[20 Feb 2020]](https://arxiv.org/pdf/2002.08681.pdf) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation [[10 Feb 2020]](https://arxiv.org/abs/2002.03642v1)
