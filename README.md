@@ -329,6 +329,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Open Set DA
 **Conference**
 - On the Effectiveness of Image Rotation for Open Set Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610409.pdf) [[Pytorch]](https://github.com/silvia1993/ROS)
+- Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)
 - Progressive Graph Learning for Open-Set Domain Adaptation [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/136-Paper.pdf) [[Pytorch]](https://github.com/BUserName/PGL)
 - Joint Partial Optimal Transport for Open Set Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0352.pdf)
 - Exploring Category-Agnostic Clusters for Open-Set Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Exploring_Category-Agnostic_Clusters_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.pdf)
@@ -361,6 +362,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Multi Source DA
 
 **Conference**
+- Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](https://dipeshtamboli.github.io/blog/2020/Multi-Source-Open-Set-Deep-Adversarial-Domain-Adaptation/)
 - Curriculum Manager for Source Selection in Multi-Source Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2007.01261v1)
