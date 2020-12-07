@@ -98,6 +98,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 **Conference**
 - DIRL: Domain-Invariant Reperesentation Learning Approach for Sim-to-Real Transfer [[CoRL2020]](https://arxiv.org/abs/2011.07589) [[Project]](https://www.sites.google.com/view/dirl)
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation [[ECCV2020]](https://arxiv.org/abs/2007.09222) [[PyTorch]](https://github.com/JDAI-CV/FADA)
+- Gradually Vanishing Bridge for Adversarial Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Gradually_Vanishing_Bridge_for_Adversarial_Domain_Adaptation_CVPR_2020_paper.pdf) [[code]](https://github.com/cuishuhao/GVB)
 - Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation [[ICML2020]](https://arxiv.org/abs/2006.04996) [[Pytorch]](https://github.com/xiangdal/implicit_alignment)
 - Adversarial-Learned Loss for Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/2001.01046v1)
 - Adversarial Domain Adaptation with Domain Mixup [[AAAI2020]](https://arxiv.org/abs/1912.01805v1) [[Pytorch]](https://github.com/ChrisAllenMing/Mixup_for_UDA)
@@ -232,8 +233,11 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
 
 **Conference**
+- Heuristic Domain Adaptation [[NeurIPS2020]](https://arxiv.org/abs/2011.14540) [[Pytorch]](https://github.com/cuishuhao/HDA)
 - Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2472_ECCV_2020_paper.php) [[Pytorch]](https://github.com/iiyama-lab/PS-VAEs)
 - Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [[ECCV2020]](https://arxiv.org/pdf/2007.07695.pdf) [[PyTorch]](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)
+- Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering [[CVPR2020 Oral]](http://arxiv.org/abs/2003.08607) [[Pytorch]](https://github.com/huitangtang/SRDC-CVPR2020)
+- Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations [[CVPR2020 Oral]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Towards_Discriminability_and_Diversity_Batch_Nuclear-Norm_Maximization_Under_Label_Insufficient_CVPR_2020_paper.pdf) [[Pytorch]] (https://github.com/cuishuhao/BNM)
 - Domain Adaptive Multiflow Networks [[ICLR2020]](https://openreview.net/forum?id=rJxycxHKDS)
 - Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment [[AAAI2020]](https://arxiv.org/abs/2002.08675v1)
 - Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling [[AAAI2020]](https://arxiv.org/abs/1911.07982) [[Matlab]](https://github.com/hellowangqian/domain-adaptation-capls)
@@ -439,6 +443,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Beyond Domain Adaptation: Unseen Domain Encapsulation via Universal Non-volume Preserving Models [[9 Dec 2018]](https://arxiv.org/abs/1812.03407v1)
 
 **Conference**
+- Learning to Learn Single Domain Generalization [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Learning_to_Learn_Single_Domain_Generalization_CVPR_2020_paper.pdf) [[code]](https://github.com/joffery/M-ADA)
 - Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition [[ICLR2020]](https://openreview.net/forum?id=H1lxVyStPH)
 - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation [[ICLR2020]](https://openreview.net/forum?id=SJl5Np4tPr)
 - Domain Generalization Using a Mixture of Multiple Latent Domains [[AAAI2020]](https://arxiv.org/abs/1911.07661v1) [[Pytorch]](https://github.com/mil-tokyo/dg_mmld)
@@ -483,6 +488,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Object Detection
   
 **Conference**
+- Exploring Categorical Regularization for Domain Adaptive Object Detection [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/Megvii-Nanjing/CR-DA-DET)
+- Cross-domain Detection via Graph-induced Prototype Alignment [[CVPR2020 Oral]] (https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf) [[code]] (https://github.com/ChrisAllenMing/GPA-detection)
 - Deep Domain Adaptive Object Detection: a Survey [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
 - Progressive Domain Adaptation for Object Detection [[WACV]](https://arxiv.org/abs/1910.11319)
 - Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night [[IJCNN2019 Oral]](https://ieeexplore.ieee.org/document/8852008) [[Project]](https://github.com/viniciusarruda/cross-domain-car-detection)
@@ -581,6 +588,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Similarity-preserving Image-image Domain Adaptation for Person Re-identification [[arXiv 26 Nov 2018]](https://arxiv.org/abs/1811.10551v1)
 
 **Conference**
+- Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Online_Joint_Multi-Metric_Adaptation_From_Frequent_Sharing-Subset_Mining_for_Person_CVPR_2020_paper.pdf)
 - Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [[ICLR2020]](https://openreview.net/forum?id=rJlnOhVYPS) [[Pytorch]](https://github.com/yxgeee/MMT)
 - Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification [[ICCV2019 Oral]](https://arxiv.org/abs/1811.10144) [[Pytorch]](https://github.com/OasisYang/SSG)
 - A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification [[ICCV2019]](https://arxiv.org/abs/1904.03425)
