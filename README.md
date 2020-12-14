@@ -488,6 +488,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Object Detection
   
 **Conference**
+- Harmonizing Transferability and Discriminability for Adapting Object Detectors [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.pdf) [[code]](https://github.com/chaoqichen/HTCN)
 - Exploring Categorical Regularization for Domain Adaptive Object Detection [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf) [[code]](https://github.com/Megvii-Nanjing/CR-DA-DET)
 - Cross-domain Detection via Graph-induced Prototype Alignment [[CVPR2020 Oral]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf) [[code]](https://github.com/ChrisAllenMing/GPA-detection)
 - Deep Domain Adaptive Object Detection: a Survey [[ICIP2020]](https://arxiv.org/abs/2002.06797v1)
