@@ -297,19 +297,19 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Transferable Curriculum for Weakly-Supervised Domain Adaptation [[AAAI2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-curriculum-aaai19.pdf)
 
 ## Zero-shot DA
-**Arxiv**
-
-
 **Conference**
-
 - Zero-shot Domain Adaptation Based on Attribute Information [[ACML2019]](http://proceedings.mlr.press/v101/ishii19a.html)
 - Conditional Coupled Generative Adversarial Networks for Zero-Shot Domain Adaptation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Conditional_Coupled_Generative_Adversarial_Networks_for_Zero-Shot_Domain_Adaptation_ICCV_2019_paper.pdf)
-- Generalized Zero-Shot Learning with Deep Calibration Network [NIPS2018](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-calibration-network-nips18.pdf)
+- Generalized Zero-Shot Learning with Deep Calibration Network [[NIPS2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-calibration-network-nips18.pdf)
 - Zero-Shot Deep Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuan-Chuan_Peng_Zero-Shot_Deep_Domain_ECCV_2018_paper.pdf)
 
 ## One-shot DA
-- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning [[arxiv]](https://arxiv.org/abs/1802.01557)
+**Conference**
+- Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/hash/ed265bc903a5a097f61d3ec064d96d2e-Abstract.html) [[Pytorch]](https://github.com/RoyalVane/ASM)
 - One-Shot Adaptation of Supervised Deep Convolutional Models [[ICLR Workshop 2014]](https://arxiv.org/abs/1312.6204)
+
+**Arxiv**
+- One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning [[arxiv]](https://arxiv.org/abs/1802.01557)
 
 ## Few-shot DA
 **Conference**
@@ -521,6 +521,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Semantic Segmentation
 
 **Conference**
+- Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/hash/ed265bc903a5a097f61d3ec064d96d2e-Abstract.html) [[Pytorch]](https://github.com/RoyalVane/ASM)
 - Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation [[BMVC2020]](https://arxiv.org/abs/2009.01166)
 - Content-Consistent Matching for Domain Adaptive Semantic Segmentation [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590426.pdf) [[PyTorch]](https://github.com/Solacex/CCM)
 - Phase Consistent Ecological Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Phase_Consistent_Ecological_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/donglao/PCEDA)
