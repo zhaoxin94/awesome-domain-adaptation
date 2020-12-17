@@ -694,6 +694,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ## Benchmarks
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
+- Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ImageNet-C) [[ICLR 2019]](https://arxiv.org/abs/1903.12261) [[PyTorch]](https://github.com/hendrycks/robustness)
 
 # Library
 - [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
