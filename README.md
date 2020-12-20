@@ -13,6 +13,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Unsupervised DA](#unsupervised-da)
     - [Adversarial Methods](#adversarial-methods)
     - [Distance-based Methods](#distance-based-methods)
+    - [Information-based Methods](#information-based-methods)
     - [Optimal Transport](#optimal-transport)
     - [Incremental Methods](#incremental-methods)
     - [Other Methods](#other-methods)
@@ -204,6 +205,10 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 **Arxiv**
 - Deep Domain Confusion: Maximizing for Domain Invariance [[Arxiv 2014]](https://arxiv.org/abs/1412.3474)
+
+
+### Information-based Methods
+- Hypothesis Disparity Regularized Mutual Information Maximization [[AAAI2021]](https://arxiv.org/abs/2012.08072)
 
 
 ### Optimal Transport
