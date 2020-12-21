@@ -76,7 +76,6 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ## Theory
 **Arxiv**
-- Learning Bounds for Moment-Based Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08260)
 - A General Upper Bound for Unsupervised Domain Adaptation [[3 Oct 2019]](https://arxiv.org/abs/1910.01409)
 - On Deep Domain Adaptation: Some Theoretical Understandings [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199)
 
@@ -90,6 +89,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Journal**
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
+- On generalization in moment-based domain adaptation [[AMAI2020]](https://link.springer.com/article/10.1007/s10472-020-09719-x)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 
 ## Unsupervised DA
@@ -189,6 +189,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 **Journal**
 
 - Transferable Representation Learning with Deep Adaptation Networks [[TPAMI]](https://ieeexplore.ieee.org/document/8454781)
+- Robust unsupervised domain adaptation for neural networks via moment alignment [[InfSc2019]](https://www.sciencedirect.com/science/article/abs/pii/S0020025519300301)
 
 **Conference**
 - Domain Conditioned Adaptation Network [[AAAI2020]](https://arxiv.org/abs/2005.06717) [[Pytorch]](https://github.com/BIT-DA/DCAN)
@@ -650,6 +651,10 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Accelerating Deep Unsupervised Domain Adaptation with Transfer Channel Pruning [[IJCNN]](https://arxiv.org/abs/1904.02654)
 - Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues [[WWW2019]](https://arxiv.org/abs/1901.10124)
 - Cross-Dataset Adaptation for Visual Question Answering [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chao_Cross-Dataset_Adaptation_for_CVPR_2018_paper.pdf)
+
+**Journal**
+- Multi-source transfer learning of time series in cyclical manufacturing [[JIntellManuf2020]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
+- Domain adaptation for regression under Beer-Lambert's law [[KBS2020]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305761)
 
 ## Related Topics
 ### Image-to-Image Translation
