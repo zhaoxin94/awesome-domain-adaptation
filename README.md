@@ -585,6 +585,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Class-Conditional Domain Adaptation on Semantic Segmentation [[27 Nov 2019]](https://arxiv.org/abs/1911.11981v1)
 - Adversarial Learning and Self-Teaching Techniques for Domain Adaptation in Semantic Segmentation [[2 Sep 2019]](https://arxiv.org/abs/1909.00781v1)
 - FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation [[8 Dec 2016]](https://arxiv.org/abs/1612.02649)
+- BoMuDA: Boundless Multi-Source Domain Adaptive Segmentation in Unconstrained Environments [[13 Oct 2020]](https://arxiv.org/abs/2010.03523)[[Pytorch]](https://github.com/divyakraman/BoMuDA-Boundless-Multi-Source-Domain-Adaptive-Segmentation-in-Unstructured-Environments)
+- SAfE: Self-Attention Based Unsupervised Road Safety Classification in Hazardous Environments [[27 Nov 2020]](https://arxiv.org/abs/2012.08939)[[Pytorch]](https://github.com/divyakraman/SAfE-Self-Attention-Based-Unsupervised-Road-Safety-Classification-in-Hazardous-Environments)
 
 ### Person Re-identification
 **Arxiv**
