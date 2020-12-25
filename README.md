@@ -338,6 +338,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 
 **Arxiv**
+- Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation [[arXiv 06 Dec 2020]](https://arxiv.org/abs/2012.03358)
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[20 Feb 2020]](https://arxiv.org/pdf/2002.08681.pdf) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - Tackling Partial Domain Adaptation with Self-Supervision [[arXiv 12 Jun 2019]](https://arxiv.org/abs/1906.05199v1)
 - Domain Adversarial Reinforcement Learning for Partial Domain Adaptation [[arXiv 10 May 2019]](https://arxiv.org/abs/1905.04094v1)
