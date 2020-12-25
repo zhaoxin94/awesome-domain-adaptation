@@ -640,11 +640,6 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Domain-Adaptive Single-View 3D Reconstruction [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pinheiro_Domain-Adaptive_Single-View_3D_Reconstruction_ICCV_2019_paper.pdf)
 
 ### Others
-**Arxiv**
-- Open-Ended Visual Question Answering by Multi-Modal Domain Adaptation [[11 Nov 2019]](https://arxiv.org/abs/1911.04058)
-- DANE: Domain Adaptive Network Embedding [[arXiv 3 Jun 2019]](https://arxiv.org/abs/1906.00684v1)
-- Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
-
 **Conference**
 - Unsupervised Domain Adaptation for 3D Human Pose Estimation [[ACM MM2019]](https://dl.acm.org/citation.cfm?id=3351052)
 - PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation [[NeurIPS 2019]](https://arxiv.org/abs/1911.02744v1) [[code]](https://github.com/canqin001/PointDAN)
@@ -656,9 +651,15 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Cross-Dataset Adaptation for Visual Question Answering [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chao_Cross-Dataset_Adaptation_for_CVPR_2018_paper.pdf)
 
 **Journal**
+- An Unsupervised Domain Adaptation Scheme for Single-Stage Artwork Recognition in Cultural Sites [[Image and Vision Computing 2020]](https://arxiv.org/abs/2008.01882v3) [[Pytorch]](https://github.com/fpv-iplab/DA-RetinaNet) [[Project]](https://iplab.dmi.unict.it/EGO-CH-OBJ-UDA/)
 - Multi-source transfer learning of time series in cyclical manufacturing [[JIntellManuf2020]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 - Domain adaptation for regression under Beer-Lambert's law [[KBS2020]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305761)
 
+
+**Arxiv**
+- Open-Ended Visual Question Answering by Multi-Modal Domain Adaptation [[11 Nov 2019]](https://arxiv.org/abs/1911.04058)
+- DANE: Domain Adaptive Network Embedding [[arXiv 3 Jun 2019]](https://arxiv.org/abs/1906.00684v1)
+- Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
 ## Related Topics
 ### Image-to-Image Translation
 **Arxiv**
