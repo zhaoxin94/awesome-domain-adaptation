@@ -32,6 +32,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Target-agnostic DA](#target-agnostic-da)
   - [Federated DA](#federated-da)
   - [Continuously Indexed DA](#continuously-indexed-da)
+  - [Source Free DA](#source-free-da)
   - [Model Selection](#model-selection)
   - [Other Transfer Learning Paradigms](#other-transfer-learning-paradigms)
     - [Domain Generalization](#domain-generalization)
@@ -436,6 +437,16 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Continuously Indexed DA
 **Conference**
 - Continuously Indexed Domain Adaptation [[ICML 2020]](http://wanghao.in/paper/ICML20_CIDA.pdf) [[Pytorch]](https://github.com/hehaodele/CIDA) [[Project Page]](https://github.com/hehaodele/CIDA/blob/master/README.md) [[Video]](https://www.youtube.com/watch?v=KtZPSCD-WhQ)
+
+## Source Free DA
+** Conference
+- Domain Impression: A Source Data Free Domain Adaptation Method [[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) [[Project]](https://delta-lab-iitk.github.io/SFDA/)
+- Universal Source-Free Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
+- Towards Inheritable Models for Open-Set Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/inheritune)
+- Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation [[ICML2020]](http://proceedings.mlr.press/v119/ishida20a.html) [[Pytorch]](https://github.com/tim-learn/SHOT)
+
+** Arxiv
+- Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer [[14 Dec 2020]](https://arxiv.org/abs/2012.07297) [[Pytorch]](https://github.com/tim-learn/SHOT-plus)
 
 ## Model Selection
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
