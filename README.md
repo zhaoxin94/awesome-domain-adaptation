@@ -77,6 +77,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ## Theory
 **Arxiv**
+- A Theory of Label Propagation for Subpopulation Shift [[22 Feb 2021]](https://arxiv.org/abs/2102.11203)
 - A General Upper Bound for Unsupervised Domain Adaptation [[3 Oct 2019]](https://arxiv.org/abs/1910.01409)
 - On Deep Domain Adaptation: Some Theoretical Understandings [[arXiv 15 Nov 2018]](https://arxiv.org/abs/1811.06199)
 
@@ -157,6 +158,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Unsupervised Domain Adaptation by Backpropagation [[ICML2015]](http://proceedings.mlr.press/v37/ganin15.pdf) [[Caffe(Official)]](https://github.com/ddtm/caffe/tree/grl) [[Tensorflow]](https://github.com/shucunt/domain_adaptation) [[Pytorch]](https://github.com/fungtion/DANN)
 
 **Journal**
+- Incremental Unsupervised Domain-Adversarial Training of Neural Networks [[TNNLS 2020]](https://ieeexplore.ieee.org/document/9216604)
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation [[IEEE ACCESS]](https://ieeexplore.ieee.org/document/8913529)
 - TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
@@ -220,6 +222,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Joint Distribution Optimal Transportation for Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [[python]](https://github.com/rflamary/JDOT) [[Python Optimal Transport Library]](https://github.com/rflamary/POT)
 
 ### Incremental Methods
+- Incremental Unsupervised Domain-Adversarial Training of Neural Networks [[TNNLS 2020]](https://ieeexplore.ieee.org/document/9216604)
 - Incremental Adversarial Domain Adaptation for Continually Changing Environments [[ICRA2018]](https://arxiv.org/abs/1712.07436)
 - Continuous Manifold based Adaptation for Evolving Visual Domains [[CVPR2014]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
 
@@ -320,6 +323,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Few-shot DA
 **Conference**
+- Domain-Adaptive Few-Shot Learning[[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Domain-Adaptive_Few-Shot_Learning_WACV_2021_paper.pdf) [[Pytorch]](https://github.com/dingmyu/DAPN)
 - Few-shot Domain Adaptation by Causal Mechanism Transfer [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/1121-Paper.pdf) [[Pytorch]](https://github.com/takeshi-teshima/few-shot-domain-adaptation-by-causal-mechanism-transfer)
 - Few-Shot Adaptive Faster R-CNN [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
@@ -330,6 +334,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560120.pdf) [[Pytorch]](https://github.com/tim-learn/BA3US)
 - Discriminative Partial Domain Adversarial Network [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720630.pdf)
 - Selective Transfer With Reinforced Transfer Network for Partial Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Selective_Transfer_With_Reinforced_Transfer_Network_for_Partial_Domain_Adaptation_CVPR_2020_paper.pdf)
+- Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation [[ACM MM2020]](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)
 - Learning to Transfer Examples for Partial Domain Adaptation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_Learning_to_Transfer_Examples_for_Partial_Domain_Adaptation_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/thuml/ETN)
 - Partial Adversarial Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/thuml/PADA)
 - Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Importance_Weighted_Adversarial_CVPR_2018_paper.html) [[Caffe]](https://github.com/hellojing89/weightedGANpartialDA)
