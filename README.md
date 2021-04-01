@@ -255,6 +255,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Transferable Calibration with Lower Bias and Variance in Domain Adaptation [[NeurIPS 2020]](https://arxiv.org/abs/2007.08259)
 - A Dictionary Approach to Domain-Invariant Learning in Deep Networks [[NeurIPS 2020]](https://arxiv.org/abs/1909.11285)
 - Heuristic Domain Adaptation [[NeurIPS2020]](https://arxiv.org/abs/2011.14540) [[Pytorch]](https://github.com/cuishuhao/HDA)
+- Mind the Discriminability: Asymmetric Adversarial Domain Adaptation [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690579.pdf)
 - Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510749.pdf)
 - CSCL: Critical Semantic-Consistent Learning for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530732.pdf)
 - Minimum Class Confusion for Versatile Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660460.pdf)
@@ -434,7 +435,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Multi Source DA
 
 **Conference**
-Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf)
+Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf) [[Project]](https://sites.google.com/view/simpal)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](https://dipeshtamboli.github.io/blog/2020/Multi-Source-Open-Set-Deep-Adversarial-Domain-Adaptation/)
