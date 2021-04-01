@@ -416,6 +416,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Universal DA
 **Conference**
+- Domain Consensus Clustering for Universal Domain Adaptation [[CVPR 2021]](http://reler.net/papers/guangrui_cvpr2021.pdf) [[Pytorch]](https://github.com/Solacex/Domain-Consensus-Clustering)
 - Universal Domain Adaptation through Self Supervision [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/hash/bb7946e7d85c81a9e69fee1cea4a087c-Abstract.html) [[Pytorch]](https://github.com/VisionLearningGroup/DANCE)
 - Learning to Detect Open Classes for Universal Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600562.pdf) [[code]](https://github.com/thuml/Calibrated-Multiple-Uncertainties)
 - Universal Source-Free Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
