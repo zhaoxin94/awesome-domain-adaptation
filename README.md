@@ -323,6 +323,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Semi-supervised DA
 
 **Conference**
+- Learning Invariant Representations and Risks for Semi-supervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2010.04647)
 - Attract, Perturb, and Explore: Learning a Feature Alignment Network for Semi-supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2007.09375v1)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
 - Bidirectional Adversarial Training for Semi-Supervised Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/130)
