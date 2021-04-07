@@ -628,6 +628,7 @@ Decomposition [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2
 ### Semantic Segmentation
 
 **Conference**
+- Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[CVPR2021]](https://arxiv.org/abs/2101.10979) [[Pytorch]](https://github.com/microsoft/ProDA)
 - Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation [[NeurlIPS 2020]](https://arxiv.org/abs/2011.00147v1) [[Pytorch]](https://github.com/kgl-prml/Pixel-Level-Cycle-Association)
 - Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/hash/ed265bc903a5a097f61d3ec064d96d2e-Abstract.html) [[Pytorch]](https://github.com/RoyalVane/ASM)
 - Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation [[BMVC2020]](https://arxiv.org/abs/2009.01166)
