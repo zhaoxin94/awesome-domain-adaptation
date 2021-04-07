@@ -513,6 +513,7 @@ Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 20
 
 **Arxiv**
 - Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer [[14 Dec 2020]](https://arxiv.org/abs/2012.07297) [[Pytorch]](https://github.com/tim-learn/SHOT-plus)
+- Unsupervised Domain Adaptation of Black-Box Source Models [[28 Mar 2021]](https://arxiv.org/abs/2101.02839)
 
 ## Model Selection
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
