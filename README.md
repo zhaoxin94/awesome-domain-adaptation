@@ -801,6 +801,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Cross-Dataset Adaptation for Visual Question Answering [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chao_Cross-Dataset_Adaptation_for_CVPR_2018_paper.pdf)
 
 **Journal**
+- DASGIL: Domain Adaptation for Semantic and Geometric-Aware Image-Based Localization [[TIP2020]](https://ieeexplore.ieee.org/document/9296559) [[Pytorch]](https://github.com/HanjiangHu/DASGIL) 
 - An Unsupervised Domain Adaptation Scheme for Single-Stage Artwork Recognition in Cultural Sites [[Image and Vision Computing 2020]](https://arxiv.org/abs/2008.01882v3) [[Pytorch]](https://github.com/fpv-iplab/DA-RetinaNet) [[Project]](https://iplab.dmi.unict.it/EGO-CH-OBJ-UDA/)
 - Multi-source transfer learning of time series in cyclical manufacturing [[JIntellManuf2020]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 - Domain adaptation for regression under Beer-Lambert's law [[KBS2020]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305761)
