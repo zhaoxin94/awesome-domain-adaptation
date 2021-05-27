@@ -10,6 +10,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - [Papers](#papers)
   - [Survey](#survey)
   - [Theory](#theory)
+  - [Explainable](#explainable)
   - [Unsupervised DA](#unsupervised-da)
     - [Adversarial Methods](#adversarial-methods)
     - [Distance-based Methods](#distance-based-methods)
@@ -98,6 +99,11 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - On generalization in moment-based domain adaptation [[AMAI2020]](https://link.springer.com/article/10.1007/s10472-020-09719-x)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
+
+
+## Explainable
+**Conference**
+- Visualizing Adapted Knowledge in Domain Transfer [[CVPR2021]](https://arxiv.org/abs/2104.10602) [[Pytorch]](https://github.com/hou-yz/DA_visualization)
 
 ## Unsupervised DA
 
@@ -505,6 +511,7 @@ Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 20
 
 ## Source Free DA
 **Conference**
+- Visualizing Adapted Knowledge in Domain Transfer [[CVPR2021]](https://arxiv.org/abs/2104.10602) [[Pytorch]](https://github.com/hou-yz/DA_visualization)
 - Domain Impression: A Source Data Free Domain Adaptation Method [[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) [[Project]](https://delta-lab-iitk.github.io/SFDA/)
 - Model Adaptation: Unsupervised Domain Adaptation Without Source Data [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf)
 - Universal Source-Free Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
@@ -522,6 +529,7 @@ Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 20
 ### Domain Generalization
 
 **Conference**
+- Domain Generalization via Inference-time Label-Preserving Target Projections [[CVPR2021]](https://arxiv.org/abs/2103.01134)
 - Domain Generalization via Entropy Regularization [[NeurIPS2020]](https://papers.nips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)
 - Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [[NeurIPS2020]](https://arxiv.org/abs/2009.12829)
 - Learning to Learn with Variational Information Bottleneck for Domain Generalization [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550205.pdf)
