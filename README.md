@@ -261,6 +261,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Transferable Calibration with Lower Bias and Variance in Domain Adaptation [[NeurIPS 2020]](https://arxiv.org/abs/2007.08259)
 - A Dictionary Approach to Domain-Invariant Learning in Deep Networks [[NeurIPS 2020]](https://arxiv.org/abs/1909.11285)
 - Heuristic Domain Adaptation [[NeurIPS2020]](https://arxiv.org/abs/2011.14540) [[Pytorch]](https://github.com/cuishuhao/HDA)
+- Unsupervised Domain Adaptation for Semantic Segmentation of NIR Images through Generative Latent Search [[ECCV2020]](https://arxiv.org/abs/2006.08696)[[code]](https://github.com/ambekarsameer96/GLSS)
 - Mind the Discriminability: Asymmetric Adversarial Domain Adaptation [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690579.pdf)
 - Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510749.pdf)
 - CSCL: Critical Semantic-Consistent Learning for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530732.pdf)
@@ -310,6 +311,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
 
 **Journal**
+- Target-Independent Domain Adaptation for WBC Classification using Generative Latent Search [[IEEE TMI 2020]](https://ieeexplore.ieee.org/document/9139471)[[code]](https://github.com/prinshul/WBC-Classification-UDA)
 - Adaptive Batch Normalization for practical domain adaptation [[Pattern Recognition(2018)]](https://www.sciencedirect.com/science/article/pii/S003132031830092X)
 - Unsupervised Domain Adaptation by Mapped Correlation Alignment [[IEEE ACCESS]](https://ieeexplore.ieee.org/abstract/document/8434290/)
 
