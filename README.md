@@ -24,6 +24,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
   - [Weakly-Supervised DA](#weakly-supervised-da)
   - [Zero-shot DA](#zero-shot-da)
   - [One-shot DA](#one-shot-da)
+  - [Few-shot UDA](#few-shot-uda)
   - [Few-shot DA](#few-shot-da)
   - [Partial DA](#partial-da)
   - [Open Set DA](#open-set-da)
@@ -369,6 +370,14 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Arxiv**
 - One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning [[arxiv]](https://arxiv.org/abs/1802.01557)
+
+## Few-shot UDA
+**Conference**
+- Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation
+[[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/html/Yue_Prototypical_Cross-Domain_Self-Supervised_Learning_for_Few-Shot_Unsupervised_Domain_Adaptation_CVPR_2021_paper.html) [[Pytorch]](https://github.com/zhengzangw/PCS-FUDA) [[Project]](http://xyue.io/pcs-fuda/)
+
+**Arxiv**
+- Cross-domain Self-supervised Learning for Domain Adaptation with Few Source Labels [[arXiv 18 Mar 2020]](https://arxiv.org/pdf/2003.08264.pdf)
 
 ## Few-shot DA
 **Conference**
