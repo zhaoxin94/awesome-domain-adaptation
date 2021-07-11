@@ -708,6 +708,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation [[8 Dec 2016]](https://arxiv.org/abs/1612.02649)
 - BoMuDA: Boundless Multi-Source Domain Adaptive Segmentation in Unconstrained Environments [[13 Oct 2020]](https://arxiv.org/abs/2010.03523)[[Pytorch]](https://github.com/divyakraman/BoMuDA-Boundless-Multi-Source-Domain-Adaptive-Segmentation-in-Unstructured-Environments)
 - SAfE: Self-Attention Based Unsupervised Road Safety Classification in Hazardous Environments [[27 Nov 2020]](https://arxiv.org/abs/2012.08939)[[Pytorch]](https://github.com/divyakraman/SAfE-Self-Attention-Based-Unsupervised-Road-Safety-Classification-in-Hazardous-Environments)
+- Semantics-aware Multi-modal Domain Translation:From LiDAR Point Clouds to Panoramic Color Images [[26 Jun 2021]](https://arxiv.org/abs/2106.13974) [[Pytorch]](https://github.com/halmstad-University/TITAN-NET)
 
 ### Person Re-identification
 
