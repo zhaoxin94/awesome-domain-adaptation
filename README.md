@@ -535,6 +535,7 @@ Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 20
 - Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation [[ICML2020]](http://proceedings.mlr.press/v119/ishida20a.html) [[Pytorch]](https://github.com/tim-learn/SHOT)
 
 **Arxiv**
+- Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer[[7 Jul 2021]](https://arxiv.org/abs/2107.03008)[[Pytorch]](https://github.com/Wang-xd1899/SSHT)
 - Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer [[14 Dec 2020]](https://arxiv.org/abs/2012.07297) [[Pytorch]](https://github.com/tim-learn/SHOT-plus)
 - Unsupervised Domain Adaptation of Black-Box Source Models [[28 Mar 2021]](https://arxiv.org/abs/2101.02839)
 
