@@ -608,8 +608,12 @@ Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 20
 
 ## Applications
 ### Object Detection
+
+**Survey**
+- Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper)
 - I3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_I3Net_Implicit_Instance-Invariant_Network_for_Adapting_One-Stage_Object_Detectors_CVPR_2021_paper.pdf)
 - RPN Prototype Alignment for Domain Adaptive Object Detector [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf)
 - Domain-Specific Suppression for Adaptive Object Detection [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Domain-Specific_Suppression_for_Adaptive_Object_Detection_CVPR_2021_paper.pdf)
