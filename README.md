@@ -232,6 +232,9 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Optimal Transport
 **Conference**
+- MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning [[UAI2021]](https://auai.org/uai2021/pdf/uai2021.106.pdf)
+- LAMDA: Label Matching Deep Domain Adaptation [[ICML2021]](http://proceedings.mlr.press/v139/le21a.html)
+- TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport [[IJCAI2021]](https://www.ijcai.org/proceedings/2021/0394.pdf) 
 - Unbalanced minibatch Optimal Transport; applications to Domain Adaptation [[ICML2021]](https://arxiv.org/abs/2103.03606) [[Pytorch]](https://github.com/kilianFatras/JUMBOT)
 - Graph Optimal Transport for Cross-Domain Alignment [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/971-Paper.pdf)
 - Margin-aware Adversarial Domain Adaptation with Optimal Transport [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) [[code]](https://github.com/sofiendhouib/MADAOT)
@@ -460,7 +463,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Multi Source DA
 
 **Conference**
-Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf) [[Project]](https://sites.google.com/view/simpal)
+- STEM: An approach to Multi-source Domain Adaptation with Guarantees [[ICCV2021]]()
+- MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning [[UAI2021]](https://auai.org/uai2021/pdf/uai2021.106.pdf)
+- Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf) [[Project]](https://sites.google.com/view/simpal)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](https://dipeshtamboli.github.io/blog/2020/Multi-Source-Open-Set-Deep-Adversarial-Domain-Adaptation/)
