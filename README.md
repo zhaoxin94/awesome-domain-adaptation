@@ -258,8 +258,8 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)
 
 ### Self-training-Based Methods
-- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840)[[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
-- Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197)[[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
+- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
+- Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
 - Self-training Avoids Using Spurious Features Under Domain Shift [[NeurIPS 2020]](https://arxiv.org/abs/2006.10032)
 - Two-phase Pseudo Label Densification for Self-training based Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)
 
@@ -468,7 +468,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Conference**
 - STEM: An approach to Multi-source Domain Adaptation with Guarantees [[ICCV2021]]()
 - MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning [[UAI2021]](https://auai.org/uai2021/pdf/uai2021.106.pdf)
-- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840)[[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
+- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Your Classifier can Secretly Suffice Multi-Source Domain Adaptation [[NeurIPS 2020]](https://papers.nips.cc/paper/2020/file/3181d59d19e76e902666df5c7821259a-Paper.pdf) [[Project]](https://sites.google.com/view/simpal)
 - Multi-Source Open-Set Deep Adversarial Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)
 - Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation [[ECCV2020]](https://arxiv.org/abs/2004.04398)
@@ -671,7 +671,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Conference**
 - Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[CVPR2021]](https://arxiv.org/abs/2101.10979) [[Pytorch]](https://github.com/microsoft/ProDA)
-- Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197)[[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
+- Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
 - Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning [[ICASSP 2020]](https://arxiv.org/abs/2002.08587)
 - Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation [[NeurlIPS 2020]](https://arxiv.org/abs/2011.00147v1) [[Pytorch]](https://github.com/kgl-prml/Pixel-Level-Cycle-Association)
 - Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/hash/ed265bc903a5a097f61d3ec064d96d2e-Abstract.html) [[Pytorch]](https://github.com/RoyalVane/ASM)
@@ -729,7 +729,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 **Journal**
 - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[IJCV2020]](https://arxiv.org/abs/2003.03773)[[Pytorch]](https://github.com/layumi/Seg-Uncertainty)
-- Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954)[[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
+- Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
 - Affinity Space Adaptation for Semantic Segmentation Across Domains [[TIP2020]](https://arxiv.org/abs/2009.12559)[[Pytorch]](https://github.com/idealwei/ASANet)
 - Semantic-aware short path adversarial training for cross-domain semantic segmentation [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219315656#fig0002) 
 - Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes [[TIP]](https://arxiv.org/abs/1904.09092v1)
@@ -801,7 +801,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf)
 
 **Journal**
-- Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954)[[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
+- Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
   
 **Arxiv**
 - Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation [[arXiv 29 Aug 2019]](https://arxiv.org/abs/1907.13590)
@@ -823,7 +823,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ### Others
 **Conference**
-- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840)[[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
+- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Adapting Neural Architectures Between Domains [[NeurlPS 2020]](https://github.com/liyxi/AdaptNAS)
 - Unsupervised Domain Attention Adaptation Network for Caricature Attribute Recognition [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530018.pdf)
 - A Broader Study of Cross-Domain Few-Shot Learning [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720120.pdf)
@@ -868,7 +868,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - TraVeLGAN: Image-to-image Translation by Transformation Vector Learning [[arXiv 25 Feb 2019]](https://arxiv.org/abs/1902.09631)
 
 **Conference**
-- LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831)[[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
+- LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831) [[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
 - Batch Weight for Domain Adaptation With Mass Shift [[ICCV2019]](https://arxiv.org/abs/1905.12760)
 - Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer [[ICLR2019]](https://openreview.net/forum?id=BylE1205Fm) [[Pytorch]](https://github.com/oripress/ContentDisentanglement)
 - Unsupervised Attention-guided Image-to-Image Translation [[NIPS2018]](https://papers.nips.cc/paper/7627-unsupervised-attention-guided-image-to-image-translation)
@@ -909,8 +909,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 
 ## Benchmarks
-- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840)[[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
-- LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831)[[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
+- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
+- LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831) [[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
 - Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ImageNet-C) [[ICLR 2019]](https://arxiv.org/abs/1903.12261) [[PyTorch]](https://github.com/hendrycks/robustness)
 
