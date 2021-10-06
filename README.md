@@ -619,6 +619,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection [[Arxiv 4 OCT 2021]](https://arxiv.org/pdf/2110.01428.pdf
 - MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper)
 - I3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_I3Net_Implicit_Instance-Invariant_Network_for_Adapting_One-Stage_Object_Detectors_CVPR_2021_paper.pdf)
 - RPN Prototype Alignment for Domain Adaptive Object Detector [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf)
