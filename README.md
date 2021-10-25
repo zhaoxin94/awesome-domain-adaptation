@@ -263,6 +263,13 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Self-training Avoids Using Spurious Features Under Domain Shift [[NeurIPS 2020]](https://arxiv.org/abs/2006.10032)
 - Two-phase Pseudo Label Densification for Self-training based Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)
 
+### Self-Supervised Methods
+**Conference**
+- Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf)
+
+**Arxiv**
+- Unsupervised Domain Adaptation through Self-Supervision [[arXiv 26 Sep 2019]](https://arxiv.org/abs/1909.11825)
+
 ### Other Methods
 **Conference**
 - Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift [[NeurIPS 2020]](https://arxiv.org/abs/2003.04475)
@@ -274,7 +281,6 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Domain2Vec: Domain Embedding for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510749.pdf)
 - CSCL: Critical Semantic-Consistent Learning for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530732.pdf)
 - Minimum Class Confusion for Versatile Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660460.pdf)
-- Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf)
 - Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2472_ECCV_2020_paper.php) [[Pytorch]](https://github.com/iiyama-lab/PS-VAEs)
 - Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [[ECCV2020]](https://arxiv.org/pdf/2007.07695.pdf) [[PyTorch]](https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors)
 - Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering [[CVPR2020 Oral]](http://arxiv.org/abs/2003.08607) [[Pytorch]](https://github.com/huitangtang/SRDC-CVPR2020)
