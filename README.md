@@ -792,6 +792,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 **Conference**
 - Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing [[NeurIPS2021]](https://arxiv.org/pdf/2110.15128.pdf)
+- Partial Video Domain Adaptation with Partial Adversarial Temporal Attentive Network [[ICCV2021]](https://github.com/xuyu0010/PATAN)
 - Shuffle and Attend: Video Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf)
 - Transferring Cross-Domain Knowledge for Video Sign Language Recognition [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.pdf)
 - Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/cmhungsteve/SSTDA)
