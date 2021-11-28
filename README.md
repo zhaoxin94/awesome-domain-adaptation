@@ -111,6 +111,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 ### Adversarial Methods
 
 **Conference**
+- ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation [[NeurIPS2021]](https://arxiv.org/abs/2004.01888) [[Pytorch]](https://github.com/microsoft/UDA)
+- MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2103.13575) [[Pytorch]](https://github.com/microsoft/UDA)
 - Self-adaptive Re-weighted Adversarial Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0440.pdf)
 - DIRL: Domain-Invariant Reperesentation Learning Approach for Sim-to-Real Transfer [[CoRL2020]](https://arxiv.org/abs/2011.07589) [[Project]](https://www.sites.google.com/view/dirl)
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation [[ECCV2020]](https://arxiv.org/abs/2007.09222) [[PyTorch]](https://github.com/JDAI-CV/FADA)
