@@ -781,6 +781,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[CVPR2018]](https://arxiv.org/abs/1711.07027v3)
 
 **Arxiv**
+- Domain Adaptation for Semantic Segmentation via Patch-Wise Contrastive Learning [[arXiv 22 Apr 2021]](https://arxiv.org/abs/2104.11056)
 - Structured Domain Adaptation for Unsupervised Person Re-identification [[arXiv 14 Mar 2020]](https://arxiv.org/abs/2003.06650)
 - Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification [[arXiv 25 May 2019]](https://arxiv.org/abs/1905.10529)
 - Camera Adversarial Transfer for Unsupervised Person Re-Identification [[arXiv 2 Apr 2019]](https://arxiv.org/abs/1904.01308)
