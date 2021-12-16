@@ -259,12 +259,18 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Semi-Supervised-Learning-Based Methods
 - Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)
+- Semi-supervised Models are Strong Unsupervised Domain Adaptation Learners [[arXiv 2021]]((https://arxiv.org/pdf/2106.00417.pdf))[[Pytorch]](https://github.com/YBZh/Bridging_UDA_SSL)
+
 
 ### Self-training-Based Methods
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
 - Self-training Avoids Using Spurious Features Under Domain Shift [[NeurIPS 2020]](https://arxiv.org/abs/2006.10032)
 - Two-phase Pseudo Label Densification for Self-training based Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)
+
+**Arxiv**
+- Gradual Domain Adaptation via Self-Training of Auxiliary Models[[arXiv 2021]](https://arxiv.org/pdf/2106.09890.pdf)[[Pytorch]](https://github.com/YBZh/AuxSelfTrain)
+
 
 ### Self-Supervised Methods
 **Conference**
@@ -547,6 +553,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
+- Unsupervised Domain Adaptation of Black-Box Source Models [[BMVC2021]](https://www.bmvc2021-virtualconference.com/assets/papers/0404.pdf)[[Pytorch]](https://github.com/zhjscut/IterLNL)
 - Generalize Then Adapt: Source-Free Domain Adaptive Semantic Segmentation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_Generalize_Then_Adapt_Source-Free_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.html) [[Project]](https://sites.google.com/view/sfdaseg)
 - Visualizing Adapted Knowledge in Domain Transfer [[CVPR2021]](https://arxiv.org/abs/2104.10602) [[Pytorch]](https://github.com/hou-yz/DA_visualization)
 - Domain Impression: A Source Data Free Domain Adaptation Method [[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) [[Project]](https://delta-lab-iitk.github.io/SFDA/)
@@ -558,7 +565,6 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 **Arxiv**
 - Learning Invariant Representation with Consistency and Diversity for Semi-supervised Source Hypothesis Transfer[[7 Jul 2021]](https://arxiv.org/abs/2107.03008)[[Pytorch]](https://github.com/Wang-xd1899/SSHT)
 - Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer [[14 Dec 2020]](https://arxiv.org/abs/2012.07297) [[Pytorch]](https://github.com/tim-learn/SHOT-plus)
-- Unsupervised Domain Adaptation of Black-Box Source Models [[28 Mar 2021]](https://arxiv.org/abs/2101.02839)
 
 ## Model Selection
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
