@@ -677,6 +677,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 
 **Journal**
+- Cross-domain object detection using unsupervised image translation [[ESWA]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016328)
 - Pixel and feature level based domain adaptation for object detection in autonomous driving [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S092523121931149X?via%3Dihub)
 
 **Arxiv**
