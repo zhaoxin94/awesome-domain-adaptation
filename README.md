@@ -598,6 +598,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)
 
 **Journal**
+- Domain Generalization for Regression [[IntellManuf2020]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 - Correlation-aware Adversarial Domain Adaptation and Generalization [[Pattern Recognition(2019)]](https://arxiv.org/abs/1911.12983v1) [[code]](https://github.com/mahfujur1/CA-DA-DG)
 
 **Arxiv**
