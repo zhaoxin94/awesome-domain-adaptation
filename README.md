@@ -19,6 +19,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Incremental Methods](#incremental-methods)
     - [Semi-Supervised-Learning-Based Methods](#semi-supervised-learning-based-methods)
     - [Self-training-Based Methods](#self-training-based-methods)
+    - [Self-Supervised Methods](#self-supervised-methods)
     - [Other Methods](#other-methods)
   - [Semi-supervised DA](#semi-supervised-da)
   - [Weakly-Supervised DA](#weakly-supervised-da)
@@ -282,6 +283,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Other Methods
 **Conference**
+- A Prototype-Oriented Framework for Unsupervised Domain Adaptation [[NeurIPS 2021]](https://arxiv.org/pdf/2110.12024.pdf) [[Pytorch]](https://github.com/korawat-tanwisuth/Proto_DA)
 - Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift [[NeurIPS 2020]](https://arxiv.org/abs/2003.04475)
 - Transferable Calibration with Lower Bias and Variance in Domain Adaptation [[NeurIPS 2020]](https://arxiv.org/abs/2007.08259)
 - A Dictionary Approach to Domain-Invariant Learning in Deep Networks [[NeurIPS 2020]](https://arxiv.org/abs/1909.11285)
