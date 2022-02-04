@@ -98,6 +98,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Analysis of Representations for Domain Adaptation [[NIPS2006]](https://papers.nips.cc/paper/2983-analysis-of-representations-for-domain-adaptation)
 
 **Journal**
+- On a Regularization of Unsupervised Domain Adaptation in RKHS [[ACHA2021]](https://www.sciencedirect.com/science/article/abs/pii/S1063520321001032?via%3Dihub)
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - On generalization in moment-based domain adaptation [[AMAI2020]](https://link.springer.com/article/10.1007/s10472-020-09719-x)
 - A theory of learning from different domains [[ML2010]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
