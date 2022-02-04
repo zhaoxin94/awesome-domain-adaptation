@@ -567,6 +567,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer [[14 Dec 2020]](https://arxiv.org/abs/2012.07297) [[Pytorch]](https://github.com/tim-learn/SHOT-plus)
 
 ## Model Selection
+- The Balancing Principle for Parameter Choice in Distance-Regularized Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/ae0909a324fb2530e205e52d40266418-Abstract.html) [[Pytorch]](https://github.com/xpitfire/bpda)
 - Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [[ICML2019]](http://proceedings.mlr.press/v97/you19a/you19a.pdf) [[Pytorch]](https://github.com/thuml/Deep-Embedded-Validation)
 
 ## Other Transfer Learning Paradigms
