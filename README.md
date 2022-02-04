@@ -853,6 +853,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ### Others
 **Conference**
+- Unsupervised Domain Adaptation in LiDAR Semantic Segmentation with Self-Supervision and Gated Adapters [[ICRA2022]](https://arxiv.org/abs/2107.09783)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Adapting Neural Architectures Between Domains [[NeurlPS 2020]](https://github.com/liyxi/AdaptNAS)
 - Unsupervised Domain Attention Adaptation Network for Caricature Attribute Recognition [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530018.pdf)
