@@ -342,6 +342,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Unsupervised Domain Adaptation by Mapped Correlation Alignment [[IEEE ACCESS]](https://ieeexplore.ieee.org/abstract/document/8434290/)
 
 **Arxiv**
+- Low-confidence Samples Matter for Domain Adaptation [[6 Feb 2022]](https://arxiv.org/abs/2202.02802) [[Pytorch]](https://github.com/zhyx12/MixLRCo)
 - Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[21 Nov 2019]](https://arxiv.org/abs/1911.09310v1)
 - Deep causal representation learning for unsupervised domain adaptation [[28 Oct 2019]](https://arxiv.org/abs/1910.12417)
 - Domain-invariant Learning using Adaptive Filter
