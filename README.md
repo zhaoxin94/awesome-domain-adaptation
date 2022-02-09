@@ -556,9 +556,16 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
+- Confident Anchor-Induced Multi-Source Free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [[Pytorch]](https://github.com/Learning-group123/CAiDA)
+- Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/1dba5eed8838571e1c80af145184e515-Abstract.html) [[Pytorch]](https://github.com/jxhuang0508/HCL)
+- Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/f5deaeeae1538fb6c45901d524ee2f98-Abstract.html) [[Pytorch]](https://github.com/Albert0147/SFDA_neighbors)
 - Unsupervised Domain Adaptation of Black-Box Source Models [[BMVC2021]](https://www.bmvc2021-virtualconference.com/assets/papers/0404.pdf)[[Pytorch]](https://github.com/zhjscut/IterLNL)
 - Generalize Then Adapt: Source-Free Domain Adaptive Semantic Segmentation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_Generalize_Then_Adapt_Source-Free_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.html) [[Project]](https://sites.google.com/view/sfdaseg)
+- Generalized Source-free Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Generalized_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf) [[Pytorch]](https://github.com/Albert0147/G-SFDA)
+- Adaptive Adversarial Network for Source-free Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xia_Adaptive_Adversarial_Network_for_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf) [[Pytorch]](https://github.com/HaifengXia/SFDA)
 - Visualizing Adapted Knowledge in Domain Transfer [[CVPR2021]](https://arxiv.org/abs/2104.10602) [[Pytorch]](https://github.com/hou-yz/DA_visualization)
+- Unsupervised Multi-source Domain Adaptation Without Access to Source Data [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ahmed_Unsupervised_Multi-Source_Domain_Adaptation_Without_Access_to_Source_Data_CVPR_2021_paper.pdf) [[Pytorch]](https://github.com/driptaRC/DECISION)
+- Source-Free Domain Adaptation for Semantic Segmentation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.pdf)
 - Domain Impression: A Source Data Free Domain Adaptation Method [[WACV2021]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) [[Project]](https://delta-lab-iitk.github.io/SFDA/)
 - Model Adaptation: Unsupervised Domain Adaptation Without Source Data [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf)
 - Universal Source-Free Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
