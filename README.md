@@ -57,6 +57,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Monocular Depth Estimation](#monocular-depth-estimation)
     - [3D Reconstruction](#3d-reconstruction)
     - [Fine-Grained Domain](#fine-grained-domain)
+    - [LiDAR](#lidar)
     - [Others](#others-1)
   - [Related Topics](#related-topics)
     - [Image-to-Image Translation](#image-to-image-translation)
@@ -857,6 +858,10 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Fine-Grained Domain
 **Conference**
 - Progressive Adversarial Networks for Fine-Grained Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/thuml/PAN)
+
+### LiDAR
+**ArXiv**
+- ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [13 Mar 2022](https://arxiv.org/abs/2111.15242)
 
 
 ### Others
