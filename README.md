@@ -861,7 +861,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ### LiDAR
 **ArXiv**
-- ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [13 Mar 2022](https://arxiv.org/abs/2111.15242)
+- ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
 
 
 ### Others
