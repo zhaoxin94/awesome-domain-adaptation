@@ -272,6 +272,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - Two-phase Pseudo Label Densification for Self-training based Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)
 
 **Arxiv**
+- Probabilistic Contrastive Learning for Domain Adaptation [[arXiv 20211]](https://arxiv.org/abs/2111.06021) [[Pytorch]](https://github.com/ljjcoder/Probabilistic-Contrastive-Learning)
 - Gradual Domain Adaptation via Self-Training of Auxiliary Models[[arXiv 2021]](https://arxiv.org/pdf/2106.09890.pdf)[[Pytorch]](https://github.com/YBZh/AuxSelfTrain)
 
 
