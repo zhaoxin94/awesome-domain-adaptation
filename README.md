@@ -663,7 +663,6 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Cross_Domain_Object_Detection_by_Target-Perceived_Dual_Branch_Distillation_CVPR_2022_paper.pdf)
 - Decoupled Adaptation for Cross-Domain Object Detection [[ICLR2022]](https://openreview.net/pdf?id=VNqaB1g9393) [[PyTorch]](https://github.com/thuml/Decoupled-Adaptation-for-Cross-Domain-Object-Detection)
 - SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [[AAAI2022]](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf) [[PyTorch]](https://github.com/CityU-AIM-Group/SCAN)
-
 - SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/file/c0cccc24dd23ded67404f5e511c342b0-Paper.pdf) [[Project]](http://im.itu.edu.pk/synergizing-domain-adaptation/)
 - Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Dual_Bipartite_Graph_Learning_A_General_Approach_for_Domain_Adaptive_ICCV_2021_paper.pdf)
 - Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection [[ICCV2021]](https://arxiv.org/pdf/2110.01428.pdf)
