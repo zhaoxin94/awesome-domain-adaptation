@@ -559,6 +559,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
+- Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [[IJCAI2021]](https://arxiv.org/abs/2106.15326) [[Pytorch]](https://github.com/SCUT-AILab/CPGA)
 - Confident Anchor-Induced Multi-Source Free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [[Pytorch]](https://github.com/Learning-group123/CAiDA)
 - Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/1dba5eed8838571e1c80af145184e515-Abstract.html) [[Pytorch]](https://github.com/jxhuang0508/HCL)
 - Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/f5deaeeae1538fb6c45901d524ee2f98-Abstract.html) [[Pytorch]](https://github.com/Albert0147/SFDA_neighbors)
@@ -718,6 +719,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Semantic Segmentation
 
 **Conference**
+- Plugging Self-Supervised Monocular Depth into Unsupervised Domain Adaptation for Semantic Segmentation [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Cardace_Plugging_Self-Supervised_Monocular_Depth_Into_Unsupervised_Domain_Adaptation_for_Semantic_WACV_2022_paper.pdf)
+
+- Shallow Features Guide Unsupervised Domain Adaptation for Semantic Segmentation at Class Boundaries [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Cardace_Shallow_Features_Guide_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_at_WACV_2022_paper.pdf)
+
 - Generalize Then Adapt: Source-Free Domain Adaptive Semantic Segmentation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_Generalize_Then_Adapt_Source-Free_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.html) [[Project]](https://sites.google.com/view/sfdaseg)
 - Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[CVPR2021]](https://arxiv.org/abs/2101.10979) [[Pytorch]](https://github.com/microsoft/ProDA)
 - Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
@@ -879,6 +884,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ### Others
 **Conference**
+- RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation [[3DV 2021 Oral]](https://ieeexplore.ieee.org/abstract/document/9665900)
 - Unsupervised Domain Adaptation in LiDAR Semantic Segmentation with Self-Supervision and Gated Adapters [[ICRA2022]](https://arxiv.org/abs/2107.09783)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Adapting Neural Architectures Between Domains [[NeurlPS 2020]](https://github.com/liyxi/AdaptNAS)
