@@ -115,6 +115,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 ### Adversarial Methods
 
 **Conference**
+- A Closer Look at Smoothness in Domain Adversarial Training [[ICML2022]](https://arxiv.org/abs/2206.08213) [[Pytorch]](https://github.com/val-iisc/SDAT)
 - ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation [[NeurIPS2021]](https://arxiv.org/abs/2004.01888) [[Pytorch]](https://github.com/microsoft/UDA)
 - MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2103.13575) [[Pytorch]](https://github.com/microsoft/UDA)
 - Self-adaptive Re-weighted Adversarial Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0440.pdf)
