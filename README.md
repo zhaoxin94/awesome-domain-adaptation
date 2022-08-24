@@ -522,6 +522,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Open Compound DA
 **Conference**
+- Source-Free Open Compound Domain Adaptation in Semantic Segmentation [[TCSVT 2022]](https://ieeexplore.ieee.org/document/9785619)
 - Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf)
 - Open Compound Domain Adaptation [[CVRP2020 Oral]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
 
@@ -664,6 +665,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
+- Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
 - Domain Generalization via Inference-time Label-Preserving Target Projections [[CVPR2021]](https://arxiv.org/abs/2103.01134) [[Pytorch]](https://github.com/peterDan8/InferenceTimeDG)
 - Domain Generalization via Entropy Regularization [[NeurIPS2020]](https://papers.nips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf) [[Pytorch]](https://github.com/sshan-zhao/DG_via_ER)
 - Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [[NeurIPS2020]](https://arxiv.org/abs/2009.12829)
@@ -800,6 +803,8 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 ### Semantic Segmentation
 
 **Conference**
+- Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
+
 - Plugging Self-Supervised Monocular Depth into Unsupervised Domain Adaptation for Semantic Segmentation [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Cardace_Plugging_Self-Supervised_Monocular_Depth_Into_Unsupervised_Domain_Adaptation_for_Semantic_WACV_2022_paper.pdf)
 
 - Shallow Features Guide Unsupervised Domain Adaptation for Semantic Segmentation at Class Boundaries [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Cardace_Shallow_Features_Guide_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_at_WACV_2022_paper.pdf)
@@ -907,6 +912,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Person Re-identification
 
 **Conference**
+- Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
 - Group-aware Label Transfer for Domain Adaptive Person Re-identification [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)
 - Unsupervised Domain Adaptation in the Dissimilarity Space for Person Re-identification [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720154.pdf)
 - Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690477.pdf)
