@@ -964,6 +964,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 
 **Arxiv**
+- Unsupervised Video Domain Adaptation: A Disentanglement Perspective [[15 Aug 2022]](https://arxiv.org/abs/2208.07365) [[Pyotrch]](https://github.com/ldkong1205/TranSVAE) [[Project]](https://ldkong.com/TranSVAE) [[Gradio Demo]](https://huggingface.co/spaces/ldkong/TranSVAE)
 - Image to Video Domain Adaptation Using Web Supervision [[5 Aug 2019]](https://arxiv.org/abs/1908.01449)
 
 ### Medical Related
