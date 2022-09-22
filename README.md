@@ -1007,6 +1007,12 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Progressive Adversarial Networks for Fine-Grained Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/thuml/PAN)
 
 ### LiDAR
+
+**Conference**
+- GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09763)  [[Pytorch]](https://github.com/saltoricristiano/gipso-sfouda)
+- CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09778) [[Pytorch]]( https://github.com/saltoricristiano/cosmix-uda)
+
+
 **ArXiv**
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
 
