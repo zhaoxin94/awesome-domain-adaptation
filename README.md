@@ -808,8 +808,9 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 
 **Conference**
 
-
 - Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions [[WACV 2023]](https://arxiv.org/pdf/2207.06825.pdf) [[Pytorch]](https://github.com/brdav/refign)
+
+- Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation [[NeruIPS 2022]](https://arxiv.org/abs/2209.07695) [[Pytorch]](https://github.com/xiaoachen98/DDB)
 
 - HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.13132) [[Pytorch]](https://github.com/lhoyer/HRDA)
 
