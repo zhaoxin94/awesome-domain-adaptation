@@ -807,8 +807,15 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 ### Semantic Segmentation
 
 **Conference**
+
+
 - Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions [[WACV 2023]](https://arxiv.org/pdf/2207.06825.pdf) [[Pytorch]](https://github.com/brdav/refign)
+
+- HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.13132) [[Pytorch]](https://github.com/lhoyer/HRDA)
+
 - Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
+
+- DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf) [[Pytorch]](https://github.com/lhoyer/DAFormer)
 
 - Plugging Self-Supervised Monocular Depth into Unsupervised Domain Adaptation for Semantic Segmentation [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Cardace_Plugging_Self-Supervised_Monocular_Depth_Into_Unsupervised_Domain_Adaptation_for_Semantic_WACV_2022_paper.pdf)
 
@@ -1003,6 +1010,12 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Progressive Adversarial Networks for Fine-Grained Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/thuml/PAN)
 
 ### LiDAR
+
+**Conference**
+- GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09763)  [[Pytorch]](https://github.com/saltoricristiano/gipso-sfouda)
+- CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09778) [[Pytorch]]( https://github.com/saltoricristiano/cosmix-uda)
+
+
 **ArXiv**
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
 
