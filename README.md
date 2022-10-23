@@ -588,6 +588,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts [[NeruIPS2022]](https://arxiv.org/pdf/2210.03885.pdf) [[Pytorch]](https://github.com/n3il666/Meta-DMoE)
 - Domain Generalization via Inference-time Label-Preserving Target Projections [[CVPR2021]](https://arxiv.org/abs/2103.01134) [[Pytorch]](https://github.com/peterDan8/InferenceTimeDG)
 - Domain Generalization via Entropy Regularization [[NeurIPS2020]](https://papers.nips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf) [[Pytorch]](https://github.com/sshan-zhao/DG_via_ER)
 - Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [[NeurIPS2020]](https://arxiv.org/abs/2009.12829)
