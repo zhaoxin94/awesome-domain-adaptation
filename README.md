@@ -511,6 +511,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Universal DA
 **Conference**
+- Subsidiary Prototype Alignment for Universal Domain Adaptation [[NeurIPS2022]](https://openreview.net/forum?id=5kThooa07pf) [[Project Page]](https://sites.google.com/view/spa-unida)
 - OVANet: One-vs-All Network for Universal Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Saito_OVANet_One-vs-All_Network_for_Universal_Domain_Adaptation_ICCV_2021_paper.html)
 - Active Universal Domain Adaptation [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Active_Universal_Domain_Adaptation_ICCV_2021_paper.pdf)
 - Domain Consensus Clustering for Universal Domain Adaptation [[CVPR 2021]](http://reler.net/papers/guangrui_cvpr2021.pdf) [[Pytorch]](https://github.com/Solacex/Domain-Consensus-Clustering)
@@ -628,6 +629,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
+Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
+Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[ICML2022]](https://proceedings.mlr.press/v162/kundu22a.html) [[Project Page]](https://sites.google.com/view/mixup-sfda)
 - Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [[IJCAI2021]](https://arxiv.org/abs/2106.15326) [[Pytorch]](https://github.com/SCUT-AILab/CPGA)
 - Confident Anchor-Induced Multi-Source Free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [[Pytorch]](https://github.com/Learning-group123/CAiDA)
 - Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/1dba5eed8838571e1c80af145184e515-Abstract.html) [[Pytorch]](https://github.com/jxhuang0508/HCL)
