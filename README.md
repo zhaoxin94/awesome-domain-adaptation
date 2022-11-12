@@ -672,6 +672,7 @@ Balancing Discriminability and Transferability for Source-Free Domain Adaptation
 ### Domain Generalization
 
 **Conference**
+- Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts [[NeruIPS2022]](https://arxiv.org/pdf/2210.03885.pdf) [[Pytorch]](https://github.com/n3il666/Meta-DMoE)
 - Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
 - Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
 - Domain Generalization via Inference-time Label-Preserving Target Projections [[CVPR2021]](https://arxiv.org/abs/2103.01134) [[Pytorch]](https://github.com/peterDan8/InferenceTimeDG)
