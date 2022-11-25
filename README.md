@@ -569,6 +569,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](https://arxiv.org/abs/1803.00830) [[Pytorch]](https://github.com/HCPLab-SYSU/MSDA)
 
 **Journal**
+- Graphical Modeling for Multi-Source Domain Adaptation [[TPAMI 2022]](https://ieeexplore.ieee.org/abstract/document/9767755) [[Pytorch]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
 
 **Arxiv**
@@ -815,6 +816,8 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 - Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions [[WACV 2023]](https://arxiv.org/pdf/2207.06825.pdf) [[Pytorch]](https://github.com/brdav/refign)
 
 - Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation [[NeruIPS 2022]](https://arxiv.org/abs/2209.07695) [[Pytorch]](https://github.com/xiaoachen98/DDB)
+
+- DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930362.pdf) [[Pytorch]](https://github.com/dvlab-research/DecoupleNet)
 
 - HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.13132) [[Pytorch]](https://github.com/lhoyer/HRDA)
 
