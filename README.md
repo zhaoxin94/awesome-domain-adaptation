@@ -579,7 +579,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Multi Target DA
 **Conference**
-- CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMixf)
+- CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
 - Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2104.00808v1) [[Pytorch]](https://openaccess.thecvf.com/content/CVPR2021/papers/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.pdf)
 - Multi-Target Domain Adaptation with Collaborative Consistency Learning [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Isobe_Multi-Target_Domain_Adaptation_With_Collaborative_Consistency_Learning_CVPR_2021_paper.pdf)
 
@@ -631,7 +631,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Source Free DA
 **Conference**
 
-- CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMixf)
+- CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
 - Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
 - Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[ICML2022]](https://proceedings.mlr.press/v162/kundu22a.html) [[Project Page]](https://sites.google.com/view/mixup-sfda)
 - Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [[IJCAI2021]](https://arxiv.org/abs/2106.15326) [[Pytorch]](https://github.com/SCUT-AILab/CPGA)
