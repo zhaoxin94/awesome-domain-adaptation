@@ -293,6 +293,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Other Methods
 **Conference**
+- Revisiting Unsupervised Domain Adaptation Models: a Smoothness Perspective [[ACCV2022]](https://openaccess.thecvf.com/content/ACCV2022/html/Wang_Revisiting_Unsupervised_Domain_Adaptation_Models_a_Smoothness_Perspective_ACCV_2022_paper.html) [[Pytorch]](https://github.com/Wang-Xiaodong1899/LeCo_UDA)
 - Reducing the Covariate Shift by Mirror Samples in Cross Domain Alignment [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/4f284803bd0966cc24fa8683a34afc6e-Abstract.html)
 - Pareto Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/6ba3af5d7b2790e73f0de32e5c8c1798-Abstract.html)
 - ToAlign: Task-Oriented Alignment for Unsupervised Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/731c83db8d2ff01bdc000083fd3c3740-Abstract.html)
