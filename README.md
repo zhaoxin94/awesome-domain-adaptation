@@ -69,6 +69,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 # Papers
 ## Survey
 **Arxiv**
+- Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [[17 Nov 2022]](https://arxiv.org/abs/2211.10412) [[project]](https://github.com/xuyu0010/awesome-video-domain-adaptation)
 - A Survey on Deep Domain Adaptation for LiDAR Perception [[7 Jun 2021]](https://arxiv.org/abs/2106.02377)
 - A Comprehensive Survey on Transfer Learning [[7 Nov 2019]](https://arxiv.org/abs/1911.02685)
 - Transfer Adaptation Learning: A Decade Survey [[12 Mar 2019]](https://arxiv.org/abs/1903.04687)
@@ -630,8 +631,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
-Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
-Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[ICML2022]](https://proceedings.mlr.press/v162/kundu22a.html) [[Project Page]](https://sites.google.com/view/mixup-sfda)
+- Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
+- Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[ICML2022]](https://proceedings.mlr.press/v162/kundu22a.html) [[Project Page]](https://sites.google.com/view/mixup-sfda)
 - Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [[IJCAI2021]](https://arxiv.org/abs/2106.15326) [[Pytorch]](https://github.com/SCUT-AILab/CPGA)
 - Confident Anchor-Induced Multi-Source Free Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [[Pytorch]](https://github.com/Learning-group123/CAiDA)
 - Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/1dba5eed8838571e1c80af145184e515-Abstract.html) [[Pytorch]](https://github.com/jxhuang0508/HCL)
@@ -969,6 +970,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Video Domain Adaptation
 
 **Conference**
+- Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[Pytorch]](https://github.com/xuyu0010/ATCoN) [[Project]](https://xuyu0010.github.io/sfvda.html)
 - Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing [[NeurIPS2021]](https://arxiv.org/pdf/2110.15128.pdf)
 - Learning Cross-Modal Contrastive Features for Video Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Learning_Cross-Modal_Contrastive_Features_for_Video_Domain_Adaptation_ICCV_2021_paper.html)
 - Partial Video Domain Adaptation With Partial Adversarial Temporal Attentive Network [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Partial_Video_Domain_Adaptation_With_Partial_Adversarial_Temporal_Attentive_Network_ICCV_2021_paper.html) [[Pytorch]](https://github.com/xuyu0010/PATAN)
@@ -985,6 +987,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 
 **Arxiv**
+- Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [[17 Nov 2022]](https://arxiv.org/abs/2211.10412) [[project]](https://github.com/xuyu0010/awesome-video-domain-adaptation)
 - Unsupervised Video Domain Adaptation: A Disentanglement Perspective [[15 Aug 2022]](https://arxiv.org/abs/2208.07365) [[Pyotrch]](https://github.com/ldkong1205/TranSVAE) [[Project]](https://ldkong.com/TranSVAE) [[Gradio Demo]](https://huggingface.co/spaces/ldkong/TranSVAE)
 - Image to Video Domain Adaptation Using Web Supervision [[5 Aug 2019]](https://arxiv.org/abs/1908.01449)
 
