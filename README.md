@@ -631,11 +631,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
-<<<<<<< HEAD
-=======
 
 - CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
->>>>>>> 29baa312eb19c2763f50f458e2b9e8ad0c91264d
+- Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[Pytorch]](https://github.com/xuyu0010/ATCoN) [[Project]](https://xuyu0010.github.io/sfvda.html)
 - Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
 - Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[ICML2022]](https://proceedings.mlr.press/v162/kundu22a.html) [[Project Page]](https://sites.google.com/view/mixup-sfda)
 - Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [[IJCAI2021]](https://arxiv.org/abs/2106.15326) [[Pytorch]](https://github.com/SCUT-AILab/CPGA)
