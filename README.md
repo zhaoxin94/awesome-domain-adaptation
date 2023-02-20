@@ -678,6 +678,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Sparse Mixture-of-Experts are Domain Generalizable Learners [[ICLR2023(Oral)]](https://openreview.net/forum?id=RecZ9nB9Q4) [[Pytorch]](https://github.com/Luodian/Generalizable-Mixture-of-Experts)
 - Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts [[NeruIPS2022]](https://arxiv.org/pdf/2210.03885.pdf) [[Pytorch]](https://github.com/n3il666/Meta-DMoE)
 - Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
 - Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
