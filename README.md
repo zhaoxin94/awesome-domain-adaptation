@@ -505,6 +505,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Open Set Domain Adaptation [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
 
 **Journal**
+- Open-set domain adaptation by deconfounding domain gaps [[Applied Intelligence 2022]](https://link.springer.com/article/10.1007/s10489-022-03805-9)
 - Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
 - Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation [[IEEE TMM]](https://arxiv.org/abs/2007.00384) [[Pytorch]](https://github.com/tasfia/DAMC)
 
