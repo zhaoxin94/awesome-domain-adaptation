@@ -916,6 +916,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - No more discrimination: Cross city adaptation of road scene segmenters [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Chen_No_More_Discrimination_ICCV_2017_supplemental.pdf)
 
 **Journal**
+- SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [[TPAMI2023]](https://ieeexplore.ieee.org/document/10018569)[[arxiv version]](https://arxiv.org/abs/2204.08808)[[Pytorch]](https://github.com/BIT-DA/SePiCo)
 - Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation [[TIP2022]](https://arxiv.org/abs/2103.15685)[[Pytorch]](https://github.com/layumi/AdaBoost_Seg)
 - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[IJCV2020]](https://arxiv.org/abs/2003.03773)[[Pytorch]](https://github.com/layumi/Seg-Uncertainty)
 - Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
