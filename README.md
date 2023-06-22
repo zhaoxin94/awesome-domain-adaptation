@@ -413,6 +413,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Context-guided entropy minimization for semi-supervised domain adaptation [[Neural Networks]](https://doi.org/10.1016/j.neunet.2022.07.011)  [[pytorch]](https://github.com/NingMa-AI/DEEM)
 
 **Arxiv**
+- Pred&Guide: Labeled Target Class Prediction for Guiding Semi-Supervised Domain Adaptation [[22 Nov 2022]](https://arxiv.org/abs/2211.11975)
 - MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation [[ 24 Jul 2020]](https://arxiv.org/abs/2007.12684)
 - Opposite Structure Learning for Semi-supervised Domain Adaptation [[6 Feb 2020]](https://arxiv.org/abs/2002.02545v1)
 - Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
