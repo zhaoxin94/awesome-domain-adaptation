@@ -1101,6 +1101,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
 - [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 - [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch)
+- [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN)
 
 # Lectures and Tutorials
 - A Primer on Domain Adaptation [[PDF]](https://arxiv.org/abs/2001.09994v2)
