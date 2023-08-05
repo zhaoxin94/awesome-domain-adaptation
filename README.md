@@ -685,6 +685,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[ICCV2023]](https://arxiv.org/abs/2307.15199) [[Project]](https://promptstyler.github.io/)
 - Sparse Mixture-of-Experts are Domain Generalizable Learners [[ICLR2023(Oral)]](https://openreview.net/forum?id=RecZ9nB9Q4) [[Pytorch]](https://github.com/Luodian/Generalizable-Mixture-of-Experts)
 - Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts [[NeruIPS2022]](https://arxiv.org/pdf/2210.03885.pdf) [[Pytorch]](https://github.com/n3il666/Meta-DMoE)
 - Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
