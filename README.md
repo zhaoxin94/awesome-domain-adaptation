@@ -531,9 +531,16 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Universal Source-Free Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
 - Universal Domain Adaptation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf)  [[Pytorch]](https://github.com/thuml/Universal-Domain-Adaptation)
 
+
+**Journal**
+
+- Universal Model Adaptation by Style Augmented Open-set Consistency [[Applied Intelligence 2023]](https://link.springer.com/article/10.1007/s10489-023-04731-0)
+
 **Arxiv**
 - Universal Multi-Source Domain Adaptation [[5 Nov 2020]](https://arxiv.org/abs/2011.02594)
 - A Sample Selection Approach for Universal Domain Adaptation [[14 Jan 2020]](https://arxiv.org/abs/2001.05071v1)
+
+
 
 
 ## Open Compound DA
