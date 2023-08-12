@@ -764,6 +764,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection [[CVPR2023]](https://arxiv.org/abs/2203.15793) [[Project]](https://viudomain.github.io/irg-sfda-web/)
+- Towards Online Domain Adaptive Object Detection [[WACV2023]](https://arxiv.org/abs/2204.05289) [[https://github.com/Vibashan/online-da]]
+- Mixture of Teacher Experts for Source-Free Domain Adaptive Object Detection [[ICIP2022]](https://ieeexplore.ieee.org/document/9897795)
 - Towards Robust Adaptive Object Detection under Noisy Annotations [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/CityU-AIM-Group/NLTE)
 - H<sup>2</sup>FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/XuYunqiu/H2FA_R-CNN) [[PaddlePaddle]](https://github.com/XuYunqiu/H2FA_R-CNN/tree/ppdet)
 - Cross-Domain Adaptive Teacher for Object Detection [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.pdf) [[Project]](https://yujheli.github.io/projects/adaptiveteacher.html) [[PyTorch]](https://github.com/facebookresearch/adaptive_teacher)
@@ -1012,6 +1015,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
   
 **Arxiv**
+- On-the-Fly Test-time Adaptation for Medical Image Segmentation [[10 Mar 2022]](https://arxiv.org/abs/2203.05574) [[Pytorch]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
+- Target and task specific source-free domain adaptive image segmentation [[10 Mar 2023]](https://arxiv.org/abs/2203.15792) [[Pytorch]](https://github.com/Vibashan/tt-sfuda)
 - Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation [[arXiv 29 Aug 2019]](https://arxiv.org/abs/1907.13590)
 - Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation [[arXiv on 24 Jan 2019]](https://arxiv.org/abs/1901.08211v1)
 - Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[arXiv 14 Nov 2018]](https://arxiv.org/abs/1811.06042v1)
