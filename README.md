@@ -1053,6 +1053,11 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 **ArXiv**
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
 
+### Remote Sensing
+
+**Journal**
+- Open-Set Black-Box Domain Adaptation for Remote Sensing Image Scene Classification [[GRSL 2023]](https://ieeexplore.ieee.org/abstract/document/10210386)
+
 
 ### Others
 **Conference**
