@@ -387,6 +387,11 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Domain Alignment with Triplets [[arXiv 22 Jan 2019]](https://arxiv.org/abs/1812.00893v2)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
 
+## Foundation-Models based DA
+
+**Conference**
+-  POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models [[ICML2023]](https://arxiv.org/abs/2305.00350) [[Pytorch]](https://github.com/korawat-tanwisuth/POUF)
+
 ## Semi-supervised DA
 
 **Conference**
