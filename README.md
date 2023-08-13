@@ -60,6 +60,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [3D](#3d)
     - [Fine-Grained Domain](#fine-grained-domain)
     - [LiDAR](#lidar)
+    - [Remote Sensing](#remote-sensing)
     - [Others](#others-1)
   - [Benchmarks](#benchmarks)
 - [Library](#library)
