@@ -1118,6 +1118,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
 
 ## Benchmarks
+- Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation [[PAA2023]](https://link.springer.com/article/10.1007/s10044-023-01147-x) [[Dataset]](https://www.dlsi.ua.es/~jgallego/datasets/kurcuma/)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831) [[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
