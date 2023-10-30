@@ -128,7 +128,9 @@ for Adversarial Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/con
 - MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2103.13575) [[Pytorch]](https://github.com/microsoft/UDA)
 - Self-adaptive Re-weighted Adversarial Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0440.pdf)
 - DIRL: Domain-Invariant Reperesentation Learning Approach for Sim-to-Real Transfer [[CoRL2020]](https://arxiv.org/abs/2011.07589) [[Project]](https://www.sites.google.com/view/dirl)
+- SSA-DA: Bi-dimensional feature alignment for cross-domain object detection [[ECCV Workshop 2020]](https://arxiv.org/pdf/2011.07205.pdf)
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation [[ECCV2020]](https://arxiv.org/abs/2007.09222) [[PyTorch]](https://github.com/JDAI-CV/FADA)
+- MCAR: Adaptive object detection with dual multi-label prediction [[ECCV2020]](https://arxiv.org/pdf/2003.12943.pdf)
 - Gradually Vanishing Bridge for Adversarial Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Gradually_Vanishing_Bridge_for_Adversarial_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/cuishuhao/GVB)
 - Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation [[ICML2020]](https://arxiv.org/abs/2006.04996) [[Pytorch]](https://github.com/xiangdal/implicit_alignment)
 - Adversarial-Learned Loss for Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/2001.01046v1)
@@ -476,6 +478,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
 
+**Arxiv**
+- Feature transformation ensemble model with batch spectral regularization for cross-domain few-shot classification [[arXiv 18 May 2020]](https://arxiv.org/pdf/2005.08463.pdf) [[Pytorch]](https://github.com/liubingyuu/FTEM_BSR_CDFSL)
+- Ensemble model with batch spectral regularization and data blending for cross-domain few-shot learning with unlabeled data [[arXiv 8 June 2020]](https://arxiv.org/pdf/2006.04323.pdf) [[Pytorch]](https://github.com/123zhen123/BSDB-CDFSL_Track)
+
 ## Partial DA
 **Conference**
 - Implicit Semantic Response Alignment for Partial Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/731b03008e834f92a03085ef47061c4a-Abstract.html) [[Pytorch]](https://github.com/implicit-seman-align/Implicit-Semantic-Response-Alignment)
@@ -596,9 +602,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
 
 **Arxiv**
+- Mutual learning network for multi-source domain adaptation [[arXiv]](https://arxiv.org/pdf/2003.12944)
 - Domain Adaptive Ensemble Learning [[arXiv]](https://arxiv.org/abs/2003.07325)
 - Multi-Source Domain Adaptation and Semi-Supervised Domain Adaptation with Focus on Visual Domain Adaptation Challenge 2019 [[14 Oct 2019]](https://arxiv.org/abs/1910.03548)
-
 
 ## Multi Target DA
 **Conference**
