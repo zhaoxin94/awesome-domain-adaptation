@@ -706,6 +706,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Weight Averaging Improves Knowledge Distillation under Domain Shift [[ICCV Workshop 2023]](https://arxiv.org/abs/2309.11446) [[Pytorch]](https://github.com/vorobeevich/distillation-in-dg)
 - Adaptive Texture Filtering for Single-Domain Generalized Segmentation [[AAAI2023 oral]](https://arxiv.org/abs/2303.02943) [[Pytorch]](https://github.com/leelxh/Adaptive-Texture-Filtering-for-Single-Domain-Generalized-Segmentation)
 - PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[ICCV2023]](https://arxiv.org/abs/2307.15199) [[Project]](https://promptstyler.github.io/)
 - Sparse Mixture-of-Experts are Domain Generalizable Learners [[ICLR2023(Oral)]](https://openreview.net/forum?id=RecZ9nB9Q4) [[Pytorch]](https://github.com/Luodian/Generalizable-Mixture-of-Experts)
