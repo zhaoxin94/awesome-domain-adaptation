@@ -1062,6 +1062,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### LiDAR
 
 **Conference**
+- SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation [[3DV 2024]](https://arxiv.org/abs/2304.03251) [[Pytorch]](https://github.com/valeoai/SALUDA)
 - GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09763)  [[Pytorch]](https://github.com/saltoricristiano/gipso-sfouda)
 - CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09778) [[Pytorch]]( https://github.com/saltoricristiano/cosmix-uda)
 
