@@ -20,6 +20,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [Semi-Supervised-Learning-Based Methods](#semi-supervised-learning-based-methods)
     - [Self-training-Based Methods](#self-training-based-methods)
     - [Self-Supervised Methods](#self-supervised-methods)
+    - [Transformer-based Methods](#transformer-based-methods)
     - [Other Methods](#other-methods)
   - [Semi-supervised DA](#semi-supervised-da)
   - [Weakly-Supervised DA](#weakly-supervised-da)
@@ -60,6 +61,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [3D](#3d)
     - [Fine-Grained Domain](#fine-grained-domain)
     - [LiDAR](#lidar)
+    - [Remote Sensing](#remote-sensing)
     - [Others](#others-1)
   - [Benchmarks](#benchmarks)
 - [Library](#library)
@@ -126,7 +128,9 @@ for Adversarial Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/con
 - MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2103.13575) [[Pytorch]](https://github.com/microsoft/UDA)
 - Self-adaptive Re-weighted Adversarial Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0440.pdf)
 - DIRL: Domain-Invariant Reperesentation Learning Approach for Sim-to-Real Transfer [[CoRL2020]](https://arxiv.org/abs/2011.07589) [[Project]](https://www.sites.google.com/view/dirl)
+- SSA-DA: Bi-dimensional feature alignment for cross-domain object detection [[ECCV Workshop 2020]](https://arxiv.org/pdf/2011.07205.pdf)
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation [[ECCV2020]](https://arxiv.org/abs/2007.09222) [[PyTorch]](https://github.com/JDAI-CV/FADA)
+- MCAR: Adaptive object detection with dual multi-label prediction [[ECCV2020]](https://arxiv.org/pdf/2003.12943.pdf)
 - Gradually Vanishing Bridge for Adversarial Domain Adaptation [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Gradually_Vanishing_Bridge_for_Adversarial_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/cuishuhao/GVB)
 - Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation [[ICML2020]](https://arxiv.org/abs/2006.04996) [[Pytorch]](https://github.com/xiangdal/implicit_alignment)
 - Adversarial-Learned Loss for Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/2001.01046v1)
@@ -292,8 +296,13 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 **Arxiv**
 - Unsupervised Domain Adaptation through Self-Supervision [[arXiv 26 Sep 2019]](https://arxiv.org/abs/1909.11825)
 
+### Transformer-based Methods
+**Conference**
+- Safe Self-Refinement for Transformer-Based Domain Adaptation [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Safe_Self-Refinement_for_Transformer-Based_Domain_Adaptation_CVPR_2022_paper.pdf) [[Pytorch](https://github.com/tsun/SSRT)
+
 ### Other Methods
 **Conference**
+- Prior Knowledge Guided Unsupervised Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930628.pdf) [[Pytorch]](https://github.com/tsun/KUDA)
 - Revisiting Unsupervised Domain Adaptation Models: a Smoothness Perspective [[ACCV2022]](https://openaccess.thecvf.com/content/ACCV2022/html/Wang_Revisiting_Unsupervised_Domain_Adaptation_Models_a_Smoothness_Perspective_ACCV_2022_paper.html) [[Pytorch]](https://github.com/Wang-Xiaodong1899/LeCo_UDA)
 - Reducing the Covariate Shift by Mirror Samples in Cross Domain Alignment [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/4f284803bd0966cc24fa8683a34afc6e-Abstract.html)
 - Pareto Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/6ba3af5d7b2790e73f0de32e5c8c1798-Abstract.html)
@@ -306,8 +315,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 - FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Na_FixBi_Bridging_Domain_Spaces_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)
 - Domain Adaptation With Auxiliary Target Domain-Oriented Classifier [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liang_Domain_Adaptation_With_Auxiliary_Target_Domain-Oriented_Classifier_CVPR_2021_paper.pdf)
 - Conditional Bures Metric for Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.pdf)
-- DRANet: Disentangling Representation and Adaptation Networks
-for Unsupervised Cross-Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.pdf)
+- DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.pdf)
 - Visualizing Adapted Knowledge in Domain Transfer [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Visualizing_Adapted_Knowledge_in_Domain_Transfer_CVPR_2021_paper.pdf) [[Pytorch]](https://github.com/hou-yz/DA_visualization)
 - Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Instance_Level_Affinity-Based_Transfer_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf) [[code coming soon]](https://github.com/astuti/ILA-DA)
 - Dynamic Domain Adaptation for Efficient Inference [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Domain_Adaptation_for_Efficient_Inference_CVPR_2021_paper.pdf) [[Pytorch]](https://github.com/BIT-DA/DDA)
@@ -387,6 +395,11 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Domain Alignment with Triplets [[arXiv 22 Jan 2019]](https://arxiv.org/abs/1812.00893v2)
 - Deep Discriminative Learning for Unsupervised Domain Adaptation [[arXiv 17 Nov 2018]](https://arxiv.org/abs/1811.07134v1)
 
+## Foundation-Models based DA
+
+**Conference**
+-  POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models [[ICML2023]](https://arxiv.org/abs/2305.00350) [[Pytorch]](https://github.com/korawat-tanwisuth/POUF)
+
 ## Semi-supervised DA
 
 **Conference**
@@ -413,6 +426,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Context-guided entropy minimization for semi-supervised domain adaptation [[Neural Networks]](https://doi.org/10.1016/j.neunet.2022.07.011)  [[pytorch]](https://github.com/NingMa-AI/DEEM)
 
 **Arxiv**
+- Pred&Guide: Labeled Target Class Prediction for Guiding Semi-Supervised Domain Adaptation [[22 Nov 2022]](https://arxiv.org/abs/2211.11975)
 - MiCo: Mixup Co-Training for Semi-Supervised Domain Adaptation [[ 24 Jul 2020]](https://arxiv.org/abs/2007.12684)
 - Opposite Structure Learning for Semi-supervised Domain Adaptation [[6 Feb 2020]](https://arxiv.org/abs/2002.02545v1)
 - Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
@@ -463,6 +477,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Few-Shot Adaptive Faster R-CNN [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Few-Shot_Adaptive_Faster_R-CNN_CVPR_2019_paper.html)
 - d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding [[CVPR2019 Oral]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.pdf)
 - Few-Shot Adversarial Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation)
+
+**Arxiv**
+- Feature transformation ensemble model with batch spectral regularization for cross-domain few-shot classification [[arXiv 18 May 2020]](https://arxiv.org/pdf/2005.08463.pdf) [[Pytorch]](https://github.com/liubingyuu/FTEM_BSR_CDFSL)
+- Ensemble model with batch spectral regularization and data blending for cross-domain few-shot learning with unlabeled data [[arXiv 8 June 2020]](https://arxiv.org/pdf/2006.04323.pdf) [[Pytorch]](https://github.com/123zhen123/BSDB-CDFSL_Track)
 
 ## Partial DA
 **Conference**
@@ -525,9 +543,16 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Universal Source-Free Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf) [[Project]](https://sites.google.com/view/usfda-cvpr2020)
 - Universal Domain Adaptation [[CVPR2019]](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf)  [[Pytorch]](https://github.com/thuml/Universal-Domain-Adaptation)
 
+
+**Journal**
+
+- Universal Model Adaptation by Style Augmented Open-set Consistency [[Applied Intelligence 2023]](https://link.springer.com/article/10.1007/s10489-023-04731-0)
+
 **Arxiv**
 - Universal Multi-Source Domain Adaptation [[5 Nov 2020]](https://arxiv.org/abs/2011.02594)
 - A Sample Selection Approach for Universal Domain Adaptation [[14 Jan 2020]](https://arxiv.org/abs/2001.05071v1)
+
+
 
 
 ## Open Compound DA
@@ -577,9 +602,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
 
 **Arxiv**
+- Mutual learning network for multi-source domain adaptation [[arXiv]](https://arxiv.org/pdf/2003.12944)
 - Domain Adaptive Ensemble Learning [[arXiv]](https://arxiv.org/abs/2003.07325)
 - Multi-Source Domain Adaptation and Semi-Supervised Domain Adaptation with Focus on Visual Domain Adaptation Challenge 2019 [[14 Oct 2019]](https://arxiv.org/abs/1910.03548)
-
 
 ## Multi Target DA
 **Conference**
@@ -634,7 +659,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
-
+- Domain Adaptation with Adversarial Training on Penultimate Activations [[AAAI2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26185) [[Pytorch]](https://github.com/tsun/APA)
+- Source-free Domain Adaptive Human Pose Estimation [[ICCV2023]](https://arxiv.org/abs/2308.03202)[[Pytorch]](https://github.com/davidpengucf/SFDAHPE)
+- RAIN: RegulArization on Input and Network for Black-Box Domain Adaptation [[IJCAI2023]](https://www.ijcai.org/proceedings/2023/458) [[Pytorch]](https://github.com/davidpengucf/RAIN)
 - CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
 - Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[Pytorch]](https://github.com/xuyu0010/ATCoN) [[Project]](https://xuyu0010.github.io/sfvda.html)
 - Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/912_ECCV_2022_paper.php) [[Project Page]](https://sites.google.com/view/sticker-sfda)
@@ -662,6 +689,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Active DA
 **Conference**
+- Local Context-Aware Active Domain Adaptation [[ICCV2023]](https://arxiv.org/abs/2208.12856) [[Pytorch]](https://github.com/tsun/LADA)
+- Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift [[WACV2023]](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Reducing_Annotation_Effort_by_Identifying_and_Labeling_Contextually_Diverse_Classes_WACV_2023_paper.pdf)
+- Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Towards_Fewer_Annotations_Active_Learning_via_Region_Impurity_and_Prediction_CVPR_2022_paper.pdf)[[Pytorch]](https://github.com/BIT-DA/RIPU)
+- Active Learning for Domain Adaptation: An Energy-based Approach [[AAAI2022]](ttps://arxiv.org/abs/2112.01406)[[Pytorch]](https://github.com/BIT-DA/EADA)
 - Multi-Anchor Active Domain Adaptation for Semantic Segmentation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Ning_Multi-Anchor_Active_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.html)
 - Active Domain Adaptation via Clustering Uncertainty-Weighted Embeddings [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Prabhu_Active_Domain_Adaptation_via_Clustering_Uncertainty-Weighted_Embeddings_ICCV_2021_paper.html)
 - Active Universal Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Ma_Active_Universal_Domain_Adaptation_ICCV_2021_paper.html)
@@ -681,6 +712,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Weight Averaging Improves Knowledge Distillation under Domain Shift [[ICCV Workshop 2023]](https://arxiv.org/abs/2309.11446) [[Pytorch]](https://github.com/vorobeevich/distillation-in-dg)
+- Adaptive Texture Filtering for Single-Domain Generalized Segmentation [[AAAI2023 oral]](https://arxiv.org/abs/2303.02943) [[Pytorch]](https://github.com/leelxh/Adaptive-Texture-Filtering-for-Single-Domain-Generalized-Segmentation)
+- PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[ICCV2023]](https://arxiv.org/abs/2307.15199) [[Project]](https://promptstyler.github.io/)
 - Sparse Mixture-of-Experts are Domain Generalizable Learners [[ICLR2023(Oral)]](https://openreview.net/forum?id=RecZ9nB9Q4) [[Pytorch]](https://github.com/Luodian/Generalizable-Mixture-of-Experts)
 - Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts [[NeruIPS2022]](https://arxiv.org/pdf/2210.03885.pdf) [[Pytorch]](https://github.com/n3il666/Meta-DMoE)
 - Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2204.02548.pdf) [[Pytorch]](https://github.com/HeliosZhao/SHADE)
@@ -753,6 +787,9 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection [[CVPR2023]](https://arxiv.org/abs/2203.15793) [[Project]](https://viudomain.github.io/irg-sfda-web/)
+- Towards Online Domain Adaptive Object Detection [[WACV2023]](https://arxiv.org/abs/2204.05289) [[https://github.com/Vibashan/online-da]]
+- Mixture of Teacher Experts for Source-Free Domain Adaptive Object Detection [[ICIP2022]](https://ieeexplore.ieee.org/document/9897795)
 - Towards Robust Adaptive Object Detection under Noisy Annotations [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/CityU-AIM-Group/NLTE)
 - H<sup>2</sup>FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/XuYunqiu/H2FA_R-CNN) [[PaddlePaddle]](https://github.com/XuYunqiu/H2FA_R-CNN/tree/ppdet)
 - Cross-Domain Adaptive Teacher for Object Detection [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.pdf) [[Project]](https://yujheli.github.io/projects/adaptiveteacher.html) [[PyTorch]](https://github.com/facebookresearch/adaptive_teacher)
@@ -822,6 +859,7 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 
 **Conference**
 
+- PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation [[ACM MM2023]](https://arxiv.org/abs/2211.07609) [[Pytorch]](https://github.com/chen742/PiPa)
 - Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions [[WACV 2023]](https://arxiv.org/pdf/2207.06825.pdf) [[Pytorch]](https://github.com/brdav/refign)
 - Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation [[NeruIPS 2022]](https://arxiv.org/abs/2209.07695) [[Pytorch]](https://github.com/xiaoachen98/DDB)
 - DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930362.pdf) [[Pytorch]](https://github.com/dvlab-research/DecoupleNet)
@@ -913,6 +951,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - No more discrimination: Cross city adaptation of road scene segmenters [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Chen_No_More_Discrimination_ICCV_2017_supplemental.pdf)
 
 **Journal**
+- SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [[TPAMI2023]](https://ieeexplore.ieee.org/document/10018569)[[arxiv version]](https://arxiv.org/abs/2204.08808)[[Pytorch]](https://github.com/BIT-DA/SePiCo)
 - Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation [[TIP2022]](https://arxiv.org/abs/2103.15685)[[Pytorch]](https://github.com/layumi/AdaBoost_Seg)
 - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[IJCV2020]](https://arxiv.org/abs/2003.03773)[[Pytorch]](https://github.com/layumi/Seg-Uncertainty)
 - Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
@@ -999,6 +1038,8 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [[Neurocomputing 2021]](https://arxiv.org/abs/2006.15954) [[Pytorch]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019)
   
 **Arxiv**
+- On-the-Fly Test-time Adaptation for Medical Image Segmentation [[10 Mar 2022]](https://arxiv.org/abs/2203.05574) [[Pytorch]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
+- Target and task specific source-free domain adaptive image segmentation [[10 Mar 2023]](https://arxiv.org/abs/2203.15792) [[Pytorch]](https://github.com/Vibashan/tt-sfuda)
 - Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation [[arXiv 29 Aug 2019]](https://arxiv.org/abs/1907.13590)
 - Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation [[arXiv on 24 Jan 2019]](https://arxiv.org/abs/1901.08211v1)
 - Unsupervised domain adaptation for medical imaging segmentation with self-ensembling [[arXiv 14 Nov 2018]](https://arxiv.org/abs/1811.06042v1)
@@ -1024,12 +1065,18 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### LiDAR
 
 **Conference**
+- SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation [[3DV 2024]](https://arxiv.org/abs/2304.03251) [[Pytorch]](https://github.com/valeoai/SALUDA)
 - GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09763)  [[Pytorch]](https://github.com/saltoricristiano/gipso-sfouda)
 - CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation [[ECCV2022]](https://arxiv.org/abs/2207.09778) [[Pytorch]]( https://github.com/saltoricristiano/cosmix-uda)
 
 
 **ArXiv**
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
+
+### Remote Sensing
+
+**Journal**
+- Open-Set Black-Box Domain Adaptation for Remote Sensing Image Scene Classification [[GRSL 2023]](https://ieeexplore.ieee.org/abstract/document/10210386)
 
 
 ### Others
@@ -1089,6 +1136,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Active Adversarial Domain Adaptation [[arXiv 16 Apr 2019]](https://arxiv.org/abs/1904.07848v1)
 
 ## Benchmarks
+- Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation [[PAA2023]](https://link.springer.com/article/10.1007/s10044-023-01147-x) [[Dataset]](https://www.dlsi.ua.es/~jgallego/datasets/kurcuma/)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10831) [[Pytorch]](https://github.com/bupt-ai-cz/LLVIP)
 - Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [[arXiv 26 Jun]](https://arxiv.org/abs/1806.09755v1) [[Project]](http://ai.bu.edu/syn2real/)
@@ -1099,6 +1147,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning)
 - [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 - [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch)
+- [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN)
 
 # Lectures and Tutorials
 - A Primer on Domain Adaptation [[PDF]](https://arxiv.org/abs/2001.09994v2)
