@@ -713,6 +713,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation [[WACV 2024]](https://arxiv.org/abs/2312.01850) [[Pytorch]](https://github.com/JNiemeijer/DIDEX)
+- A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation [[ICCV Workshop 2023]](https://arxiv.org/abs/2308.13331) [[Pytorch]](https://github.com/ifnspaml/revt-domain-generalization)
 - Weight Averaging Improves Knowledge Distillation under Domain Shift [[ICCV Workshop 2023]](https://arxiv.org/abs/2309.11446) [[Pytorch]](https://github.com/vorobeevich/distillation-in-dg)
 - Adaptive Texture Filtering for Single-Domain Generalized Segmentation [[AAAI2023 oral]](https://arxiv.org/abs/2303.02943) [[Pytorch]](https://github.com/leelxh/Adaptive-Texture-Filtering-for-Single-Domain-Generalized-Segmentation)
 - PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[ICCV2023]](https://arxiv.org/abs/2307.15199) [[Project]](https://promptstyler.github.io/)
