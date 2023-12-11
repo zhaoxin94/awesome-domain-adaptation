@@ -1014,6 +1014,9 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Unsupervised Domain Adaptive 3D Detection With Multi-Level Consistency [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Luo_Unsupervised_Domain_Adaptive_3D_Detection_With_Multi-Level_Consistency_ICCV_2021_paper.html)
 - Domain-Adaptive Single-View 3D Reconstruction [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pinheiro_Domain-Adaptive_Single-View_3D_Reconstruction_ICCV_2019_paper.pdf)
 
+**Arxiv**
+- MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection [[Arxiv 11 Aug 2023]](https://arxiv.org/abs/2308.05988) [[Pytorch]](https://github.com/darrenjkt/MS3D)
+
 ### Fine-Grained Domain
 **Conference**
 - Progressive Adversarial Networks for Fine-Grained Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/thuml/PAN)
