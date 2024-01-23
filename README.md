@@ -404,16 +404,12 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ## Semi-supervised DA
 
 **Conference**
-
+- Semi-Supervised Domain Adaptation With Source Label Adaptation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Semi-Supervised_Domain_Adaptation_With_Source_Label_Adaptation_CVPR_2023_paper.html)
 - Multi-level Consistency Learning for Semi-supervised Domain Adaptation [[IJCAI 2022]](https://arxiv.org/abs/2205.04066)
-
 - AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation [[ICLR 2022]](https://openreview.net/pdf?id=Q5uh1Nvv5dm)
-
 - CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/288cd2567953f06e460a33951f55daaf-Abstract.html)
-
 - Deep Co-Training With Task Decomposition for Semi-Supervised Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Deep_Co-Training_With_Task_Decomposition_for_Semi-Supervised_Domain_Adaptation_ICCV_2021_paper.html)
 - ECACL: A Holistic Framework for Semi-Supervised Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_ECACL_A_Holistic_Framework_for_Semi-Supervised_Domain_Adaptation_ICCV_2021_paper.html)
-
 - Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.pdf)
 - Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Semi-Supervised_Domain_Adaptation_Based_on_Dual-Level_Domain_Mixing_for_Semantic_CVPR_2021_paper.pdf)
 - Learning Invariant Representations and Risks for Semi-supervised Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2010.04647)
@@ -1033,6 +1029,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 ### Medical Related
 **Conference**
+- PopGenAdapt: Semi-Supervised Domain Adaptation for Genotype-to-Phenotype Prediction in Underrepresented Populations [[PSB 2024]](https://psb.stanford.edu/psb-online/proceedings/psb24/comajoan.pdf)
 - Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning [[ICASSP 2020]](https://arxiv.org/abs/2002.08587)
 - What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_What_Can_Be_Transferred_Unsupervised_Domain_Adaptation_for_Endoscopic_Lesions_CVPR_2020_paper.pdf)
 - Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf)
