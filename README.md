@@ -786,6 +786,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- Supervision Interpolation via LossMix: Generalizing Mixup for Object Detection and Beyond [[AAAI2024]](https://arxiv.org/abs/2303.10343)
 - Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection [[CVPR2023]](https://arxiv.org/abs/2203.15793) [[Project]](https://viudomain.github.io/irg-sfda-web/)
 - Towards Online Domain Adaptive Object Detection [[WACV2023]](https://arxiv.org/abs/2204.05289) [[https://github.com/Vibashan/online-da]]
 - Mixture of Teacher Experts for Source-Free Domain Adaptive Object Detection [[ICIP2022]](https://ieeexplore.ieee.org/document/9897795)
