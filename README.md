@@ -303,6 +303,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Other Methods
 **Conference**
+- SPA: A Graph Spectral Alignment Perspective for Domain Adaptation [[NeurIPS 2023]](https://arxiv.org/abs/2310.17594) [[Pytorch]](https://github.com/CrownX/SPA)
 - Prior Knowledge Guided Unsupervised Domain Adaptation [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930628.pdf) [[Pytorch]](https://github.com/tsun/KUDA)
 - Revisiting Unsupervised Domain Adaptation Models: a Smoothness Perspective [[ACCV2022]](https://openaccess.thecvf.com/content/ACCV2022/html/Wang_Revisiting_Unsupervised_Domain_Adaptation_Models_a_Smoothness_Perspective_ACCV_2022_paper.html) [[Pytorch]](https://github.com/Wang-Xiaodong1899/LeCo_UDA)
 - Reducing the Covariate Shift by Mirror Samples in Cross Domain Alignment [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/4f284803bd0966cc24fa8683a34afc6e-Abstract.html)
