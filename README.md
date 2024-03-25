@@ -584,6 +584,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Domain Aggregation Networks for Multi-Source Domain Adaptation [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/6292-Paper.pdf)
 - Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation [[ECCV2020]](https://github.com/ChrisAllenMing/LtC-MSDA) [[Pytorch]](https://github.com/ChrisAllenMing/LtC-MSDA)
 - Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits [[AAAI2020]](https://arxiv.org/abs/2001.04362v2)
+- Adversarial Training Based Multi-Source Unsupervised Domain Adaptation for Sentiment Analysis [[AAAI2020]](https://arxiv.org/pdf/2006.05602.pdf)
 - Multi-source Domain Adaptation for Visual Sentiment Classification [[AAAI2020]](https://arxiv.org/abs/2001.03886v1)
 - Multi-source Distilling Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/1911.11554v1) [[code]](https://github.com/daoyuan98/MDDA)
 - Multi-source Domain Adaptation for Semantic Segmentation [[NeurlPS2019]](https://arxiv.org/abs/1910.12181) [[Pytorch]](https://github.com/Luodian/MADAN)
@@ -596,6 +597,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Journal**
 - Graphical Modeling for Multi-Source Domain Adaptation [[TPAMI 2022]](https://ieeexplore.ieee.org/abstract/document/9767755) [[Pytorch]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
+- Unsupervised sentiment analysis by transferring multi-source knowledge[[Cognitive Computation]](https://arxiv.org/pdf/2105.11902.pdf)
 - A survey of multi-source domain adaptation [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253514001316)
 
 **Arxiv**
