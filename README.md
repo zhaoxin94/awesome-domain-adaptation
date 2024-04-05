@@ -709,6 +709,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 ### Domain Generalization
 
 **Conference**
+- A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation [[CVPR 2024]](https://arxiv.org/abs/2403.11310) [[Pytorch]](https://github.com/davidpengucf/DAF-DG)
 - Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation [[WACV 2024]](https://arxiv.org/abs/2312.01850) [[Pytorch]](https://github.com/JNiemeijer/DIDEX)
 - A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation [[ICCV Workshop 2023]](https://arxiv.org/abs/2308.13331) [[Pytorch]](https://github.com/ifnspaml/revt-domain-generalization)
 - Weight Averaging Improves Knowledge Distillation under Domain Shift [[ICCV Workshop 2023]](https://arxiv.org/abs/2309.11446) [[Pytorch]](https://github.com/vorobeevich/distillation-in-dg)
