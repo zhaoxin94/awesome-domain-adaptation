@@ -531,6 +531,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Universal DA
 **Conference**
+- Universal Domain Adaptation for Robust Handling of Distributional Shifts in NLP [[EMNLP 2023 Findings]](https://aclanthology.org/2023.findings-emnlp.392/)
 - Subsidiary Prototype Alignment for Universal Domain Adaptation [[NeurIPS2022]](https://openreview.net/forum?id=5kThooa07pf) [[Project Page]](https://sites.google.com/view/spa-unida)
 - OVANet: One-vs-All Network for Universal Domain Adaptation [[ICCV2021]](https://openaccess.thecvf.com/content/ICCV2021/html/Saito_OVANet_One-vs-All_Network_for_Universal_Domain_Adaptation_ICCV_2021_paper.html)
 - Active Universal Domain Adaptation [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Active_Universal_Domain_Adaptation_ICCV_2021_paper.pdf)
