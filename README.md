@@ -795,6 +795,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Unsupervised Domain Adaptation of Object Detectors: A Survey [[Arxiv 27 May 2021]](https://arxiv.org/abs/2105.13502)
   
 **Conference**
+- Improving Object Detection via Local-Global Contrastive Learning [[BMVC2024]](https://arxiv.org/abs/2410.05058) [[Project]](https://local-global-detection.github.io/)
 - Supervision Interpolation via LossMix: Generalizing Mixup for Object Detection and Beyond [[AAAI2024]](https://arxiv.org/abs/2303.10343)
 - Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection [[CVPR2023]](https://arxiv.org/abs/2203.15793) [[Project]](https://viudomain.github.io/irg-sfda-web/)
 - Towards Online Domain Adaptive Object Detection [[WACV2023]](https://arxiv.org/abs/2204.05289) [[https://github.com/Vibashan/online-da]]
@@ -1166,3 +1167,4 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 
 # Other Resources
 - [transferlearning](https://github.com/jindongwang/transferlearning)
+
