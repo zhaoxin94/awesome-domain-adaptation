@@ -82,6 +82,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 - Domain Adaptation for Visual Applications: A Comprehensive Survey  [[2017]](https://arxiv.org/abs/1702.05374)
 
 **Journal**
+- Domain Adaptation: Challenges, Methods, Datasets, and Applications [[IEEE Access 2023]](https://ieeexplore.ieee.org/abstract/document/10017290)
 - Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10128983)
 - A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [[TNNLS 2020]](https://arxiv.org/pdf/2009.00155.pdf)
 - Deep Visual Domain Adaptation: A Survey [[Neurocomputing 2018]](https://arxiv.org/abs/1802.03601v4)
