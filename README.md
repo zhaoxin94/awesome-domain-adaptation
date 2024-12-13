@@ -301,6 +301,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 ### Transformer-based Methods
 **Conference**
 - Safe Self-Refinement for Transformer-Based Domain Adaptation [[CVPR2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Safe_Self-Refinement_for_Transformer-Based_Domain_Adaptation_CVPR_2022_paper.pdf) [[Pytorch](https://github.com/tsun/SSRT)
+- TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation [[arXiv 5 Dec 2024]](https://arxiv.org/abs/2412.04073) [[Pytorch] (https://github.com/enesdoruk/TransAdapter)
 
 ### Other Methods
 **Conference**
