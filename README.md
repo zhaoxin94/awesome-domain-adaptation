@@ -280,6 +280,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 
 ### Self-training-Based Methods
+- Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training (UNITE) [[CVPR 2024]](https://arxiv.org/abs/2312.02914) [[PyTorch]](https://github.com/reddyav1/unite)
 - Cycle Self-Training for Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
