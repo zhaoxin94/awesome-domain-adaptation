@@ -869,6 +869,7 @@ for Cross-dataset 3D Object Detection [[CVPR2021]](https://openaccess.thecvf.com
 
 **Conference**
 
+- MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation [[CVPR 2023]](https://arxiv.org/abs/2212.01322) [[Pytorch]](https://github.com/lhoyer/MIC)
 - PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation [[ACM MM2023]](https://arxiv.org/abs/2211.07609) [[Pytorch]](https://github.com/chen742/PiPa)
 - Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions [[WACV 2023]](https://arxiv.org/pdf/2207.06825.pdf) [[Pytorch]](https://github.com/brdav/refign)
 - Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation [[NeruIPS 2022]](https://arxiv.org/abs/2209.07695) [[Pytorch]](https://github.com/xiaoachen98/DDB)
