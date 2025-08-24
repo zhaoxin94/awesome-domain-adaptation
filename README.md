@@ -609,7 +609,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Multi Target DA
 **Conference**
-- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://www.arxiv.org/abs/2505.24216)
+- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://ieeexplore.ieee.org/document/11084606)
 - Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627)
 - CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
 - Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2104.00808v1) [[Pytorch]](https://openaccess.thecvf.com/content/CVPR2021/papers/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.pdf)
@@ -662,7 +662,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
-- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://www.arxiv.org/abs/2505.24216)
+- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://ieeexplore.ieee.org/document/11084606)
 - Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627)
 - Domain Adaptation with Adversarial Training on Penultimate Activations [[AAAI2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26185) [[Pytorch]](https://github.com/tsun/APA)
 - Source-free Domain Adaptive Human Pose Estimation [[ICCV2023]](https://arxiv.org/abs/2308.03202)[[Pytorch]](https://github.com/davidpengucf/SFDAHPE)
