@@ -984,7 +984,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Person Re-identification
 
 **Conference**
-- Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627)
+- Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627) [[Pytorch]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 - Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
 - Group-aware Label Transfer for Domain Adaptive Person Re-identification [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)
 - Unsupervised Domain Adaptation in the Dissimilarity Space for Person Re-identification [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720154.pdf)
