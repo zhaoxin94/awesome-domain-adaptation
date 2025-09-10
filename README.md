@@ -401,6 +401,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Conference**
 -  POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models [[ICML2023]](https://arxiv.org/abs/2305.00350) [[Pytorch]](https://github.com/korawat-tanwisuth/POUF)
+-  Controllable Prompt Tuning For Balancing Group Distributional Robustness [[ICML 2024]](https://arxiv.org/abs/2403.02695) [[Pytorch]](https://github.com/VietHoang1512/CPT)
+-  Enhancing Domain Adaptation through Prompt Gradient Alignment [[NeurIPS 2024]](https://arxiv.org/abs/2406.09353) [[Pytorch]](https://github.com/VietHoang1512/PGA)
 
 ## Semi-supervised DA
 
