@@ -280,6 +280,7 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 
 ### Self-training-Based Methods
+- Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training (UNITE) [[CVPR 2024]](https://arxiv.org/abs/2312.02914) [[PyTorch]](https://github.com/reddyav1/unite)
 - Cycle Self-Training for Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)
 - Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Pytorch]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
 - Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Pytorch]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
@@ -1026,6 +1027,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Video Domain Adaptation
 
 **Conference**
+- Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training (UNITE) [[CVPR 2024]](https://arxiv.org/abs/2312.02914) [[PyTorch]](https://github.com/reddyav1/unite)
 - Overcoming Label Noise for Source-free Unsupervised Video Domain Adaptation [[ICVGIP'22]] (https://dl.acm.org/doi/abs/10.1145/3571600.3571621) [Pytorch]](https://github.com/avijit9/CleanAdapt) [[Project]] (https://avijit9.github.io/CleanAdapt/) [[Extended Version]] (https://arxiv.org/abs/2311.18572)
 - Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [[ECCV2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[Pytorch]](https://github.com/xuyu0010/ATCoN) [[Project]](https://xuyu0010.github.io/sfvda.html)
 - Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing [[NeurIPS2021]](https://arxiv.org/pdf/2110.15128.pdf)
