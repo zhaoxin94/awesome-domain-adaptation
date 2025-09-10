@@ -612,6 +612,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Multi Target DA
 **Conference**
+- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://ieeexplore.ieee.org/document/11084606) [[Pytorch]](https://github.com/PrasannaPulakurthi/SPM)
+- Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627) [[Pytorch]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 - CoNMix for Source-free Single and Multi-target Domain Adaptation [[WACV2022]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [[Pytorch]](https://github.com/vcl-iisc/CoNMix)
 - Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation [[CVPR2021]](https://arxiv.org/abs/2104.00808v1) [[Pytorch]](https://openaccess.thecvf.com/content/CVPR2021/papers/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.pdf)
 - Multi-Target Domain Adaptation with Collaborative Consistency Learning [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Isobe_Multi-Target_Domain_Adaptation_With_Collaborative_Consistency_Learning_CVPR_2021_paper.pdf)
@@ -663,6 +665,8 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 ## Source Free DA
 **Conference**
+- Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation [[ICIP2025]](https://ieeexplore.ieee.org/document/11084606) [[Pytorch]](https://github.com/PrasannaPulakurthi/SPM)
+- Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627) [[Pytorch]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 - Domain Adaptation with Adversarial Training on Penultimate Activations [[AAAI2023]](https://ojs.aaai.org/index.php/AAAI/article/view/26185) [[Pytorch]](https://github.com/tsun/APA)
 - Source-free Domain Adaptive Human Pose Estimation [[ICCV2023]](https://arxiv.org/abs/2308.03202)[[Pytorch]](https://github.com/davidpengucf/SFDAHPE)
 - RAIN: RegulArization on Input and Network for Black-Box Domain Adaptation [[IJCAI2023]](https://www.ijcai.org/proceedings/2023/458) [[Pytorch]](https://github.com/davidpengucf/RAIN)
@@ -984,6 +988,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### Person Re-identification
 
 **Conference**
+- Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [[SPIE2025]](https://doi.org/10.1117/12.3058627) [[Pytorch]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 - Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [[CVPR 2021]](https://arxiv.org/pdf/2012.00417.pdf) [[Pytorch]](https://github.com/HeliosZhao/M3L)
 - Group-aware Label Transfer for Domain Adaptive Person Re-identification [[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)
 - Unsupervised Domain Adaptation in the Dissimilarity Space for Person Re-identification [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720154.pdf)
