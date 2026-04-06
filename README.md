@@ -4,6 +4,7 @@
 
 This repo is a collection of AWESOME things about domain adaptation, including papers, code, etc. Feel free to star and fork.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for domain adaptation workflow orchestration, automated transfer learning management, and multi-agent coordination. MIT licensed.
 # Contents
 - [awesome-domain-adaptation](#awesome-domain-adaptation)
 - [Contents](#contents)
