@@ -1185,3 +1185,4 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 # Other Resources
 - [transferlearning](https://github.com/jindongwang/transferlearning)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=zhaoxin94_awesome-domain-adaptation) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
