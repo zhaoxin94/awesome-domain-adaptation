@@ -726,6 +726,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 
 **Conference**
 - Adapting to Distribution Shift by Visual Domain Prompt Generation [[ICLR2024]](https://arxiv.org/pdf/2405.02797) [[Pytorch]](https://github.com/Guliisgreat/VDPG)
+- AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [[NeurIPS2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[Pytorch]](https://github.com/MCG-NJU/AWT)
 - Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization [[AAAI2024 (Oral)]](https://arxiv.org/pdf/2312.10165)
 - A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation [[CVPR 2024]](https://arxiv.org/abs/2403.11310) [[Pytorch]](https://github.com/davidpengucf/DAF-DG)
 - Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and_CVPR_2024_paper.pdf) [[Pytorch]](https://github.com/msohaildanish/DivAlign)
@@ -765,6 +766,7 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - Domain Generalization with Adversarial Feature Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf)
 
 **Journal**
+- Efficient Test-Time Prompt Tuning for Vision-Language Models [[IJCV2026]](https://link.springer.com/article/10.1007/s11263-026-03019-3)
 - Domain Generalization for Regression [[IntellManuf2020]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 - Correlation-aware Adversarial Domain Adaptation and Generalization [[Pattern Recognition(2019)]](https://arxiv.org/abs/1911.12983v1) [[code]](https://github.com/mahfujur1/CA-DA-DG)
 
